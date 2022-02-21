@@ -1,4 +1,4 @@
-{
+﻿{
   "traits": [
     {
       "description": "Timmy enjoys the feeling of freedom that comes from being nude. he can handle clothing, but will be happier without it.",
@@ -9199,6 +9199,498 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0
+    },
+    {
+      "description": "Timmy is a biotic god.",
+      "stats": [
+        "x50 biotic energy limit",
+        "x50 biotic energy recovery rate"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Rim-Effect: Core",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "x50 biotic energy limit",
+          "x50 biotic energy recovery rate"
+        ]
+      },
+      "defName": "RE_BioticGod",
+      "name": "bioticgod",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy’s biotic capabilities are significantly dampened by past trauma, or simply the lack of predisposition.",
+      "stats": [
+        "-0.8 biotic energy recovery rate"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Rim-Effect: Core",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "-0.8 biotic energy recovery rate"
+        ]
+      },
+      "defName": "RE_BioticRecoveryOffset",
+      "name": "bioticallydeaf",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -2
+    },
+    {
+      "description": "Timmy has not yet unlocked their full biotic potential, and most likely never will.",
+      "stats": [
+        "-0.5 biotic energy recovery rate"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Rim-Effect: Core",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "-0.5 biotic energy recovery rate"
+        ]
+      },
+      "defName": "RE_BioticRecoveryOffset",
+      "name": "bioticallydull",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -1
+    },
+    {
+      "description": "Timmy’s biotic skills are greatly above average, allowing them to use the power without any fear of migraines or discomfort.",
+      "stats": [
+        "+0.5 biotic energy recovery rate"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Rim-Effect: Core",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+0.5 biotic energy recovery rate"
+        ]
+      },
+      "defName": "RE_BioticRecoveryOffset",
+      "name": "bioticallyskilled",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1
+    },
+    {
+      "description": "Timmy’s biotic skills are known far and wide across the galaxy due to their talent and rare predisposition.",
+      "stats": [
+        "+2 biotic energy recovery rate"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Rim-Effect: Core",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+2 biotic energy recovery rate"
+        ]
+      },
+      "defName": "RE_BioticRecoveryOffset",
+      "name": "bioticallytalented",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 2
+    },
+    {
+      "description": "Timmy is a Demon of the Night Winds.",
+      "stats": [
+        "x150% biotic energy limit",
+        "x200% biotic energy recovery rate",
+        "x50% biotic ability cost multiplier"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Rim-Effect: Asari and Reapers",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "x150% biotic energy limit",
+          "x200% biotic energy recovery rate",
+          "x50% biotic ability cost multiplier"
+        ]
+      },
+      "defName": "RE_ArdatYakshi",
+      "name": "ardatyakshi",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is obsessed with germs and will wash much more frequently than normal.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Dubs Bad Hygiene",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Hygienic",
+      "name": "germaphobe",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 2
+    },
+    {
+      "description": "Timmy is very hygienic and will wash more frequently.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Dubs Bad Hygiene",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Hygienic",
+      "name": "hygienic",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1
+    },
+    {
+      "description": "Timmy is very unhygienic and will wash less frequently.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Dubs Bad Hygiene",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Hygienic",
+      "name": "unhygienic",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -1
+    },
+    {
+      "description": "Timmy has very low standards of cleanliness and will only wash when they absolutely have to.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Dubs Bad Hygiene",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Hygienic",
+      "name": "slob",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -2
+    },
+    {
+      "description": "While a larger frame gives Timmy superior defense and computing power, he moves slower due to extra bulk.",
+      "stats": [
+        "Go frenzy inspiration disabled.",
+        "-1.40 move speed",
+        "+10% global learning factor"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Mass Effect - Playable Geth",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "Go frenzy inspiration disabled.",
+          "-1.40 move speed",
+          "+10% global learning factor"
+        ]
+      },
+      "defName": "GethSlowSpeed",
+      "name": "heavyplatform",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is able to withstand a lot more punishment than the average geth.",
+      "stats": [
+        "x60% incoming damage multiplier"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Mass Effect - Playable Geth",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "x60% incoming damage multiplier"
+        ]
+      },
+      "defName": "GethReinforcedStructure",
+      "name": "reinforcedstructure",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "All geth are linked to this neural network, \"sharing\" their processing power, distributing low-level processes like motor control and visual identification to free up bandwidth for higher reasoning and complex thought.",
+      "stats": [
+        "+10% global learning factor",
+        "-100% psychic sensitivity"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Mass Effect - Playable Geth",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+10% global learning factor",
+          "-100% psychic sensitivity"
+        ]
+      },
+      "defName": "GethNetworkedAI",
+      "name": "networkedai",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Enhanced leg actuators allow Timmy to move faster than average.",
+      "stats": [
+        "x105% move speed"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Mass Effect - Playable Geth",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "x105% move speed"
+        ]
+      },
+      "defName": "GethFastSpeed",
+      "name": "enhancedlegactuators",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Equipped with advanced perception systems, Timmy is able to fire more accurately.",
+      "stats": [
+        "+5.0 shooting accuracy"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Mass Effect - Playable Geth",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+5.0 shooting accuracy"
+        ]
+      },
+      "defName": "GethAimAccuracy",
+      "name": "enhancedperception",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "A type of perception system allows Timmy to simulate and dodge would-be blows before they even hit.",
+      "stats": [
+        "x15 melee dodge chance"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Mass Effect - Playable Geth",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "x15 melee dodge chance"
+        ]
+      },
+      "defName": "GethNimble",
+      "name": "evasive",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
     }
   ],
   "races": [
@@ -9744,6 +10236,160 @@
       "defName": "OG_Alien_Grot",
       "enabled": true,
       "name": "Grot",
+      "price": 3333
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$2000 Market value",
+          "+4.60 Move speed",
+          "+16.0C Minimum comfortable temperature",
+          "+26.0C Maximum comfortable temperature",
+          "+50 Leather amount",
+          "+4 Honor value",
+          "+2.0 Beauty",
+          "+2 Biotic energy limit",
+          "+1 Biotic energy recovery rate",
+          "+100.0% Biotic ability cost multiplier"
+        ],
+        "mod": "Rim-Effect: Asari and Reapers",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Elegant mono-gender race. Native to the planet Thessia, Asari are often considered the most influential and respected sentient species in the galaxy, and are known for their, diplomacy and biotic aptitude. Asari can often use biotic powers without the need of biotic amplifiers.",
+      "defName": "RE_Asari",
+      "enabled": true,
+      "name": "asari",
+      "price": 3333
+    },
+    {
+      "data": {
+        "stats": [
+          "+70.00 Mass",
+          "+$2000 Market value",
+          "+5.20 Move speed",
+          "+6.0C Minimum comfortable temperature",
+          "+36.0C Maximum comfortable temperature",
+          "+60% Flammability"
+        ],
+        "mod": "Bob's Mass Effect Turians",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "The most distinguishing feature of turians is their metallic carapace. The turians evolved this trait as a defense against the greater levels of solar radiation that penetrate their homeworld's weak magnetic field.",
+      "defName": "Alien_Turian",
+      "enabled": true,
+      "name": "Turian",
+      "price": 3333
+    },
+    {
+      "data": {
+        "stats": [
+          "+170.00 Mass",
+          "+$5000 Market value",
+          "+4.00 Move speed",
+          "+6.0C Minimum comfortable temperature",
+          "+36.0C Maximum comfortable temperature",
+          "+200 Meat amount",
+          "+150% Eating speed",
+          "+60% Flammability",
+          "+175 Carrying capacity",
+          "+150% Mining speed",
+          "+150% Smoothing speed"
+        ],
+        "mod": "Bob's Mass Effect Krogans",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "The krogan are a species of large reptilian bipeds native to the planet Tuchanka, a world known for its harsh environments, scarce resources, and overabundance of vicious predators.",
+      "defName": "Alien_Krogan",
+      "enabled": true,
+      "name": "Krogan",
+      "price": 8333
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+50% Flammability",
+          "+$2000 Market value",
+          "+5.00 Move speed",
+          "-100.0C Minimum comfortable temperature",
+          "+70.0C Maximum comfortable temperature",
+          "+0 Leather amount",
+          "+0 Meat amount",
+          "+120% Research speed",
+          "+6 Geth link max linked",
+          "+80% Immunity gain speed",
+          "+10.0% Armor - Blunt",
+          "+5.0% Armor - Sharp"
+        ],
+        "mod": "Mass Effect - Playable Geth",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "The geth are a race of networked artificial intelligences that reside beyond the Perseus Veil. The geth were created by the quarians as laborers and tools of war. When the geth became sentient and began to question their masters, the quarians attempted to exterminate them.",
+      "defName": "Geth",
+      "enabled": true,
+      "name": "Geth",
+      "price": 3333
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+50% Flammability",
+          "+$2000 Market value",
+          "+5.00 Move speed",
+          "-100.0C Minimum comfortable temperature",
+          "+70.0C Maximum comfortable temperature",
+          "+0 Leather amount",
+          "+0 Meat amount",
+          "+120% Research speed",
+          "+6 Geth link max linked",
+          "+80% Immunity gain speed",
+          "+10.0% Armor - Blunt",
+          "+5.0% Armor - Sharp",
+          "Yes Geth link repeater"
+        ],
+        "mod": "Mass Effect - Playable Geth",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "The geth are a race of networked artificial intelligences that reside beyond the Perseus Veil. The geth were created by the quarians as laborers and tools of war. When the geth became sentient and began to question their masters, the quarians attempted to exterminate them.",
+      "defName": "GethPrime",
+      "enabled": true,
+      "name": "Geth Prime",
+      "price": 3333
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+50% Flammability",
+          "+$2000 Market value",
+          "+5.00 Move speed",
+          "-100.0C Minimum comfortable temperature",
+          "+70.0C Maximum comfortable temperature",
+          "+0 Leather amount",
+          "+0 Meat amount",
+          "+120% Research speed",
+          "+6 Geth link max linked",
+          "+80% Immunity gain speed",
+          "+10.0% Armor - Blunt",
+          "+5.0% Armor - Sharp",
+          "No Geth link repeater"
+        ],
+        "mod": "Mass Effect - Playable Geth",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "The geth are a race of networked artificial intelligences that reside beyond the Perseus Veil. The geth were created by the quarians as laborers and tools of war. When the geth became sentient and began to question their masters, the quarians attempted to exterminate them.",
+      "defName": "GethColossus",
+      "enabled": true,
+      "name": "Geth Colossus",
       "price": 3333
     }
   ]

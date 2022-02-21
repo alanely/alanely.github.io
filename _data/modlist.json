@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "author": "Andreas Pardeike",
     "name": "Harmony",
@@ -387,7 +387,7 @@
     "author": "Oskar Potocki and  Kikohi",
     "name": "Vanilla Storytellers Expanded - Winston Waves",
     "steamId": "2734032569",
-    "version": "1.0.2.1"
+    "version": "1.0.2.2"
   },
   {
     "author": "Oskar Potocki,  Sarg Bjornson,  erdelf,  Roolo,  Smash Phil,  Taranchuk,  xrushha,  Kikohi and  legodude17",
@@ -706,5 +706,71 @@
     "name": "ToolkitUtils",
     "steamId": "2009500580",
     "version": "6.1.6.0"
+  },
+  {
+    "author": "Mlie",
+    "name": "Various Space Ship Chunk (Continued)",
+    "steamId": "2014616487",
+    "version": "1.3.1"
+  },
+  {
+    "author": "Vanilla Expanded Team and Co.",
+    "name": "Rim-Effect: Core",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Vanilla Expanded Team and Co.",
+    "name": "Rim-Effect: Asari and Reapers",
+    "steamId": "2651149728",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Vanilla Expanded Team and Co.",
+    "name": "Rim-Effect: N7",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Vanilla Expanded Team and Co.",
+    "name": "Rim-Effect: Extended Cut",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "AUTOMATIC and  Oracle of Thessia",
+    "name": "Rim-Effect: Themis Traders",
+    "steamId": "2488461271",
+    "version": "1.0.350.0854"
+  },
+  {
+    "author": "Bob",
+    "name": "Bob's Mass Effect Turians",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sarg",
+    "name": "Alpha Biomes",
+    "steamId": "1841354677",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Bad Hygiene",
+    "steamId": "836308268",
+    "version": "2.7.7366"
+  },
+  {
+    "author": "Bob",
+    "name": "Bob's Mass Effect Krogans",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Deathwing",
+    "name": "Mass Effect - Playable Geth",
+    "steamId": "1819987395",
+    "version": "1.0.0.0"
   }
 ]
