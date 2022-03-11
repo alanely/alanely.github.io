@@ -2769,7 +2769,7 @@
 	{
 		"abr": "protectivegear",
 		"price": 783,
-		"category": "Apparel",
+		"category": "Armor",
 		"defname": "Apparel_ProtectiveGear"
 	},
 	{
@@ -2907,7 +2907,7 @@
 	{
 		"abr": "tacticalvest",
 		"price": 717,
-		"category": "Apparel",
+		"category": "Armor",
 		"defname": "Apparel_TacVest"
 	},
 	{
@@ -5642,7 +5642,7 @@
 	},
 	{
 		"abr": "beastman",
-		"price": 2917,
+		"price": -10,
 		"category": "Animal",
 		"defname": "OG_Abhuman_Beastman"
 	},
@@ -6080,7 +6080,7 @@
 	},
 	{
 		"abr": "kinghamster",
-		"price": 750,
+		"price": -10,
 		"category": "Animals",
 		"defname": "RK_KingHamster"
 	},
@@ -9512,7 +9512,7 @@
 	},
 	{
 		"abr": "microprism",
-		"price": 2,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Crystal_PrismMini"
 	},
@@ -9974,7 +9974,7 @@
 	},
 	{
 		"abr": "ancientbed",
-		"price": 5,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientBed"
 	},
@@ -10022,7 +10022,7 @@
 	},
 	{
 		"abr": "ancientgenerator",
-		"price": 1,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientGenerator"
 	},
@@ -10082,7 +10082,7 @@
 	},
 	{
 		"abr": "ancientmechdropbeacon",
-		"price": 1,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientMechDropBeacon"
 	},
@@ -16105,100 +16105,16 @@
 		"defname": "RE_AllianceTerminal"
 	},
 	{
-		"abr": "ambassadoroutfit",
-		"price": 327,
-		"category": "Apparel",
-		"defname": "RE_Apparel_AmbassadorOutfit"
-	},
-	{
 		"abr": "archonvisor",
 		"price": 3083,
 		"category": "Headgear",
 		"defname": "RE_Apparel_ArchonVisor"
 	},
 	{
-		"abr": "asari",
-		"price": 3333,
-		"category": "Animal",
-		"defname": "RE_Asari"
-	},
-	{
-		"abr": "asariassaultrifle",
-		"price": 2292,
-		"category": "Ranged weapons",
-		"defname": "RE_Gun_AsariAssaultRifle"
-	},
-	{
-		"abr": "asarijusticararmor",
-		"price": 5750,
-		"category": "Armor",
-		"defname": "RE_Apparel_AsariJusticarArmor"
-	},
-	{
-		"abr": "asarijusticarcrown",
-		"price": 2075,
-		"category": "Headgear",
-		"defname": "RE_Apparel_AsariJusticarCrown"
-	},
-	{
-		"abr": "asarimeat",
-		"price": 1,
-		"category": "Meat",
-		"defname": "Meat_RE_Asari"
-	},
-	{
-		"abr": "asaripistol",
-		"price": 1283,
-		"category": "Ranged weapons",
-		"defname": "RE_Gun_AsariPistol"
-	},
-	{
-		"abr": "asarirespirator",
-		"price": 1250,
-		"category": "Headgear",
-		"defname": "RE_Apparel_AsariRespirator"
-	},
-	{
-		"abr": "asarishotgun",
-		"price": 2217,
-		"category": "Ranged weapons",
-		"defname": "RE_Gun_AsariShotgun"
-	},
-	{
-		"abr": "asarisniperrifle",
-		"price": 2833,
-		"category": "Ranged weapons",
-		"defname": "RE_Gun_AsariSniperRifle"
-	},
-	{
-		"abr": "asarisword",
-		"price": 1725,
-		"category": "Melee weapons",
-		"defname": "RE_MeleeWeapon_AsariSword"
-	},
-	{
-		"abr": "asariterminal",
-		"price": 2500,
-		"category": "Special",
-		"defname": "RE_AsariTerminal"
-	},
-	{
-		"abr": "asari-styledress",
-		"price": 327,
-		"category": "Apparel",
-		"defname": "RE_Apparel_AsariDress"
-	},
-	{
 		"abr": "asphaltbucket",
 		"price": 2,
 		"category": "Raw resources",
 		"defname": "AB_AsphaltBucket"
-	},
-	{
-		"abr": "bansheemeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_RE_Husk_Banshee"
 	},
 	{
 		"abr": "basin",
@@ -16232,7 +16148,7 @@
 	},
 	{
 		"abr": "biosolids",
-		"price": 0,
+		"price": -10,
 		"category": "Waste",
 		"defname": "Biosolids"
 	},
@@ -16280,7 +16196,7 @@
 	},
 	{
 		"abr": "bloodleech",
-		"price": 0,
+		"price": -10,
 		"category": "Alien raw fish",
 		"defname": "VCEF_BloodLeech"
 	},
@@ -16292,7 +16208,7 @@
 	},
 	{
 		"abr": "borealsardine",
-		"price": 0,
+		"price": -10,
 		"category": "Alien raw fish",
 		"defname": "VCEF_BorealSardine"
 	},
@@ -16309,22 +16225,10 @@
 		"defname": "AB_RawBrownBarrelCactus"
 	},
 	{
-		"abr": "brutemeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_RE_Husk_Brute"
-	},
-	{
 		"abr": "bumbledronejelly",
 		"price": 1,
 		"category": "Vegetarian",
 		"defname": "AB_BumbledroneFood"
-	},
-	{
-		"abr": "cannibalmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_RE_Husk_Cannibal"
 	},
 	{
 		"abr": "capacitorhelmet",
@@ -16369,18 +16273,6 @@
 		"defname": "RE_MealColonial"
 	},
 	{
-		"abr": "colossusmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_RE_Husk_Colossus"
-	},
-	{
-		"abr": "commandoarmor",
-		"price": 3617,
-		"category": "Armor",
-		"defname": "RE_Apparel_AsariCommandoArmor"
-	},
-	{
 		"abr": "cordaxresin",
 		"price": 17,
 		"category": "Raw resources",
@@ -16423,12 +16315,6 @@
 		"defname": "AB_CrystalWood"
 	},
 	{
-		"abr": "dancerbodysuit",
-		"price": 169,
-		"category": "Apparel",
-		"defname": "RE_Apparel_DancerBodysuit"
-	},
-	{
 		"abr": "disruptorrounds",
 		"price": 2000,
 		"category": "Utility",
@@ -16442,7 +16328,7 @@
 	},
 	{
 		"abr": "duskysprat",
-		"price": 0,
+		"price": -10,
 		"category": "Alien raw fish",
 		"defname": "VCEF_DuskySprat"
 	},
@@ -16532,7 +16418,7 @@
 	},
 	{
 		"abr": "frostleaf",
-		"price": 0,
+		"price": -10,
 		"category": "Raw resources",
 		"defname": "AB_RawFrostLeaf"
 	},
@@ -16556,7 +16442,7 @@
 	},
 	{
 		"abr": "geth",
-		"price": 3333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Geth"
 	},
@@ -16574,7 +16460,7 @@
 	},
 	{
 		"abr": "gethcolossus",
-		"price": 3333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "GethColossus"
 	},
@@ -16628,7 +16514,7 @@
 	},
 	{
 		"abr": "gethprime",
-		"price": 3333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "GethPrime"
 	},
@@ -16675,12 +16561,6 @@
 		"defname": "VCEF_GiantPolarPrawn"
 	},
 	{
-		"abr": "goliathmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_RE_Husk_Goliath"
-	},
-	{
 		"abr": "habdaklongfin",
 		"price": 9,
 		"category": "Alien raw fish",
@@ -16715,12 +16595,6 @@
 		"price": 245,
 		"category": "Hygiene",
 		"defname": "HotWaterTank"
-	},
-	{
-		"abr": "huskmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_RE_Husk_Husk"
 	},
 	{
 		"abr": "hygieneenhancer",
@@ -16772,7 +16646,7 @@
 	},
 	{
 		"abr": "krogan",
-		"price": 8333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Alien_Krogan"
 	},
@@ -16843,28 +16717,10 @@
 		"defname": "Gun_M98Widow"
 	},
 	{
-		"abr": "maraudermeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_RE_Husk_Marauder"
-	},
-	{
 		"abr": "massacceleratorturret",
 		"price": 1100,
 		"category": "Security",
 		"defname": "RE_Turret_MassAccelerator"
-	},
-	{
-		"abr": "matriarchcrown",
-		"price": 1300,
-		"category": "Headgear",
-		"defname": "RE_Apparel_MatriarchCrown"
-	},
-	{
-		"abr": "matriarchdress",
-		"price": 3742,
-		"category": "Apparel",
-		"defname": "RE_Apparel_MatriarchDress"
 	},
 	{
 		"abr": "medi-gel",
@@ -17264,7 +17120,7 @@
 	},
 	{
 		"abr": "propanebag",
-		"price": 0,
+		"price": -10,
 		"category": "Alien raw fish",
 		"defname": "VCEF_PropaneBag"
 	},
@@ -17321,12 +17177,6 @@
 		"price": 85,
 		"category": "Hygiene",
 		"defname": "RadiatorStuffed"
-	},
-	{
-		"abr": "ravagermeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_RE_Husk_Ravager"
 	},
 	{
 		"abr": "rawrimenodules",
@@ -17497,12 +17347,6 @@
 		"defname": "AB_RawSugarFamewort"
 	},
 	{
-		"abr": "swarmermeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_RE_Husk_Swarmer"
-	},
-	{
 		"abr": "tarshell",
 		"price": 92,
 		"category": "Mortar shells",
@@ -17522,7 +17366,7 @@
 	},
 	{
 		"abr": "tentacularfruit",
-		"price": 0,
+		"price": -10,
 		"category": "Vegetarian",
 		"defname": "AB_RawTentacularFruit"
 	},
@@ -17552,7 +17396,7 @@
 	},
 	{
 		"abr": "turian",
-		"price": 3333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Alien_Turian"
 	},
@@ -17609,7 +17453,4435 @@
 		"price": 6158,
 		"category": "Production",
 		"defname": "RE_Mechanoids_YMIRBase"
+	},
+	{
+		"abr": "anti-materialrifle",
+		"price": 2333,
+		"category": "Ranged weapons",
+		"defname": "WG_Gun_AMR"
+	},
+	{
+		"abr": "autopistol",
+		"price": 2333,
+		"category": "Ranged weapons",
+		"defname": "WG_Gun_AutoPistol"
+	},
+	{
+		"abr": "batteringram",
+		"price": 1667,
+		"category": "Ranged weapons",
+		"defname": "WG_Melee_BatteringRam"
+	},
+	{
+		"abr": "flamethrower",
+		"price": 2333,
+		"category": "Ranged weapons",
+		"defname": "WG_Gun_Flamer"
+	},
+	{
+		"abr": "machete",
+		"price": 1667,
+		"category": "Ranged weapons",
+		"defname": "WG_Melee_Machete"
+	},
+	{
+		"abr": "minigun",
+		"price": 2333,
+		"category": "Ranged weapons",
+		"defname": "WG_Gun_Minigun"
+	},
+	{
+		"abr": "wg.am(inactive)",
+		"price": 3358,
+		"category": "Security",
+		"defname": "WalkerGear_AntiMaterial_Building"
+	},
+	{
+		"abr": "wg.ar(inactive)",
+		"price": 1567,
+		"category": "Security",
+		"defname": "WalkerGear_ArmourRecon_Building"
+	},
+	{
+		"abr": "wg.at(inactive)",
+		"price": 3692,
+		"category": "Security",
+		"defname": "WalkerGear_AntiTank_Building"
+	},
+	{
+		"abr": "wg.fs(inactive)",
+		"price": 3808,
+		"category": "Security",
+		"defname": "WalkerGear_FireSupport_Building"
+	},
+	{
+		"abr": "wg.ft(inactive)",
+		"price": 3358,
+		"category": "Security",
+		"defname": "WalkerGear_FlameThrower_Building"
+	},
+	{
+		"abr": "wg.ss(inactive)",
+		"price": 2275,
+		"category": "Security",
+		"defname": "WalkerGear_SeigeSupport_Building"
+	},
+	{
+		"abr": "wg.uc(inactive)",
+		"price": 2650,
+		"category": "Security",
+		"defname": "WalkerGear_UrbanCombat_Building"
+	},
+	{
+		"abr": "40mmcannon",
+		"price": 1333,
+		"category": "Ranged weapons",
+		"defname": "Mech40MMCannon"
+	},
+	{
+		"abr": "adamantseed",
+		"price": 17,
+		"category": "Vegetarian",
+		"defname": "AdamantSeed"
+	},
+	{
+		"abr": "adamantite",
+		"price": 15,
+		"category": "Raw resources",
+		"defname": "Adamantite"
+	},
+	{
+		"abr": "advandroidassemblykit",
+		"price": 3667,
+		"category": "Manufactured",
+		"defname": "AndroidT2Kit"
+	},
+	{
+		"abr": "advancedbatterypack",
+		"price": 2833,
+		"category": "Android",
+		"defname": "NanowireBattery"
+	},
+	{
+		"abr": "advancedbio-reactor",
+		"price": 2833,
+		"category": "Android",
+		"defname": "HighPowerTransformer"
+	},
+	{
+		"abr": "advancedcoolantpump",
+		"price": 2500,
+		"category": "Android",
+		"defname": "AdvancedCoolantInjector"
+	},
+	{
+		"abr": "advancedcounterweight",
+		"price": 2500,
+		"category": "Android",
+		"defname": "AdvRearCounterweight"
+	},
+	{
+		"abr": "advancedhearingsensor",
+		"price": 2000,
+		"category": "Android",
+		"defname": "AdvHearingS"
+	},
+	{
+		"abr": "advancedheatsink",
+		"price": 2500,
+		"category": "Android",
+		"defname": "MultiLayerHeatsink"
+	},
+	{
+		"abr": "advancedlightsensor",
+		"price": 3000,
+		"category": "Android",
+		"defname": "MultiSpectrumEye"
+	},
+	{
+		"abr": "advancedmechanitestorage",
+		"price": 2500,
+		"category": "Android",
+		"defname": "NaniteStorageDevice"
+	},
+	{
+		"abr": "advancednanokit",
+		"price": 125,
+		"category": "Medicine",
+		"defname": "ATPP_AndroidNanokitAdvanced"
+	},
+	{
+		"abr": "advancedpowerconverter",
+		"price": 2833,
+		"category": "Android",
+		"defname": "HighPowerConverter"
+	},
+	{
+		"abr": "advancedsmellingsensor",
+		"price": 1333,
+		"category": "Android",
+		"defname": "SmellingAdvS"
+	},
+	{
+		"abr": "agriculturalimplant",
+		"price": 3333,
+		"category": "Android",
+		"defname": "FarmingMindImplant"
+	},
+	{
+		"abr": "akanesasu",
+		"price": 1458,
+		"category": "Melee weapons",
+		"defname": "MH_Greatsword_Mizutsune"
+	},
+	{
+		"abr": "androidassemblykit",
+		"price": 2250,
+		"category": "Items",
+		"defname": "AndroidT1Kit"
+	},
+	{
+		"abr": "androidchargingstation",
+		"price": 1375,
+		"category": "Misc",
+		"defname": "ATPP_ReloadStation"
+	},
+	{
+		"abr": "androidimplantsworkbench",
+		"price": 675,
+		"category": "Production",
+		"defname": "AndroidOtherStuffTable"
+	},
+	{
+		"abr": "androidpartsworkbench",
+		"price": 417,
+		"category": "Production",
+		"defname": "AndroidPartsTable"
+	},
+	{
+		"abr": "androidpod",
+		"price": 282,
+		"category": "Furniture",
+		"defname": "ATPP_AndroidPod"
+	},
+	{
+		"abr": "androidupgradestation",
+		"price": 1142,
+		"category": "Furniture",
+		"defname": "AndroidOperationBed"
+	},
+	{
+		"abr": "anjabuster",
+		"price": 1608,
+		"category": "Ranged weapons",
+		"defname": "MH_Lightbowgun_Anjanath"
+	},
+	{
+		"abr": "anjanath",
+		"price": 13667,
+		"category": "Animals",
+		"defname": "Anjanath"
+	},
+	{
+		"abr": "anjanathegg",
+		"price": 708,
+		"category": "Eggs (fert.)",
+		"defname": "EggAnjanathFertilized"
+	},
+	{
+		"abr": "anjanathleather",
+		"price": 17,
+		"category": "Monster leathers",
+		"defname": "Leather_Anjanath"
+	},
+	{
+		"abr": "anjanathmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Anjanath"
+	},
+	{
+		"abr": "anti-mechrifle",
+		"price": 1500,
+		"category": "Ranged weapons",
+		"defname": "AntiMechRifle"
+	},
+	{
+		"abr": "apceros",
+		"price": 500,
+		"category": "Animals",
+		"defname": "Apceros"
+	},
+	{
+		"abr": "apcerosegg",
+		"price": 38,
+		"category": "Eggs (fert.)",
+		"defname": "EggApcerosFertilized"
+	},
+	{
+		"abr": "apcerosmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Apceros"
+	},
+	{
+		"abr": "aptonoth",
+		"price": 500,
+		"category": "Animals",
+		"defname": "Aptonoth"
+	},
+	{
+		"abr": "aptonothegg",
+		"price": 38,
+		"category": "Eggs (fert.)",
+		"defname": "EggAptonothFertilized"
+	},
+	{
+		"abr": "aptonothleather",
+		"price": 4,
+		"category": "Monster leathers",
+		"defname": "Leather_Aptonoth"
+	},
+	{
+		"abr": "aptonothmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Aptonoth"
+	},
+	{
+		"abr": "archotechbatterypack",
+		"price": 5333,
+		"category": "Android",
+		"defname": "SecretBatteryPack"
+	},
+	{
+		"abr": "archotechbio-reactor",
+		"price": 6667,
+		"category": "Android",
+		"defname": "MolecularDecomposer"
+	},
+	{
+		"abr": "archotechcoolantpump",
+		"price": 6667,
+		"category": "Android",
+		"defname": "SecretCoolantPump"
+	},
+	{
+		"abr": "archotechhearingsensor",
+		"price": 3667,
+		"category": "Android",
+		"defname": "ArchHearingS"
+	},
+	{
+		"abr": "archotechheatsink",
+		"price": 7500,
+		"category": "Android",
+		"defname": "SecretHeatsink"
+	},
+	{
+		"abr": "archotechlightsensor",
+		"price": 7500,
+		"category": "Android",
+		"defname": "MDEye"
+	},
+	{
+		"abr": "archotechmechanitestorage",
+		"price": 7500,
+		"category": "Android",
+		"defname": "ArchotechNanites"
+	},
+	{
+		"abr": "archotechpowerconverter",
+		"price": 5833,
+		"category": "Android",
+		"defname": "QuantumConverter"
+	},
+	{
+		"abr": "archotechsmellingsensor",
+		"price": 3000,
+		"category": "Android",
+		"defname": "ArchSmellingS"
+	},
+	{
+		"abr": "arcticrazorbill",
+		"price": 433,
+		"category": "Animals",
+		"defname": "ZDuck_ArcticRazorbill"
+	},
+	{
+		"abr": "armguards",
+		"price": 293,
+		"category": "Armor",
+		"defname": "Apparel_DaemArmGuard"
+	},
+	{
+		"abr": "armorskin",
+		"price": 2167,
+		"category": "Drugs",
+		"defname": "MHArmorskin"
+	},
+	{
+		"abr": "armouredcorset",
+		"price": 542,
+		"category": "Armor",
+		"defname": "Apparel_DaemArCorset"
+	},
+	{
+		"abr": "armouredstraps",
+		"price": 483,
+		"category": "Armor",
+		"defname": "Apparel_DaemStraps"
+	},
+	{
+		"abr": "artificialbraint1",
+		"price": 250,
+		"category": "Android",
+		"defname": "ATPP_T1ArtificialBrain"
+	},
+	{
+		"abr": "artificialbraint2",
+		"price": 417,
+		"category": "Android",
+		"defname": "ATPP_T2ArtificialBrain"
+	},
+	{
+		"abr": "artificialbraint3",
+		"price": 833,
+		"category": "Android",
+		"defname": "ATPP_T3ArtificialBrain"
+	},
+	{
+		"abr": "artificialbraint4",
+		"price": 1667,
+		"category": "Android",
+		"defname": "ATPP_T4ArtificialBrain"
+	},
+	{
+		"abr": "artificialbreasts",
+		"price": 433,
+		"category": "Prosthetic",
+		"defname": "breastImplant"
+	},
+	{
+		"abr": "asari",
+		"price": 3333,
+		"category": "Animal",
+		"defname": "Alien_Asari"
+	},
+	{
+		"abr": "axelionblade",
+		"price": 1367,
+		"category": "Melee weapons",
+		"defname": "MH_Chargeblade_Rathalos"
+	},
+	{
+		"abr": "axelionblade",
+		"price": 1133,
+		"category": "Melee weapons",
+		"defname": "MH_ChargebladeAxe_Rathalos"
+	},
+	{
+		"abr": "ballistaturret",
+		"price": 442,
+		"category": "Security",
+		"defname": "Turret_MHBallista"
+	},
+	{
+		"abr": "barroth",
+		"price": 10000,
+		"category": "Animals",
+		"defname": "Barroth"
+	},
+	{
+		"abr": "barrothegg",
+		"price": 717,
+		"category": "Eggs (fert.)",
+		"defname": "EggBarrothFertilized"
+	},
+	{
+		"abr": "barrothgrinder",
+		"price": 2125,
+		"category": "Melee weapons",
+		"defname": "MH_Switchaxe_Barroth"
+	},
+	{
+		"abr": "barrothgrinder",
+		"price": 1133,
+		"category": "Melee weapons",
+		"defname": "MH_Switchsword_Barroth"
+	},
+	{
+		"abr": "barrothlanceshield",
+		"price": 942,
+		"category": "Shields",
+		"defname": "MH_Shield_BarrothL"
+	},
+	{
+		"abr": "barrothleather",
+		"price": 17,
+		"category": "Monster leathers",
+		"defname": "Leather_Barroth"
+	},
+	{
+		"abr": "barrothmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Barroth"
+	},
+	{
+		"abr": "barrothstinger",
+		"price": 1942,
+		"category": "Melee weapons",
+		"defname": "MH_Lance_Barroth"
+	},
+	{
+		"abr": "basiccounterweight",
+		"price": 1167,
+		"category": "Android",
+		"defname": "BasicRearCounterweight"
+	},
+	{
+		"abr": "basiclaborchip",
+		"price": 2000,
+		"category": "Android",
+		"defname": "BasicLaborMindImplant"
+	},
+	{
+		"abr": "basicnanokit",
+		"price": 17,
+		"category": "Medicine",
+		"defname": "ATPP_AndroidNanokitBasic"
+	},
+	{
+		"abr": "basicreplacementarm",
+		"price": 833,
+		"category": "Android",
+		"defname": "BasicReplacementArm"
+	},
+	{
+		"abr": "basicreplacementleg",
+		"price": 833,
+		"category": "Android",
+		"defname": "BasicReplacementLeg"
+	},
+	{
+		"abr": "bazelbuster",
+		"price": 2300,
+		"category": "Ranged weapons",
+		"defname": "MH_Gunlance_Bazel"
+	},
+	{
+		"abr": "bazeltyphoon",
+		"price": 2025,
+		"category": "Ranged weapons",
+		"defname": "MH_Lightbowgun_Bazel"
+	},
+	{
+		"abr": "bazelgeuse",
+		"price": 26500,
+		"category": "Animals",
+		"defname": "Bazelgeuse"
+	},
+	{
+		"abr": "bazelgeuseegg",
+		"price": 1333,
+		"category": "Eggs (fert.)",
+		"defname": "EggBazelFertilized"
+	},
+	{
+		"abr": "bazelgeusegunlanceshield",
+		"price": 1442,
+		"category": "Shields",
+		"defname": "MH_Shield_BazelGL"
+	},
+	{
+		"abr": "bazelgeuseleather",
+		"price": 26,
+		"category": "Monster leathers",
+		"defname": "Leather_Bazel"
+	},
+	{
+		"abr": "bazelgeusemeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Bazelgeuse"
+	},
+	{
+		"abr": "bbqspit",
+		"price": 65,
+		"category": "Production",
+		"defname": "BBQSpit"
+	},
+	{
+		"abr": "berserkersword",
+		"price": 2208,
+		"category": "Melee weapons",
+		"defname": "MH_Greatsword_Deviljho"
+	},
+	{
+		"abr": "bloominghammer",
+		"price": 1200,
+		"category": "Melee weapons",
+		"defname": "MH_Hammer_Pukei"
+	},
+	{
+		"abr": "bluemushroom",
+		"price": 8,
+		"category": "Vegetarian",
+		"defname": "BlueMushroom"
+	},
+	{
+		"abr": "blueprintsimplant",
+		"price": 2667,
+		"category": "Android",
+		"defname": "BuilderMindImplant"
+	},
+	{
+		"abr": "bonebludgeon",
+		"price": 750,
+		"category": "Melee weapons",
+		"defname": "MH_Hammer_Bone"
+	},
+	{
+		"abr": "bow",
+		"price": 633,
+		"category": "Ranged weapons",
+		"defname": "MH_Bow"
+	},
+	{
+		"abr": "buffledown",
+		"price": 4,
+		"category": "Wools",
+		"defname": "ZDuck_Buffledown"
+	},
+	{
+		"abr": "buffleheadegg(fert.)",
+		"price": 35,
+		"category": "Eggs (fert.)",
+		"defname": "ZDuck_EggBuffleheadFertilized"
+	},
+	{
+		"abr": "bullfango",
+		"price": 333,
+		"category": "Animals",
+		"defname": "Bullfango"
+	},
+	{
+		"abr": "cataclysm'strigger",
+		"price": 2442,
+		"category": "Ranged weapons",
+		"defname": "MH_Lightbowgun_Nergi"
+	},
+	{
+		"abr": "catalyst",
+		"price": 833,
+		"category": "Items",
+		"defname": "MHCatalyst"
+	},
+	{
+		"abr": "cayuga",
+		"price": 150,
+		"category": "Animals",
+		"defname": "ZDuck_Cayuga"
+	},
+	{
+		"abr": "cayugaegg(fert.)",
+		"price": 18,
+		"category": "Eggs (fert.)",
+		"defname": "ZDuck_EggCayugaFertilized"
+	},
+	{
+		"abr": "cayugaegg(unfert.)",
+		"price": 18,
+		"category": "Eggs (unfert.)",
+		"defname": "ZDuck_EggCayugaUnfertilized"
+	},
+	{
+		"abr": "chaiselongue",
+		"price": 178,
+		"category": "Furniture",
+		"defname": "ChaiseLongue"
+	},
+	{
+		"abr": "chargeblade",
+		"price": 942,
+		"category": "Melee weapons",
+		"defname": "MH_Chargeblade"
+	},
+	{
+		"abr": "chargeblade",
+		"price": 1133,
+		"category": "Melee weapons",
+		"defname": "MH_ChargebladeAxe"
+	},
+	{
+		"abr": "chargebladeshield",
+		"price": 358,
+		"category": "Shields",
+		"defname": "MH_Shield_BaseCB"
+	},
+	{
+		"abr": "charismaimplant",
+		"price": 1667,
+		"category": "Android",
+		"defname": "CharismaMindImplant"
+	},
+	{
+		"abr": "chemicalcapsule",
+		"price": 17,
+		"category": "Manufactured",
+		"defname": "ChemicalEgg"
+	},
+	{
+		"abr": "chemicalprocessingunit",
+		"price": 1333,
+		"category": "Animal",
+		"defname": "AndroidChicken"
+	},
+	{
+		"abr": "chickendecapitator",
+		"price": 1292,
+		"category": "Melee weapons",
+		"defname": "MH_Greatsword_KutKu"
+	},
+	{
+		"abr": "chillshroom",
+		"price": 8,
+		"category": "Vegetarian",
+		"defname": "Chillshroom"
+	},
+	{
+		"abr": "chromemachina",
+		"price": 1317,
+		"category": "Melee weapons",
+		"defname": "MH_Switchaxe_TierThree"
+	},
+	{
+		"abr": "cocytus",
+		"price": 1367,
+		"category": "Melee weapons",
+		"defname": "MH_Hammer_Legia"
+	},
+	{
+		"abr": "compositeframeplating",
+		"price": 1667,
+		"category": "Android",
+		"defname": "CompositePlating"
+	},
+	{
+		"abr": "cookedmeat",
+		"price": 25,
+		"category": "Meals",
+		"defname": "MealCookedMeat"
+	},
+	{
+		"abr": "cooldrink",
+		"price": 500,
+		"category": "Drugs",
+		"defname": "MHCoolDrink"
+	},
+	{
+		"abr": "corset",
+		"price": 263,
+		"category": "Armor",
+		"defname": "Apparel_DaemCorset"
+	},
+	{
+		"abr": "crudebatterypack",
+		"price": 667,
+		"category": "Android",
+		"defname": "SmallBatteryPack"
+	},
+	{
+		"abr": "crudebio-reactor",
+		"price": 667,
+		"category": "Android",
+		"defname": "LowPowerTransformer"
+	},
+	{
+		"abr": "crudechestbinder",
+		"price": 143,
+		"category": "Apparel",
+		"defname": "ChestBinder"
+	},
+	{
+		"abr": "crudecoolantpump",
+		"price": 667,
+		"category": "Android",
+		"defname": "FlimsyCoolantPump"
+	},
+	{
+		"abr": "crudehearingsensor",
+		"price": 500,
+		"category": "Android",
+		"defname": "CrudeHearingS"
+	},
+	{
+		"abr": "crudeheatsink",
+		"price": 500,
+		"category": "Android",
+		"defname": "CrudeHeatsink"
+	},
+	{
+		"abr": "crudejaw",
+		"price": 1167,
+		"category": "Android",
+		"defname": "CrudeJawAndroid"
+	},
+	{
+		"abr": "crudelightsensor",
+		"price": 333,
+		"category": "Android",
+		"defname": "LightReceivingDiode"
+	},
+	{
+		"abr": "crudemechanitestorage",
+		"price": 667,
+		"category": "Android",
+		"defname": "TubeSealantTank"
+	},
+	{
+		"abr": "crudepowerconverter",
+		"price": 500,
+		"category": "Android",
+		"defname": "BasicDCConverter"
+	},
+	{
+		"abr": "crudesmellingsensor",
+		"price": 333,
+		"category": "Android",
+		"defname": "CrudeSmellingS"
+	},
+	{
+		"abr": "cuisineimplant",
+		"price": 2667,
+		"category": "Android",
+		"defname": "CookingMindImplant"
+	},
+	{
+		"abr": "cultistdress",
+		"price": 298,
+		"category": "Apparel",
+		"defname": "Apparel_StrapDress"
+	},
+	{
+		"abr": "cultistrobe",
+		"price": 292,
+		"category": "Apparel",
+		"defname": "Apparel_SlaaneshiRobe"
+	},
+	{
+		"abr": "cyberneticarm",
+		"price": 10000,
+		"category": "Android",
+		"defname": "CyberReplacementArm"
+	},
+	{
+		"abr": "cyberneticjaw",
+		"price": 3333,
+		"category": "Android",
+		"defname": "AdvJawAndroid"
+	},
+	{
+		"abr": "cyberneticleg",
+		"price": 9167,
+		"category": "Android",
+		"defname": "CyberReplacementLeg"
+	},
+	{
+		"abr": "daemonette",
+		"price": 3333,
+		"category": "Animal",
+		"defname": "Alien_Daemonette"
+	},
+	{
+		"abr": "daemonettebikini",
+		"price": 106,
+		"category": "Apparel",
+		"defname": "Apparel_DaemBikini"
+	},
+	{
+		"abr": "daemonettebladearm",
+		"price": 700,
+		"category": "Prosthetic",
+		"defname": "DaemonetteBladeArm"
+	},
+	{
+		"abr": "daemonetteclaw",
+		"price": 250,
+		"category": "Prosthetic",
+		"defname": "DaemonetteClaw"
+	},
+	{
+		"abr": "daemonetteclawarm",
+		"price": 467,
+		"category": "Prosthetic",
+		"defname": "DaemonetteClawArm"
+	},
+	{
+		"abr": "daemonettehide",
+		"price": 8,
+		"category": "Leathers",
+		"defname": "Leather_Daemonette"
+	},
+	{
+		"abr": "daemonettemeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Alien_Daemonette"
+	},
+	{
+		"abr": "daemonettesteelclaw",
+		"price": 250,
+		"category": "Prosthetic",
+		"defname": "DaemonetteSteelClaw"
+	},
+	{
+		"abr": "daemonicearring",
+		"price": 575,
+		"category": "Headgear",
+		"defname": "Apparel_DaemEarring"
+	},
+	{
+		"abr": "daora'ssagittarii",
+		"price": 1917,
+		"category": "Ranged weapons",
+		"defname": "MH_Bow_Kushala"
+	},
+	{
+		"abr": "darkdevourer",
+		"price": 2133,
+		"category": "Ranged weapons",
+		"defname": "MH_Heavybowgun_Deviljho"
+	},
+	{
+		"abr": "dashextract",
+		"price": 83,
+		"category": "Items",
+		"defname": "DashExtract"
+	},
+	{
+		"abr": "dashjuice",
+		"price": 417,
+		"category": "Drugs",
+		"defname": "DashJuice"
+	},
+	{
+		"abr": "daturablaster",
+		"price": 1217,
+		"category": "Ranged weapons",
+		"defname": "MH_Heavybowgun_Pukei"
+	},
+	{
+		"abr": "daturapike",
+		"price": 1525,
+		"category": "Melee weapons",
+		"defname": "MH_Lance_Pukei"
+	},
+	{
+		"abr": "deathcloid",
+		"price": 1667,
+		"category": "Animal",
+		"defname": "SSD_DeathclawRace"
+	},
+	{
+		"abr": "deathcloidegg(fert.)",
+		"price": 83,
+		"category": "Eggs (fert.)",
+		"defname": "SSD_DeathclawEggFertilized"
+	},
+	{
+		"abr": "deathcloidegg(unfert.)",
+		"price": 83,
+		"category": "Eggs (unfert.)",
+		"defname": "SSD_DeathclawEggUnfertilized"
+	},
+	{
+		"abr": "deathcloidleather",
+		"price": 8,
+		"category": "Leathers",
+		"defname": "SSD_DeathclawLeather"
+	},
+	{
+		"abr": "deathcloidmeat",
+		"price": 1,
+		"category": "Meat",
+		"defname": "Meat_SSD_DeathclawRace"
+	},
+	{
+		"abr": "debuglauncher",
+		"price": 567,
+		"category": "Ranged weapons",
+		"defname": "Gun_MHDebugLauncher"
+	},
+	{
+		"abr": "demondrug",
+		"price": 2167,
+		"category": "Drugs",
+		"defname": "MHDemondrug"
+	},
+	{
+		"abr": "desertrazorbill",
+		"price": 367,
+		"category": "Animals",
+		"defname": "ZDuck_DesertRazorbill"
+	},
+	{
+		"abr": "deviljho",
+		"price": 21500,
+		"category": "Animals",
+		"defname": "Deviljho"
+	},
+	{
+		"abr": "deviljhoegg",
+		"price": 3000,
+		"category": "Eggs (fert.)",
+		"defname": "EggDeviljhoFertilized"
+	},
+	{
+		"abr": "deviljholeather",
+		"price": 27,
+		"category": "Monster leathers",
+		"defname": "Leather_Deviljho"
+	},
+	{
+		"abr": "deviljhomeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Deviljho"
+	},
+	{
+		"abr": "diablos",
+		"price": 29833,
+		"category": "Animals",
+		"defname": "Diablos"
+	},
+	{
+		"abr": "diabloschargebladeshield",
+		"price": 958,
+		"category": "Shields",
+		"defname": "MH_Shield_DiablosCB"
+	},
+	{
+		"abr": "diablosegg",
+		"price": 1000,
+		"category": "Eggs (fert.)",
+		"defname": "EggDiablosFertilized"
+	},
+	{
+		"abr": "diabloshatchets",
+		"price": 1533,
+		"category": "Melee weapons",
+		"defname": "MH_Dualblades_Diablos"
+	},
+	{
+		"abr": "diablosleather",
+		"price": 17,
+		"category": "Monster leathers",
+		"defname": "Leather_Diablos"
+	},
+	{
+		"abr": "diablosmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Diablos"
+	},
+	{
+		"abr": "diablosshatterer",
+		"price": 1617,
+		"category": "Melee weapons",
+		"defname": "MH_Hammer_Diablos"
+	},
+	{
+		"abr": "diablostyrannis",
+		"price": 1633,
+		"category": "Melee weapons",
+		"defname": "MH_Chargeblade_Diablos"
+	},
+	{
+		"abr": "diablostyrannis",
+		"price": 1133,
+		"category": "Melee weapons",
+		"defname": "MH_ChargebladeAxe_Diablos"
+	},
+	{
+		"abr": "dodogama",
+		"price": 8500,
+		"category": "Animals",
+		"defname": "Dodogama"
+	},
+	{
+		"abr": "dodogamaegg",
+		"price": 1000,
+		"category": "Eggs (fert.)",
+		"defname": "EggDodogamaFertilized"
+	},
+	{
+		"abr": "dodogamaleather",
+		"price": 11,
+		"category": "Monster leathers",
+		"defname": "Leather_Dodogama"
+	},
+	{
+		"abr": "dodogamameat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Dodogama"
+	},
+	{
+		"abr": "dragonmaidenaxe",
+		"price": 1792,
+		"category": "Melee weapons",
+		"defname": "MH_Switchaxe_Rathian"
+	},
+	{
+		"abr": "dragonmaidenaxe",
+		"price": 1133,
+		"category": "Melee weapons",
+		"defname": "MH_Switchsword_Rathian"
+	},
+	{
+		"abr": "dualblades",
+		"price": 842,
+		"category": "Melee weapons",
+		"defname": "MH_Dualblades"
+	},
+	{
+		"abr": "dualdestroyers",
+		"price": 1200,
+		"category": "Melee weapons",
+		"defname": "MH_Dualblades_Tzitzi"
+	},
+	{
+		"abr": "ducky",
+		"price": 67,
+		"category": "Animals",
+		"defname": "ZDuck_Ducky"
+	},
+	{
+		"abr": "duckyegg(fert.)",
+		"price": 12,
+		"category": "Eggs (fert.)",
+		"defname": "ZDuck_EggDuckyFertilized"
+	},
+	{
+		"abr": "duckyegg(unfert.)",
+		"price": 12,
+		"category": "Eggs (unfert.)",
+		"defname": "ZDuck_EggDuckyUnfertilized"
+	},
+	{
+		"abr": "eiderpintail",
+		"price": 750,
+		"category": "Animals",
+		"defname": "ZDuck_EiderPintail"
+	},
+	{
+		"abr": "eiderpintailegg(fert.)",
+		"price": 55,
+		"category": "Eggs (fert.)",
+		"defname": "ZDuck_EggEiderPintailFertilized"
+	},
+	{
+		"abr": "eiderdown",
+		"price": 7,
+		"category": "Wools",
+		"defname": "ZDuck_Eiderdown"
+	},
+	{
+		"abr": "engineeringimplant",
+		"price": 3333,
+		"category": "Android",
+		"defname": "MechanicMindImplant"
+	},
+	{
+		"abr": "eradicationvanguard",
+		"price": 1575,
+		"category": "Melee weapons",
+		"defname": "MH_SwordandShield_Nergi"
+	},
+	{
+		"abr": "estrogenpill",
+		"price": 30,
+		"category": "Drugs",
+		"defname": "Estrogen"
+	},
+	{
+		"abr": "evolvingaiupgrade",
+		"price": 5833,
+		"category": "Android",
+		"defname": "EvolvingImplant"
+	},
+	{
+		"abr": "felyne",
+		"price": 2500,
+		"category": "Animals",
+		"defname": "HousekeeperCat"
+	},
+	{
+		"abr": "felynefur",
+		"price": 23,
+		"category": "Leathers",
+		"defname": "Leather_HKCat"
+	},
+	{
+		"abr": "felynewool",
+		"price": 12,
+		"category": "Wools",
+		"defname": "Wool_HKCat"
+	},
+	{
+		"abr": "fiend",
+		"price": 2500,
+		"category": "Animal",
+		"defname": "Fiend"
+	},
+	{
+		"abr": "fiend",
+		"price": 2500,
+		"category": "Animal",
+		"defname": "FiendCovBase"
+	},
+	{
+		"abr": "fiendleather",
+		"price": 17,
+		"category": "Leathers",
+		"defname": "Leather_Fiend"
+	},
+	{
+		"abr": "fiendmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Fiend"
+	},
+	{
+		"abr": "fiendmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_FiendCovBase"
+	},
+	{
+		"abr": "flammenkanone",
+		"price": 1633,
+		"category": "Ranged weapons",
+		"defname": "MH_Heavybowgun_Anja"
+	},
+	{
+		"abr": "fractalenhancement",
+		"price": 1333,
+		"category": "Drugs",
+		"defname": "FractalPill"
+	},
+	{
+		"abr": "gamacannon",
+		"price": 1300,
+		"category": "Ranged weapons",
+		"defname": "MH_Heavybowgun_Dodo"
+	},
+	{
+		"abr": "gastodon",
+		"price": 583,
+		"category": "Animals",
+		"defname": "Gastodon"
+	},
+	{
+		"abr": "gastodonegg",
+		"price": 38,
+		"category": "Eggs (fert.)",
+		"defname": "EggGastodonFertilized"
+	},
+	{
+		"abr": "gastodonleather",
+		"price": 4,
+		"category": "Monster leathers",
+		"defname": "Leather_Gastodon"
+	},
+	{
+		"abr": "gastodonmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Gastodon"
+	},
+	{
+		"abr": "gendromeblades",
+		"price": 1267,
+		"category": "Melee weapons",
+		"defname": "MH_Dualblades_Gendrome"
+	},
+	{
+		"abr": "gendromeleather",
+		"price": 11,
+		"category": "Monster leathers",
+		"defname": "Leather_Gendrome"
+	},
+	{
+		"abr": "genprey",
+		"price": 1667,
+		"category": "Animals",
+		"defname": "Genprey"
+	},
+	{
+		"abr": "genpreyegg",
+		"price": 167,
+		"category": "Eggs (fert.)",
+		"defname": "EggGenpreyFertilized"
+	},
+	{
+		"abr": "genpreyleather",
+		"price": 9,
+		"category": "Monster leathers",
+		"defname": "Leather_Genprey"
+	},
+	{
+		"abr": "genpreymeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Genprey"
+	},
+	{
+		"abr": "geologicalimplant",
+		"price": 3333,
+		"category": "Android",
+		"defname": "GeoMindImplant"
+	},
+	{
+		"abr": "giadromeblades",
+		"price": 1200,
+		"category": "Melee weapons",
+		"defname": "MH_Dualblades_Giadrome"
+	},
+	{
+		"abr": "giadromeleather",
+		"price": 9,
+		"category": "Monster leathers",
+		"defname": "Leather_Giadrome"
+	},
+	{
+		"abr": "giaprey",
+		"price": 1833,
+		"category": "Animals",
+		"defname": "Giaprey"
+	},
+	{
+		"abr": "giapreyegg",
+		"price": 167,
+		"category": "Eggs (fert.)",
+		"defname": "EggGiapreyFertilized"
+	},
+	{
+		"abr": "giapreyleather",
+		"price": 9,
+		"category": "Monster leathers",
+		"defname": "Leather_Giaprey"
+	},
+	{
+		"abr": "giapreymeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Giaprey"
+	},
+	{
+		"abr": "girros",
+		"price": 750,
+		"category": "Animals",
+		"defname": "Girros"
+	},
+	{
+		"abr": "girrosegg",
+		"price": 83,
+		"category": "Eggs (fert.)",
+		"defname": "EggGirrosFertilized"
+	},
+	{
+		"abr": "girrosegg",
+		"price": 83,
+		"category": "Eggs (fert.)",
+		"defname": "EggGGirrosFertilized"
+	},
+	{
+		"abr": "girrosleather",
+		"price": 4,
+		"category": "Monster leathers",
+		"defname": "Leather_Girros"
+	},
+	{
+		"abr": "girrosmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Girros"
+	},
+	{
+		"abr": "girrossmallshield",
+		"price": 558,
+		"category": "Shields",
+		"defname": "MH_Shield_GirrosSnS"
+	},
+	{
+		"abr": "glavenus",
+		"price": 13667,
+		"category": "Animals",
+		"defname": "Glavenus"
+	},
+	{
+		"abr": "glavenusegg",
+		"price": 250,
+		"category": "Eggs (fert.)",
+		"defname": "EggGlavenusFertilized"
+	},
+	{
+		"abr": "glavenusleather",
+		"price": 17,
+		"category": "Monster leathers",
+		"defname": "Leather_Glavenus"
+	},
+	{
+		"abr": "glavenusmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Glavenus"
+	},
+	{
+		"abr": "golddaemonettefigurine",
+		"price": 3900,
+		"category": "Art",
+		"defname": "SlaaDaemonetteFigurineGold"
+	},
+	{
+		"abr": "goldfiendfigurine",
+		"price": 3000,
+		"category": "Art",
+		"defname": "SlaaFiendFigurineGold"
+	},
+	{
+		"abr": "goldprincefigurine",
+		"price": 10567,
+		"category": "Art",
+		"defname": "SlaaPrinceFigurineGold"
+	},
+	{
+		"abr": "goldsteedfigurine",
+		"price": 2000,
+		"category": "Art",
+		"defname": "SlaaSteedFigurineGold"
+	},
+	{
+		"abr": "greatgirros",
+		"price": 8000,
+		"category": "Animals",
+		"defname": "GreatGirros"
+	},
+	{
+		"abr": "greatgirrosleather",
+		"price": 9,
+		"category": "Monster leathers",
+		"defname": "Leather_GreatGirros"
+	},
+	{
+		"abr": "greatgirrosmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_GreatGirros"
+	},
+	{
+		"abr": "greatjagras",
+		"price": 7500,
+		"category": "Animals",
+		"defname": "GreatJagras"
+	},
+	{
+		"abr": "greatjagrasleather",
+		"price": 7,
+		"category": "Monster leathers",
+		"defname": "Leather_GreatJagras"
+	},
+	{
+		"abr": "greatjagrasmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_GreatJagras"
+	},
+	{
+		"abr": "greatermallard",
+		"price": 500,
+		"category": "Animals",
+		"defname": "ZDuck_GreaterMallard"
+	},
+	{
+		"abr": "greatermallardegg(fert.)",
+		"price": 35,
+		"category": "Eggs (fert.)",
+		"defname": "ZDuck_EggGreaterMallardFertilized"
+	},
+	{
+		"abr": "greatsword",
+		"price": 842,
+		"category": "Melee weapons",
+		"defname": "MH_Greatsword"
+	},
+	{
+		"abr": "gunlance",
+		"price": 950,
+		"category": "Ranged weapons",
+		"defname": "MH_Gunlance"
+	},
+	{
+		"abr": "gunlanceshield",
+		"price": 417,
+		"category": "Shields",
+		"defname": "MH_Shield_BaseGL"
+	},
+	{
+		"abr": "hammer",
+		"price": 750,
+		"category": "Melee weapons",
+		"defname": "MH_Hammer"
+	},
+	{
+		"abr": "handcannon",
+		"price": 1333,
+		"category": "Ranged weapons",
+		"defname": "MechHandCannon"
+	},
+	{
+		"abr": "heavybowgun",
+		"price": 767,
+		"category": "Ranged weapons",
+		"defname": "MH_Heavybowgun"
+	},
+	{
+		"abr": "highpowerarm",
+		"price": 2500,
+		"category": "Android",
+		"defname": "AdvancedReplacementArm"
+	},
+	{
+		"abr": "highpowerleg",
+		"price": 3000,
+		"category": "Android",
+		"defname": "AdvancedReplacementLeg"
+	},
+	{
+		"abr": "hookedwhip",
+		"price": 298,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_HookedWhip"
+	},
+	{
+		"abr": "hotdrink",
+		"price": 500,
+		"category": "Drugs",
+		"defname": "MHHotDrink"
+	},
+	{
+		"abr": "humanoiddaemonettearm",
+		"price": 367,
+		"category": "Prosthetic",
+		"defname": "ExtraArmDaemonette"
+	},
+	{
+		"abr": "huntermeal",
+		"price": 150,
+		"category": "Meals",
+		"defname": "MealHunter"
+	},
+	{
+		"abr": "huntershield",
+		"price": 291,
+		"category": "Shields",
+		"defname": "MH_Shield_BaseSnS"
+	},
+	{
+		"abr": "huntersmithy",
+		"price": 658,
+		"category": "Production",
+		"defname": "MHSmithy"
+	},
+	{
+		"abr": "huntersword",
+		"price": 433,
+		"category": "Melee weapons",
+		"defname": "MH_SwordandShield"
+	},
+	{
+		"abr": "huntinghorn",
+		"price": 850,
+		"category": "Melee weapons",
+		"defname": "MH_Huntinghorn"
+	},
+	{
+		"abr": "huracanhammer",
+		"price": 1283,
+		"category": "Melee weapons",
+		"defname": "MH_Hammer_Rathalos"
+	},
+	{
+		"abr": "hydraulicarm",
+		"price": 1167,
+		"category": "Android",
+		"defname": "HydraulicArm"
+	},
+	{
+		"abr": "hydraulicframe",
+		"price": 1667,
+		"category": "Android",
+		"defname": "HydraulicFrame"
+	},
+	{
+		"abr": "hydraulicleg",
+		"price": 1167,
+		"category": "Android",
+		"defname": "HydraulicLeg"
+	},
+	{
+		"abr": "i-100(hacking)",
+		"price": 1383,
+		"category": "Misc",
+		"defname": "ATPP_I100Hacking"
+	},
+	{
+		"abr": "i-100(security)",
+		"price": 1017,
+		"category": "Misc",
+		"defname": "ATPP_I100Security"
+	},
+	{
+		"abr": "i-100(skill)",
+		"price": 1383,
+		"category": "Misc",
+		"defname": "ATPP_I100Skill"
+	},
+	{
+		"abr": "i-300(hacking)",
+		"price": 2892,
+		"category": "Misc",
+		"defname": "ATPP_I300Hacking"
+	},
+	{
+		"abr": "i-300(security)",
+		"price": 2175,
+		"category": "Misc",
+		"defname": "ATPP_I300Security"
+	},
+	{
+		"abr": "i-300(skill)",
+		"price": 2892,
+		"category": "Misc",
+		"defname": "ATPP_I300Skill"
+	},
+	{
+		"abr": "i-500(hacking)",
+		"price": 5575,
+		"category": "Misc",
+		"defname": "ATPP_I500Hacking"
+	},
+	{
+		"abr": "i-500(security)",
+		"price": 4117,
+		"category": "Misc",
+		"defname": "ATPP_I500Security"
+	},
+	{
+		"abr": "i-500(skill)",
+		"price": 5575,
+		"category": "Misc",
+		"defname": "ATPP_I500Skill"
+	},
+	{
+		"abr": "improvedsteelaxe",
+		"price": 1258,
+		"category": "Melee weapons",
+		"defname": "MH_Switchaxe_TierTwo"
+	},
+	{
+		"abr": "improvedsteelaxe",
+		"price": 1133,
+		"category": "Melee weapons",
+		"defname": "MH_Switchsword_TierTwo"
+	},
+	{
+		"abr": "insectglaive",
+		"price": 667,
+		"category": "Melee weapons",
+		"defname": "MH_Insectglaive"
+	},
+	{
+		"abr": "intermediatenanokit",
+		"price": 30,
+		"category": "Medicine",
+		"defname": "ATPP_AndroidNanokitIntermediate"
+	},
+	{
+		"abr": "jadedaemonettefigurine",
+		"price": 3692,
+		"category": "Art",
+		"defname": "SlaaDaemonetteFigurineJade"
+	},
+	{
+		"abr": "jadefiendfigurine",
+		"price": 3000,
+		"category": "Art",
+		"defname": "SlaaFiendFigurineJade"
+	},
+	{
+		"abr": "jadeprincefigurine",
+		"price": 10358,
+		"category": "Art",
+		"defname": "SlaaPrinceFigurineJade"
+	},
+	{
+		"abr": "jadesteedfigurine",
+		"price": 2000,
+		"category": "Art",
+		"defname": "SlaaSteedFigurineJade"
+	},
+	{
+		"abr": "jaggi",
+		"price": 583,
+		"category": "Animals",
+		"defname": "Jaggi"
+	},
+	{
+		"abr": "jaggiegg",
+		"price": 83,
+		"category": "Eggs (fert.)",
+		"defname": "EggJaggiFertilized"
+	},
+	{
+		"abr": "jaggileather",
+		"price": 4,
+		"category": "Monster leathers",
+		"defname": "Leather_Jaggi"
+	},
+	{
+		"abr": "jaggimeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Jaggi"
+	},
+	{
+		"abr": "jagras",
+		"price": 583,
+		"category": "Animals",
+		"defname": "Jagras"
+	},
+	{
+		"abr": "jagrasblitz",
+		"price": 1108,
+		"category": "Ranged weapons",
+		"defname": "MH_Lightbowgun_Jagras"
+	},
+	{
+		"abr": "jagrascannon",
+		"price": 1133,
+		"category": "Ranged weapons",
+		"defname": "MH_Heavybowgun_Jagras"
+	},
+	{
+		"abr": "jagrasegg",
+		"price": 83,
+		"category": "Eggs (fert.)",
+		"defname": "EggJagrasFertilized"
+	},
+	{
+		"abr": "jagrasegg",
+		"price": 83,
+		"category": "Eggs (fert.)",
+		"defname": "EggGJagrasFertilized"
+	},
+	{
+		"abr": "jagrasleather",
+		"price": 4,
+		"category": "Monster leathers",
+		"defname": "Leather_Jagras"
+	},
+	{
+		"abr": "jagrasmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Jagras"
+	},
+	{
+		"abr": "jyurabullet",
+		"price": 1108,
+		"category": "Ranged weapons",
+		"defname": "MH_Lightbowgun_Jyura"
+	},
+	{
+		"abr": "jyurabuster",
+		"price": 1383,
+		"category": "Ranged weapons",
+		"defname": "MH_Gunlance_Jyura"
+	},
+	{
+		"abr": "jyuratodus",
+		"price": 7333,
+		"category": "Animals",
+		"defname": "Jyuratodus"
+	},
+	{
+		"abr": "jyuratodusegg",
+		"price": 83,
+		"category": "Eggs (fert.)",
+		"defname": "EggJyuraFertilized"
+	},
+	{
+		"abr": "jyuratodusgunlanceshield",
+		"price": 708,
+		"category": "Shields",
+		"defname": "MH_Shield_JyuraGL"
+	},
+	{
+		"abr": "jyuratodusleather",
+		"price": 7,
+		"category": "Monster leathers",
+		"defname": "Leather_Jyuratodus"
+	},
+	{
+		"abr": "jyuratodusmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Jyuratodus"
+	},
+	{
+		"abr": "k-9cyberneticunit",
+		"price": 14167,
+		"category": "Animal",
+		"defname": "AndroidDog"
+	},
+	{
+		"abr": "kadachistrikebow",
+		"price": 1083,
+		"category": "Ranged weapons",
+		"defname": "MH_Bow_Tobi"
+	},
+	{
+		"abr": "kelbi",
+		"price": 417,
+		"category": "Animals",
+		"defname": "Kelbi"
+	},
+	{
+		"abr": "kelbipelt",
+		"price": 4,
+		"category": "Monster leathers",
+		"defname": "Leather_Kelbi"
+	},
+	{
+		"abr": "kestodon",
+		"price": 583,
+		"category": "Animals",
+		"defname": "Kestodon"
+	},
+	{
+		"abr": "kestodonegg",
+		"price": 38,
+		"category": "Eggs (fert.)",
+		"defname": "EggKestodonFertilized"
+	},
+	{
+		"abr": "kestodonleather",
+		"price": 4,
+		"category": "Monster leathers",
+		"defname": "Leather_Kestodon"
+	},
+	{
+		"abr": "kestodonmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Kestodon"
+	},
+	{
+		"abr": "kirin",
+		"price": 50833,
+		"category": "Animals",
+		"defname": "Kirin"
+	},
+	{
+		"abr": "kirinbolts",
+		"price": 2200,
+		"category": "Melee weapons",
+		"defname": "MH_Dualblades_Kirin"
+	},
+	{
+		"abr": "kirinleather",
+		"price": 34,
+		"category": "Monster leathers",
+		"defname": "Leather_Kirin"
+	},
+	{
+		"abr": "kirinmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Kirin"
+	},
+	{
+		"abr": "kuluya-ku",
+		"price": 4917,
+		"category": "Animals",
+		"defname": "KuluYaKu"
+	},
+	{
+		"abr": "kuluya-kuegg",
+		"price": 83,
+		"category": "Eggs (fert.)",
+		"defname": "EggKuluFertilized"
+	},
+	{
+		"abr": "kuluya-kuleather",
+		"price": 7,
+		"category": "Monster leathers",
+		"defname": "Leather_KuluYaKu"
+	},
+	{
+		"abr": "kuluya-kumeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_KuluYaKu"
+	},
+	{
+		"abr": "kulvetaroth",
+		"price": 166667,
+		"category": "Animals",
+		"defname": "KulveTarothNaked"
+	},
+	{
+		"abr": "kulvetarothegg",
+		"price": 22583,
+		"category": "Eggs (fert.)",
+		"defname": "EggKulveFertilized"
+	},
+	{
+		"abr": "kulvetarothleather",
+		"price": 27,
+		"category": "Monster leathers",
+		"defname": "Leather_Kulve"
+	},
+	{
+		"abr": "kulvetarothmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_KulveTarothNaked"
+	},
+	{
+		"abr": "kushaladaora",
+		"price": 34833,
+		"category": "Animals",
+		"defname": "KushalaDaora"
+	},
+	{
+		"abr": "kushaladaoraegg",
+		"price": 3417,
+		"category": "Eggs (fert.)",
+		"defname": "EggKushalaFertilized"
+	},
+	{
+		"abr": "kushaladaoraleather",
+		"price": 26,
+		"category": "Monster leathers",
+		"defname": "Leather_Kushala"
+	},
+	{
+		"abr": "kushaladaorameat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_KushalaDaora"
+	},
+	{
+		"abr": "kut-kujaw",
+		"price": 1200,
+		"category": "Melee weapons",
+		"defname": "MH_Hammer_KutKu"
+	},
+	{
+		"abr": "kut-kustabber",
+		"price": 1525,
+		"category": "Melee weapons",
+		"defname": "MH_Lance_KutKu"
+	},
+	{
+		"abr": "lance",
+		"price": 1025,
+		"category": "Melee weapons",
+		"defname": "MH_Lance"
+	},
+	{
+		"abr": "lanceshield",
+		"price": 417,
+		"category": "Shields",
+		"defname": "MH_Shield_BaseL"
+	},
+	{
+		"abr": "largestatuedaemonette",
+		"price": 517,
+		"category": "Art",
+		"defname": "DaemonetteLargeStatue"
+	},
+	{
+		"abr": "lavasioth",
+		"price": 8500,
+		"category": "Animals",
+		"defname": "Lavasioth"
+	},
+	{
+		"abr": "lavasiothegg",
+		"price": 917,
+		"category": "Eggs (fert.)",
+		"defname": "EggLavasiothFertilized"
+	},
+	{
+		"abr": "lavasiothleather",
+		"price": 11,
+		"category": "Monster leathers",
+		"defname": "Leather_Lavasioth"
+	},
+	{
+		"abr": "lavasiothmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Lavasioth"
+	},
+	{
+		"abr": "legguards",
+		"price": 293,
+		"category": "Armor",
+		"defname": "Apparel_DaemLegGuard"
+	},
+	{
+		"abr": "legiashattercryst",
+		"price": 1383,
+		"category": "Ranged weapons",
+		"defname": "MH_Heavybowgun_Legiana"
+	},
+	{
+		"abr": "legiana",
+		"price": 23167,
+		"category": "Animals",
+		"defname": "Legiana"
+	},
+	{
+		"abr": "legianaegg",
+		"price": 917,
+		"category": "Eggs (fert.)",
+		"defname": "EggLegianaFertilized"
+	},
+	{
+		"abr": "legianaleather",
+		"price": 12,
+		"category": "Monster leathers",
+		"defname": "Leather_Legiana"
+	},
+	{
+		"abr": "legianameat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Legiana"
+	},
+	{
+		"abr": "lightbowgun",
+		"price": 742,
+		"category": "Ranged weapons",
+		"defname": "MH_Lightbowgun"
+	},
+	{
+		"abr": "longsword",
+		"price": 1067,
+		"category": "Melee weapons",
+		"defname": "MH_Longsword"
+	},
+	{
+		"abr": "luminousassault",
+		"price": 1217,
+		"category": "Ranged weapons",
+		"defname": "MH_Heavybowgun_Tzitzi"
+	},
+	{
+		"abr": "lunastraegg",
+		"price": 3417,
+		"category": "Eggs (fert.)",
+		"defname": "EggTesukaFertilized"
+	},
+	{
+		"abr": "lunastraleather",
+		"price": 26,
+		"category": "Monster leathers",
+		"defname": "Leather_Lunastra"
+	},
+	{
+		"abr": "m.u.f.funit",
+		"price": 2000,
+		"category": "Animal",
+		"defname": "AndroidMuff"
+	},
+	{
+		"abr": "m7mechanisedinfantry",
+		"price": 30000,
+		"category": "Animal",
+		"defname": "M7Mech"
+	},
+	{
+		"abr": "m7pod",
+		"price": 1483,
+		"category": "Furniture",
+		"defname": "ATPP_AndroidPodMech"
+	},
+	{
+		"abr": "m8mechanisedinfantry",
+		"price": 30000,
+		"category": "Animal",
+		"defname": "M8Mech"
+	},
+	{
+		"abr": "malady'stabar",
+		"price": 825,
+		"category": "Melee weapons",
+		"defname": "MH_SwordandShield_Girros"
+	},
+	{
+		"abr": "massivestatueofadaemonette",
+		"price": 1125,
+		"category": "Art",
+		"defname": "DaemonetteMassiveStatue"
+	},
+	{
+		"abr": "mastiffshotgun",
+		"price": 1333,
+		"category": "Ranged weapons",
+		"defname": "MechMastiffGun"
+	},
+	{
+		"abr": "mechaniteswarm",
+		"price": 33,
+		"category": "Drugs",
+		"defname": "MechSwarm"
+	},
+	{
+		"abr": "megaarmorskin",
+		"price": 2667,
+		"category": "Drugs",
+		"defname": "MHMegaArmorskin"
+	},
+	{
+		"abr": "megadashjuice",
+		"price": 417,
+		"category": "Drugs",
+		"defname": "MegaDashJuice"
+	},
+	{
+		"abr": "megademondrug",
+		"price": 2167,
+		"category": "Drugs",
+		"defname": "MHMegaDemondrug"
+	},
+	{
+		"abr": "megapotion",
+		"price": 1667,
+		"category": "Items",
+		"defname": "MHPotion"
+	},
+	{
+		"abr": "metallicwool",
+		"price": 8,
+		"category": "Textiles",
+		"defname": "SteelWool"
+	},
+	{
+		"abr": "microscyther",
+		"price": 67,
+		"category": "Animal",
+		"defname": "MicroScyther"
+	},
+	{
+		"abr": "mightseed",
+		"price": 17,
+		"category": "Vegetarian",
+		"defname": "MightSeed"
+	},
+	{
+		"abr": "miningarm",
+		"price": 1667,
+		"category": "Android",
+		"defname": "MiningArm_AT"
+	},
+	{
+		"abr": "mithril",
+		"price": 15,
+		"category": "Raw resources",
+		"defname": "Mithril"
+	},
+	{
+		"abr": "mizutsune",
+		"price": 13167,
+		"category": "Animals",
+		"defname": "Mizutsune"
+	},
+	{
+		"abr": "mizutsuneegg",
+		"price": 917,
+		"category": "Eggs (fert.)",
+		"defname": "EggMizutsuneFertilized"
+	},
+	{
+		"abr": "mizutsuneleather",
+		"price": 12,
+		"category": "Monster leathers",
+		"defname": "Leather_Mizutsune"
+	},
+	{
+		"abr": "mizutsunemeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Mizutsune"
+	},
+	{
+		"abr": "mono-salvepill",
+		"price": 133,
+		"category": "Drugs",
+		"defname": "RegenPillAt"
+	},
+	{
+		"abr": "monsterhunterarmor",
+		"price": 825,
+		"category": "Armor",
+		"defname": "TMH_MonsterHunterArmor"
+	},
+	{
+		"abr": "monsterhunterhelmet",
+		"price": 291,
+		"category": "Headgear",
+		"defname": "TMH_MonsterHunterHelmet"
+	},
+	{
+		"abr": "mythicalhorn",
+		"price": 2442,
+		"category": "Ranged weapons",
+		"defname": "MH_Lightbowgun_Kirin"
+	},
+	{
+		"abr": "n.solutionunit",
+		"price": 2667,
+		"category": "Animals",
+		"defname": "RoboticCow"
+	},
+	{
+		"abr": "n.solutionunitmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_RoboticCow"
+	},
+	{
+		"abr": "nanitesbank(cooling)",
+		"price": 583,
+		"category": "Items",
+		"defname": "ATPP_NanitesCoolingSerum"
+	},
+	{
+		"abr": "nanitesbank(cpu)",
+		"price": 583,
+		"category": "Items",
+		"defname": "ATPP_NanitesCPUSerum"
+	},
+	{
+		"abr": "nanitesbank(framework)",
+		"price": 583,
+		"category": "Items",
+		"defname": "ATPP_NanitesFrameSerum"
+	},
+	{
+		"abr": "nanitesbank(hydraulic)",
+		"price": 583,
+		"category": "Items",
+		"defname": "ATPP_NanitesHydraulicSerum"
+	},
+	{
+		"abr": "nargacuga",
+		"price": 12000,
+		"category": "Animals",
+		"defname": "Nargacuga"
+	},
+	{
+		"abr": "nargacugaegg",
+		"price": 717,
+		"category": "Eggs (fert.)",
+		"defname": "EggNargacugaFertilized"
+	},
+	{
+		"abr": "nargacugaleather",
+		"price": 7,
+		"category": "Monster leathers",
+		"defname": "Leather_Nargacuga"
+	},
+	{
+		"abr": "nargacugameat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Nargacuga"
+	},
+	{
+		"abr": "negotiatorimplant",
+		"price": 2667,
+		"category": "Android",
+		"defname": "NegotiationMindImplant"
+	},
+	{
+		"abr": "nergigante",
+		"price": 51500,
+		"category": "Animals",
+		"defname": "Nergigante"
+	},
+	{
+		"abr": "nergiganteegg",
+		"price": 5917,
+		"category": "Eggs (fert.)",
+		"defname": "EggNergiganteFertilized"
+	},
+	{
+		"abr": "nergiganteleather",
+		"price": 34,
+		"category": "Monster leathers",
+		"defname": "Leather_Nergigante"
+	},
+	{
+		"abr": "nergigantemeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Nergigante"
+	},
+	{
+		"abr": "nergigantesmallshield",
+		"price": 1308,
+		"category": "Shields",
+		"defname": "MH_Shield_NergiSnS"
+	},
+	{
+		"abr": "neuralhighways",
+		"price": 2667,
+		"category": "Android",
+		"defname": "SpeedMindImplant"
+	},
+	{
+		"abr": "nourishingextract",
+		"price": 833,
+		"category": "Items",
+		"defname": "NourishingExtract"
+	},
+	{
+		"abr": "nutrientsolution",
+		"price": 13,
+		"category": "Animal products",
+		"defname": "NSolution"
+	},
+	{
+		"abr": "odogaron",
+		"price": 13167,
+		"category": "Animals",
+		"defname": "Odogaron"
+	},
+	{
+		"abr": "odogaronegg",
+		"price": 917,
+		"category": "Eggs (fert.)",
+		"defname": "EggOdogaronFertilized"
+	},
+	{
+		"abr": "odogaronleather",
+		"price": 14,
+		"category": "Monster leathers",
+		"defname": "Leather_Odogaron"
+	},
+	{
+		"abr": "odogaronmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Odogaron"
+	},
+	{
+		"abr": "ogre'sjaw",
+		"price": 1158,
+		"category": "Melee weapons",
+		"defname": "MH_Greatsword_Thorn"
+	},
+	{
+		"abr": "orbitalmech-falltargeter",
+		"price": 4000,
+		"category": "Ranged weapons",
+		"defname": "OrbitalTargeterMechFall"
+	},
+	{
+		"abr": "orichalcum",
+		"price": 15,
+		"category": "Raw resources",
+		"defname": "Orichalcum"
+	},
+	{
+		"abr": "palamute",
+		"price": 417,
+		"category": "Animals",
+		"defname": "ERN_Palamute"
+	},
+	{
+		"abr": "palamutemeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_ERN_Palamute"
+	},
+	{
+		"abr": "paolumu",
+		"price": 10333,
+		"category": "Animals",
+		"defname": "Paolumu"
+	},
+	{
+		"abr": "paolumuegg",
+		"price": 917,
+		"category": "Eggs (fert.)",
+		"defname": "EggPaolumuFertilized"
+	},
+	{
+		"abr": "paolumuleather",
+		"price": 11,
+		"category": "Monster leathers",
+		"defname": "Leather_Paolumu"
+	},
+	{
+		"abr": "paolumumeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Paolumu"
+	},
+	{
+		"abr": "phytominingunit",
+		"price": 2667,
+		"category": "Animal",
+		"defname": "RoboticSheep"
+	},
+	{
+		"abr": "pillowpile",
+		"price": 342,
+		"category": "Furniture",
+		"defname": "SlaaDoublePillowBed"
+	},
+	{
+		"abr": "plasteelframecoverings",
+		"price": 1333,
+		"category": "Android",
+		"defname": "PlasteelPlating"
+	},
+	{
+		"abr": "platepasties",
+		"price": 367,
+		"category": "Armor",
+		"defname": "Apparel_SlaaPlatePasties"
+	},
+	{
+		"abr": "plesioth",
+		"price": 7333,
+		"category": "Animals",
+		"defname": "Plesioth"
+	},
+	{
+		"abr": "plesiothegg",
+		"price": 917,
+		"category": "Eggs (fert.)",
+		"defname": "EggPlesiothFertilized"
+	},
+	{
+		"abr": "plesiothleather",
+		"price": 7,
+		"category": "Monster leathers",
+		"defname": "Leather_Plesioth"
+	},
+	{
+		"abr": "plesiothmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Plesioth"
+	},
+	{
+		"abr": "polymerantifreeze",
+		"price": 17,
+		"category": "Drugs",
+		"defname": "Antifreeze"
+	},
+	{
+		"abr": "positronicrewiring",
+		"price": 2667,
+		"category": "Android",
+		"defname": "PositronMindImplant"
+	},
+	{
+		"abr": "princessarrow",
+		"price": 1167,
+		"category": "Ranged weapons",
+		"defname": "MH_Bow_Rathian"
+	},
+	{
+		"abr": "princesspanoply",
+		"price": 1550,
+		"category": "Ranged weapons",
+		"defname": "MH_Gunlance_Rathian"
+	},
+	{
+		"abr": "princessrapier",
+		"price": 875,
+		"category": "Melee weapons",
+		"defname": "MH_SwordandShield_Rathian"
+	},
+	{
+		"abr": "pukei-pukei",
+		"price": 7333,
+		"category": "Animals",
+		"defname": "PukeiPukei"
+	},
+	{
+		"abr": "pukei-pukeiegg",
+		"price": 417,
+		"category": "Eggs (fert.)",
+		"defname": "EggPukeiFertilized"
+	},
+	{
+		"abr": "pukei-pukeilanceshield",
+		"price": 692,
+		"category": "Shields",
+		"defname": "MH_Shield_PukeiL"
+	},
+	{
+		"abr": "pukei-pukeileather",
+		"price": 9,
+		"category": "Monster leathers",
+		"defname": "Leather_Pukei"
+	},
+	{
+		"abr": "pukei-pukeimeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_PukeiPukei"
+	},
+	{
+		"abr": "pulsarshooter",
+		"price": 1217,
+		"category": "Ranged weapons",
+		"defname": "MH_Heavybowgun_Tobi"
+	},
+	{
+		"abr": "pulsarshotel",
+		"price": 1517,
+		"category": "Melee weapons",
+		"defname": "MH_Longsword_Tobi"
+	},
+	{
+		"abr": "quackodile",
+		"price": 667,
+		"category": "Animals",
+		"defname": "ZDuck_Quackodile"
+	},
+	{
+		"abr": "quackodileegg(fert.)",
+		"price": 53,
+		"category": "Eggs (fert.)",
+		"defname": "ZDuck_EggQuackodileFertilized"
+	},
+	{
+		"abr": "quickcaster",
+		"price": 2467,
+		"category": "Ranged weapons",
+		"defname": "MH_Heavybowgun_Kirin"
+	},
+	{
+		"abr": "rath",
+		"price": 18167,
+		"category": "Animals",
+		"defname": "Rath"
+	},
+	{
+		"abr": "rathmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Rath"
+	},
+	{
+		"abr": "rathaloschargebladeshield",
+		"price": 725,
+		"category": "Shields",
+		"defname": "MH_Shield_RathalosCB"
+	},
+	{
+		"abr": "rathalosleather",
+		"price": 11,
+		"category": "Monster leathers",
+		"defname": "Leather_Rathalos"
+	},
+	{
+		"abr": "rathianegg",
+		"price": 2083,
+		"category": "Eggs (fert.)",
+		"defname": "EggRathFertilized"
+	},
+	{
+		"abr": "rathiangunlanceshield",
+		"price": 842,
+		"category": "Shields",
+		"defname": "MH_Shield_RathianGL"
+	},
+	{
+		"abr": "rathianleather",
+		"price": 11,
+		"category": "Monster leathers",
+		"defname": "Leather_Rathian"
+	},
+	{
+		"abr": "rathiansmallshield",
+		"price": 608,
+		"category": "Shields",
+		"defname": "MH_Shield_RathianSnS"
+	},
+	{
+		"abr": "rendingbeaks",
+		"price": 1133,
+		"category": "Melee weapons",
+		"defname": "MH_Dualblades_Kulu"
+	},
+	{
+		"abr": "rhenoplos",
+		"price": 500,
+		"category": "Animals",
+		"defname": "Rhenoplos"
+	},
+	{
+		"abr": "rhenoplosegg",
+		"price": 38,
+		"category": "Eggs (fert.)",
+		"defname": "EggRhenoplosFertilized"
+	},
+	{
+		"abr": "rhenoplosmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Rhenoplos"
+	},
+	{
+		"abr": "roboticsproductioncasket",
+		"price": 900,
+		"category": "Production",
+		"defname": "AndroidProductionVat"
+	},
+	{
+		"abr": "rudderduck",
+		"price": 383,
+		"category": "Animals",
+		"defname": "ZDuck_RudderDuck"
+	},
+	{
+		"abr": "rudderduckegg(fert.)",
+		"price": 37,
+		"category": "Eggs (fert.)",
+		"defname": "ZDuck_EggRudderDuckFertilized"
+	},
+	{
+		"abr": "rxneuralchip",
+		"price": 250,
+		"category": "Android",
+		"defname": "ATPP_RXChip"
+	},
+	{
+		"abr": "scarletite",
+		"price": 15,
+		"category": "Raw resources",
+		"defname": "Tozra"
+	},
+	{
+		"abr": "shamos",
+		"price": 750,
+		"category": "Animals",
+		"defname": "Shamos"
+	},
+	{
+		"abr": "shamosegg",
+		"price": 83,
+		"category": "Eggs (fert.)",
+		"defname": "EggShamosFertilized"
+	},
+	{
+		"abr": "shamosleather",
+		"price": 4,
+		"category": "Monster leathers",
+		"defname": "Leather_Shamos"
+	},
+	{
+		"abr": "shamosmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Shamos"
+	},
+	{
+		"abr": "silverdaemonettefigurine",
+		"price": 4317,
+		"category": "Art",
+		"defname": "SlaaDaemonetteFigurineSilver"
+	},
+	{
+		"abr": "silverfiendfigurine",
+		"price": 3000,
+		"category": "Art",
+		"defname": "SlaaFiendFigurineSilver"
+	},
+	{
+		"abr": "silverprincefigurine",
+		"price": 10983,
+		"category": "Art",
+		"defname": "SlaaPrinceFigurineSilver"
+	},
+	{
+		"abr": "silversteedfigurine",
+		"price": 2000,
+		"category": "Art",
+		"defname": "SlaaSteedFigurineSilver"
+	},
+	{
+		"abr": "simplechoker",
+		"price": 26,
+		"category": "Apparel",
+		"defname": "Choker"
+	},
+	{
+		"abr": "skymindrelaytower",
+		"price": 767,
+		"category": "Misc",
+		"defname": "ATPP_SkyMindRelayTower"
+	},
+	{
+		"abr": "skymindv1antenna",
+		"price": 1400,
+		"category": "Misc",
+		"defname": "ATPP_SkyMindLAN"
+	},
+	{
+		"abr": "skymindv2antenna",
+		"price": 4967,
+		"category": "Misc",
+		"defname": "ATPP_SkyMindWAN"
+	},
+	{
+		"abr": "slaaneshchestpiercing",
+		"price": 165,
+		"category": "Apparel",
+		"defname": "Apparel_SlaaNipsPiercing"
+	},
+	{
+		"abr": "slaaneshprince",
+		"price": 4000,
+		"category": "Animal",
+		"defname": "Alien_SlaaPrince"
+	},
+	{
+		"abr": "slaaneshsign.",
+		"price": 275,
+		"category": "Art",
+		"defname": "SlaaneshSmallStatue"
+	},
+	{
+		"abr": "slaaneshibreastplate",
+		"price": 550,
+		"category": "Armor",
+		"defname": "Apparel_SlaaBreastPlate"
+	},
+	{
+		"abr": "slaaneshicheststraps",
+		"price": 106,
+		"category": "Apparel",
+		"defname": "Apparel_SlaaChestStrap"
+	},
+	{
+		"abr": "slaaneshihuman",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "Alien_Slaaneshi"
+	},
+	{
+		"abr": "slaaneshimask",
+		"price": 118,
+		"category": "Headgear",
+		"defname": "Apparel_DaemMask"
+	},
+	{
+		"abr": "slaaneshiplatevisor",
+		"price": 317,
+		"category": "Headgear",
+		"defname": "Apparel_SlaaPlateVisor"
+	},
+	{
+		"abr": "slaaneshishoulderplate",
+		"price": 400,
+		"category": "Armor",
+		"defname": "Apparel_SlaaShoulderPlate"
+	},
+	{
+		"abr": "slaaneshistraps",
+		"price": 106,
+		"category": "Apparel",
+		"defname": "Apparel_DaemStrapsBondage"
+	},
+	{
+		"abr": "slaaneshiveil",
+		"price": 191,
+		"category": "Headgear",
+		"defname": "Apparel_SlaaHood"
+	},
+	{
+		"abr": "slagtoth",
+		"price": 500,
+		"category": "Animals",
+		"defname": "Slagtoth"
+	},
+	{
+		"abr": "slagtothegg",
+		"price": 38,
+		"category": "Eggs (fert.)",
+		"defname": "EggSlagtothFertilized"
+	},
+	{
+		"abr": "slagtothmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Slagtoth"
+	},
+	{
+		"abr": "smallstatuedaemonette",
+		"price": 275,
+		"category": "Art",
+		"defname": "DaemonetteSmallStatue"
+	},
+	{
+		"abr": "soldierimplant",
+		"price": 2667,
+		"category": "Android",
+		"defname": "SoldierMindImplant"
+	},
+	{
+		"abr": "solpyrite",
+		"price": 3,
+		"category": "Raw resources",
+		"defname": "Solorite"
+	},
+	{
+		"abr": "steed",
+		"price": 2000,
+		"category": "Animal",
+		"defname": "Steed"
+	},
+	{
+		"abr": "steed",
+		"price": 2000,
+		"category": "Animal",
+		"defname": "SteedCovBase"
+	},
+	{
+		"abr": "steedleather",
+		"price": 8,
+		"category": "Leathers",
+		"defname": "Leather_Steed"
+	},
+	{
+		"abr": "steedmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Steed"
+	},
+	{
+		"abr": "steedmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_SteedCovBase"
+	},
+	{
+		"abr": "steelframing",
+		"price": 833,
+		"category": "Android",
+		"defname": "SteelPlating"
+	},
+	{
+		"abr": "stilettoleg",
+		"price": 417,
+		"category": "Prosthetic",
+		"defname": "DaemonetteStilettoLeg"
+	},
+	{
+		"abr": "structuregel",
+		"price": 58,
+		"category": "Drugs",
+		"defname": "StructureGel"
+	},
+	{
+		"abr": "swarmshell",
+		"price": 292,
+		"category": "Mortar shells",
+		"defname": "Nanoswarm_shell"
+	},
+	{
+		"abr": "switchaxe",
+		"price": 1133,
+		"category": "Melee weapons",
+		"defname": "MH_Switchaxe"
+	},
+	{
+		"abr": "switchaxe",
+		"price": 1133,
+		"category": "Melee weapons",
+		"defname": "MH_Switchsword"
+	},
+	{
+		"abr": "switchaxe",
+		"price": 1133,
+		"category": "Melee weapons",
+		"defname": "MH_Switchsword_TierThree"
+	},
+	{
+		"abr": "t1android",
+		"price": 2333,
+		"category": "Animal",
+		"defname": "Android1Tier"
+	},
+	{
+		"abr": "t2android",
+		"price": 4167,
+		"category": "Animal",
+		"defname": "Android2Tier"
+	},
+	{
+		"abr": "t3android",
+		"price": 8000,
+		"category": "Animal",
+		"defname": "Android3Tier"
+	},
+	{
+		"abr": "t4android",
+		"price": 10000,
+		"category": "Animal",
+		"defname": "Android4Tier"
+	},
+	{
+		"abr": "t5android",
+		"price": 13333,
+		"category": "Animal",
+		"defname": "Android5Tier"
+	},
+	{
+		"abr": "taintedskin",
+		"price": 13,
+		"category": "Leathers",
+		"defname": "Tainted_Skin"
+	},
+	{
+		"abr": "teostraleather",
+		"price": 26,
+		"category": "Monster leathers",
+		"defname": "Leather_Teostra"
+	},
+	{
+		"abr": "teostra'sartillery",
+		"price": 2050,
+		"category": "Ranged weapons",
+		"defname": "MH_Heavybowgun_Teostra"
+	},
+	{
+		"abr": "testosteronepill",
+		"price": 30,
+		"category": "Drugs",
+		"defname": "Testosterone"
+	},
+	{
+		"abr": "tesuka",
+		"price": 34833,
+		"category": "Animals",
+		"defname": "Tesuka"
+	},
+	{
+		"abr": "tesukameat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Tesuka"
+	},
+	{
+		"abr": "tigrex",
+		"price": 13000,
+		"category": "Animals",
+		"defname": "Tigrex"
+	},
+	{
+		"abr": "tigrexegg",
+		"price": 717,
+		"category": "Eggs (fert.)",
+		"defname": "EggTigrexFertilized"
+	},
+	{
+		"abr": "tigrexleather",
+		"price": 7,
+		"category": "Monster leathers",
+		"defname": "Leather_Tigrex"
+	},
+	{
+		"abr": "tigrexmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Tigrex"
+	},
+	{
+		"abr": "tobi-kadachi",
+		"price": 8000,
+		"category": "Animals",
+		"defname": "TobiKadachi"
+	},
+	{
+		"abr": "tobi-kadachiegg",
+		"price": 417,
+		"category": "Eggs (fert.)",
+		"defname": "EggTobiFertilized"
+	},
+	{
+		"abr": "tobi-kadachileather",
+		"price": 9,
+		"category": "Monster leathers",
+		"defname": "Leather_TobiKadachi"
+	},
+	{
+		"abr": "tobi-kadachimeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_TobiKadachi"
+	},
+	{
+		"abr": "tormentwhip",
+		"price": 467,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_TormentWhip"
+	},
+	{
+		"abr": "tricorderimplant",
+		"price": 2667,
+		"category": "Android",
+		"defname": "SurgeonMindImplant"
+	},
+	{
+		"abr": "twinflames",
+		"price": 1267,
+		"category": "Melee weapons",
+		"defname": "MH_Dualblades_Rath"
+	},
+	{
+		"abr": "tzitziya-ku",
+		"price": 4667,
+		"category": "Animals",
+		"defname": "TzitziYaKu"
+	},
+	{
+		"abr": "tzitziya-kuegg",
+		"price": 250,
+		"category": "Eggs (fert.)",
+		"defname": "EggTzitziFertilized"
+	},
+	{
+		"abr": "tzitziya-kuleather",
+		"price": 9,
+		"category": "Monster leathers",
+		"defname": "Leather_TzitziYaKu"
+	},
+	{
+		"abr": "tzitziya-kumeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_TzitziYaKu"
+	},
+	{
+		"abr": "upgradecabinet",
+		"price": 717,
+		"category": "Furniture",
+		"defname": "AndroidOperationKit"
+	},
+	{
+		"abr": "upgradekit",
+		"price": 50,
+		"category": "Manufactured",
+		"defname": "RepairKitAT"
+	},
+	{
+		"abr": "usurper'scrime",
+		"price": 1608,
+		"category": "Ranged weapons",
+		"defname": "MH_Lightbowgun_Zinogre"
+	},
+	{
+		"abr": "usurper'sroar",
+		"price": 1883,
+		"category": "Ranged weapons",
+		"defname": "MH_Gunlance_Zinogre"
+	},
+	{
+		"abr": "vaalhazak",
+		"price": 34833,
+		"category": "Animals",
+		"defname": "VaalHazak"
+	},
+	{
+		"abr": "vaalhazakegg",
+		"price": 3417,
+		"category": "Eggs (fert.)",
+		"defname": "EggVaalFertilized"
+	},
+	{
+		"abr": "vaalhazakleather",
+		"price": 12,
+		"category": "Monster leathers",
+		"defname": "Leather_Vaal"
+	},
+	{
+		"abr": "vaalhazakmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_VaalHazak"
+	},
+	{
+		"abr": "velkhana",
+		"price": 51500,
+		"category": "Animals",
+		"defname": "Velkhana"
+	},
+	{
+		"abr": "velkhanaegg",
+		"price": 5917,
+		"category": "Eggs (fert.)",
+		"defname": "EggVelkhanaFertilized"
+	},
+	{
+		"abr": "velkhanaleather",
+		"price": 12,
+		"category": "Monster leathers",
+		"defname": "Leather_Velkhana"
+	},
+	{
+		"abr": "velkhanameat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Velkhana"
+	},
+	{
+		"abr": "velocidromeegg",
+		"price": 38,
+		"category": "Eggs (fert.)",
+		"defname": "EggVelocidromeFertilized"
+	},
+	{
+		"abr": "velocidromeleather",
+		"price": 4,
+		"category": "Monster leathers",
+		"defname": "Leather_Velocidrome"
+	},
+	{
+		"abr": "velociprey",
+		"price": 1667,
+		"category": "Animals",
+		"defname": "Velociprey"
+	},
+	{
+		"abr": "2hpoweraxe",
+		"price": 6667,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_AA2HPowerAxe"
+	},
+	{
+		"abr": "2hpowersword",
+		"price": 6667,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_AA2HPowerSword"
+	},
+	{
+		"abr": "2hstormhammer",
+		"price": 6667,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_AA2HStormHammer"
+	},
+	{
+		"abr": "acidicbreathimplant",
+		"price": 1333,
+		"category": "Animal Body Part",
+		"defname": "MM_AcidicBreathImplant"
+	},
+	{
+		"abr": "adeptusastarteshelmet",
+		"price": 5017,
+		"category": "Headgear",
+		"defname": "Apparel_AdeptusAstartesHelmet"
+	},
+	{
+		"abr": "adeptusastarteshelmetalt",
+		"price": 5017,
+		"category": "Headgear",
+		"defname": "Apparel_AdeptusAstartesHelmetAlt"
+	},
+	{
+		"abr": "adeptusastartespowerarmor",
+		"price": 7317,
+		"category": "Armor",
+		"defname": "Apparel_AdeptusAstartesPowerArmor"
+	},
+	{
+		"abr": "adeptusastartesscoutarmor",
+		"price": 4158,
+		"category": "Armor",
+		"defname": "Apparel_AdeptusAstartesScoutArmor"
+	},
+	{
+		"abr": "adeptusastartesscouthelmet",
+		"price": 2508,
+		"category": "Headgear",
+		"defname": "Apparel_AdeptusAstartesScoutHelmet"
+	},
+	{
+		"abr": "adeptusastartesterminatorarmor",
+		"price": 13467,
+		"category": "Armor",
+		"defname": "Apparel_AdeptusAstartesTerminatorArmor"
+	},
+	{
+		"abr": "adeptusastartesterminatorhelmet",
+		"price": 7517,
+		"category": "Headgear",
+		"defname": "Apparel_AdeptusAstartesTerminatorHelmet"
+	},
+	{
+		"abr": "ahuizotl",
+		"price": 583,
+		"category": "Animals",
+		"defname": "MM_Ahuizotl"
+	},
+	{
+		"abr": "argentshroudhelmet",
+		"price": 3625,
+		"category": "Headgear",
+		"defname": "Apparel_ArgentShroudHelmet"
+	},
+	{
+		"abr": "argentshroudpowerarmor",
+		"price": 7817,
+		"category": "Armor",
+		"defname": "Apparel_ArgentShroudPowerArmor"
+	},
+	{
+		"abr": "autocannon",
+		"price": 9858,
+		"category": "Ranged weapons",
+		"defname": "Gun_AAAutocannon"
+	},
+	{
+		"abr": "basilisk",
+		"price": 750,
+		"category": "Animals",
+		"defname": "MM_Basilisk"
+	},
+	{
+		"abr": "basilisk",
+		"price": 583,
+		"category": "Animals",
+		"defname": "WMH_Basilisk"
+	},
+	{
+		"abr": "basiliskegg(fert.)",
+		"price": 15,
+		"category": "Eggs (fert.)",
+		"defname": "MM_EggBasiliskFertilized"
+	},
+	{
+		"abr": "basilisktrophy(grand)",
+		"price": 1375,
+		"category": "Trophies",
+		"defname": "WMHT_TrophyGrandBasilisk"
+	},
+	{
+		"abr": "bearofleet",
+		"price": 200,
+		"category": "Animals",
+		"defname": "WMH_Bearofleet"
+	},
+	{
+		"abr": "bearofleettrophy(grand)",
+		"price": 1258,
+		"category": "Trophies",
+		"defname": "WMHT_TrophyGrandBearofleet"
+	},
+	{
+		"abr": "bionichorns",
+		"price": 1117,
+		"category": "Animal Body Part",
+		"defname": "MM_BionicHorns"
+	},
+	{
+		"abr": "bionicmagicalwing",
+		"price": 1117,
+		"category": "Animal Body Part",
+		"defname": "MM_BionicMagicalWing"
+	},
+	{
+		"abr": "bionicstinger",
+		"price": 1117,
+		"category": "Animal Body Part",
+		"defname": "MM_BionicStinger"
+	},
+	{
+		"abr": "blacktemplarhelmet",
+		"price": 5017,
+		"category": "Headgear",
+		"defname": "Apparel_BlackTemplarHelmet"
+	},
+	{
+		"abr": "blacktemplarhelmetalt",
+		"price": 5017,
+		"category": "Headgear",
+		"defname": "Apparel_BlackTemplarHelmetAlt"
+	},
+	{
+		"abr": "blacktemplarpowerarmor",
+		"price": 8817,
+		"category": "Armor",
+		"defname": "Apparel_BlackTemplarPowerArmor"
+	},
+	{
+		"abr": "blacktemplarscoutarmor",
+		"price": 4158,
+		"category": "Armor",
+		"defname": "Apparel_BlackTemplarScoutArmor"
+	},
+	{
+		"abr": "blacktemplarterminatorarmor",
+		"price": 13467,
+		"category": "Armor",
+		"defname": "Apparel_BlackTemplarTerminatorArmor"
+	},
+	{
+		"abr": "blacktemplarterminatorhelmet",
+		"price": 7517,
+		"category": "Headgear",
+		"defname": "Apparel_BlackTemplarTerminatorHelmet"
+	},
+	{
+		"abr": "bloodangelhelmet",
+		"price": 5017,
+		"category": "Headgear",
+		"defname": "Apparel_BloodAngelHelmet"
+	},
+	{
+		"abr": "bloodangelhelmetalt",
+		"price": 5017,
+		"category": "Headgear",
+		"defname": "Apparel_BloodAngelHelmetAlt"
+	},
+	{
+		"abr": "bloodangelscoutarmor",
+		"price": 4158,
+		"category": "Armor",
+		"defname": "Apparel_BloodAngelScoutArmor"
+	},
+	{
+		"abr": "bloodangelterminatorarmor",
+		"price": 13467,
+		"category": "Armor",
+		"defname": "Apparel_BloodAngelTerminatorArmor"
+	},
+	{
+		"abr": "bloodangelterminatorhelmet",
+		"price": 7517,
+		"category": "Headgear",
+		"defname": "Apparel_BloodAngelTerminatorHelmet"
+	},
+	{
+		"abr": "bloodangelpowerarmor",
+		"price": 8817,
+		"category": "Armor",
+		"defname": "Apparel_BloodAngelPowerArmor"
+	},
+	{
+		"abr": "bloodyrosehelmet",
+		"price": 3625,
+		"category": "Headgear",
+		"defname": "Apparel_BloodyRoseHelmet"
+	},
+	{
+		"abr": "bloodyrosepowerarmor",
+		"price": 7817,
+		"category": "Armor",
+		"defname": "Apparel_BloodyRosePowerArmor"
+	},
+	{
+		"abr": "bluerobehelmet",
+		"price": 3625,
+		"category": "Headgear",
+		"defname": "Apparel_BlueRobeHelmet"
+	},
+	{
+		"abr": "bluerobepowerarmor",
+		"price": 7817,
+		"category": "Armor",
+		"defname": "Apparel_BlueRobePowerArmor"
+	},
+	{
+		"abr": "bolter(aa)",
+		"price": 2800,
+		"category": "Ranged weapons",
+		"defname": "Gun_AABolter"
+	},
+	{
+		"abr": "bolter(dw)",
+		"price": 4275,
+		"category": "Ranged weapons",
+		"defname": "Gun_DWBolter"
+	},
+	{
+		"abr": "bolter(scoped)",
+		"price": 2800,
+		"category": "Ranged weapons",
+		"defname": "Gun_ASBolterScoped"
+	},
+	{
+		"abr": "catoblepas",
+		"price": 667,
+		"category": "Animals",
+		"defname": "MM_Catoblepas"
+	},
+	{
+		"abr": "cerberus",
+		"price": 500,
+		"category": "Animals",
+		"defname": "MM_Cerberus"
+	},
+	{
+		"abr": "ceryneianhind",
+		"price": 583,
+		"category": "Animals",
+		"defname": "MM_CeryneianHind"
+	},
+	{
+		"abr": "chainsword",
+		"price": 2500,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_ASChainSword"
+	},
+	{
+		"abr": "chainsword",
+		"price": 2500,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_AAChainSword"
+	},
+	{
+		"abr": "chimera",
+		"price": 833,
+		"category": "Animals",
+		"defname": "MM_Chimera"
+	},
+	{
+		"abr": "chort",
+		"price": 6667,
+		"category": "Animals",
+		"defname": "WMH_Chort"
+	},
+	{
+		"abr": "chorttrophy(grand)",
+		"price": 3600,
+		"category": "Trophies",
+		"defname": "WMHT_TrophyGrandChort"
+	},
+	{
+		"abr": "condemnorbolter",
+		"price": 2933,
+		"category": "Ranged weapons",
+		"defname": "Gun_IQCondemnorBolter"
+	},
+	{
+		"abr": "cyclops",
+		"price": 2500,
+		"category": "Animals",
+		"defname": "WMH_Cyclops"
+	},
+	{
+		"abr": "cyclopstrophy(grand)",
+		"price": 1800,
+		"category": "Trophies",
+		"defname": "WMHT_TrophyGrandCyclops"
+	},
+	{
+		"abr": "darkangelhelmet",
+		"price": 5017,
+		"category": "Headgear",
+		"defname": "Apparel_DarkAngelHelmet"
+	},
+	{
+		"abr": "darkangelhelmetalt",
+		"price": 5017,
+		"category": "Headgear",
+		"defname": "Apparel_DarkAngelHelmetAlt"
+	},
+	{
+		"abr": "darkangelpowerarmor",
+		"price": 8817,
+		"category": "Armor",
+		"defname": "Apparel_DarkAngelPowerArmor"
+	},
+	{
+		"abr": "darkangelscoutarmor",
+		"price": 4158,
+		"category": "Armor",
+		"defname": "Apparel_DarkAngelScoutArmor"
+	},
+	{
+		"abr": "darkangelterminatorarmor",
+		"price": 13467,
+		"category": "Armor",
+		"defname": "Apparel_DarkAngelTerminatorArmor"
+	},
+	{
+		"abr": "darkangelterminatorhelmet",
+		"price": 7517,
+		"category": "Headgear",
+		"defname": "Apparel_DarkAngelTerminatorHelmet"
+	},
+	{
+		"abr": "deathwatchhelmet",
+		"price": 6742,
+		"category": "Headgear",
+		"defname": "Apparel_DeathwatchHelmet"
+	},
+	{
+		"abr": "deathwatchpowerarmor",
+		"price": 13933,
+		"category": "Armor",
+		"defname": "Apparel_DeathwatchPowerArmor"
+	},
+	{
+		"abr": "deathwatchpowerarmor(ba)",
+		"price": 13933,
+		"category": "Armor",
+		"defname": "Apparel_DeathwatchBAPowerArmor"
+	},
+	{
+		"abr": "deathwatchpowerarmor(bt)",
+		"price": 13933,
+		"category": "Armor",
+		"defname": "Apparel_DeathwatchBTPowerArmor"
+	},
+	{
+		"abr": "deathwatchpowerarmor(da)",
+		"price": 13933,
+		"category": "Armor",
+		"defname": "Apparel_DeathwatchDAPowerArmor"
+	},
+	{
+		"abr": "deathwatchpowerarmor(if)",
+		"price": 13933,
+		"category": "Armor",
+		"defname": "Apparel_DeathwatchIFPowerArmor"
+	},
+	{
+		"abr": "deathwatchpowerarmor(sa)",
+		"price": 13933,
+		"category": "Armor",
+		"defname": "Apparel_DeathwatchSAPowerArmor"
+	},
+	{
+		"abr": "deathwatchpowerarmor(sw)",
+		"price": 13933,
+		"category": "Armor",
+		"defname": "Apparel_DeathwatchSWPowerArmor"
+	},
+	{
+		"abr": "deathwatchpowerarmor(um)",
+		"price": 13933,
+		"category": "Armor",
+		"defname": "Apparel_DeathwatchUMPowerArmor"
+	},
+	{
+		"abr": "djinn",
+		"price": 417,
+		"category": "Animal",
+		"defname": "WMH_Djinn"
+	},
+	{
+		"abr": "djinnfireimplant",
+		"price": 1333,
+		"category": "Animal Body Part",
+		"defname": "WMH_DjinnFireImplant"
+	},
+	{
+		"abr": "djinntrophy",
+		"price": 517,
+		"category": "Trophies",
+		"defname": "WMHT_TrophyLargeDjinn"
+	},
+	{
+		"abr": "ekimmara",
+		"price": 750,
+		"category": "Animals",
+		"defname": "WMH_Ekimmara"
+	},
+	{
+		"abr": "ekimmaratrophy",
+		"price": 683,
+		"category": "Trophies",
+		"defname": "WMHT_TrophyLargeEkimmara"
+	},
+	{
+		"abr": "erymanthianboar",
+		"price": 1000,
+		"category": "Animals",
+		"defname": "MM_ErymanthianBoar"
+	},
+	{
+		"abr": "eviscerator",
+		"price": 6667,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_ASEviscerator"
+	},
+	{
+		"abr": "fenghuang",
+		"price": 625,
+		"category": "Animals",
+		"defname": "MM_Fenghuang"
+	},
+	{
+		"abr": "fenghuangegg(fert.)",
+		"price": 15,
+		"category": "Eggs (fert.)",
+		"defname": "MM_EggFenghuangFertilized"
+	},
+	{
+		"abr": "fiend",
+		"price": 6667,
+		"category": "Animals",
+		"defname": "WMH_Fiend"
+	},
+	{
+		"abr": "fiendtrophy(grand)",
+		"price": 2050,
+		"category": "Trophies",
+		"defname": "WMHT_TrophyGrandFiend"
+	},
+	{
+		"abr": "firebreathimplant",
+		"price": 1333,
+		"category": "Animal Body Part",
+		"defname": "MM_FireBreathImplant"
+	},
+	{
+		"abr": "fleder",
+		"price": 750,
+		"category": "Animals",
+		"defname": "WMH_Fleder"
+	},
+	{
+		"abr": "fledertrophy",
+		"price": 717,
+		"category": "Trophies",
+		"defname": "WMHT_TrophyLargeFleder"
+	},
+	{
+		"abr": "fogler",
+		"price": 208,
+		"category": "Animal",
+		"defname": "WMH_Fogler"
+	},
+	{
+		"abr": "foglertrophy",
+		"price": 517,
+		"category": "Trophies",
+		"defname": "WMHT_TrophyLargeFogler"
+	},
+	{
+		"abr": "ghoul",
+		"price": 92,
+		"category": "Animal",
+		"defname": "WMH_Ghoul"
+	},
+	{
+		"abr": "ghoultrophy",
+		"price": 517,
+		"category": "Trophies",
+		"defname": "WMHT_TrophyLargeGhoul"
+	},
+	{
+		"abr": "golem",
+		"price": 417,
+		"category": "Animals",
+		"defname": "WMH_Golem"
+	},
+	{
+		"abr": "golemtrophy(grand)",
+		"price": 1125,
+		"category": "Trophies",
+		"defname": "WMHT_TrophyGrandGolem"
+	},
+	{
+		"abr": "greyknighthelmet",
+		"price": 6742,
+		"category": "Headgear",
+		"defname": "Apparel_GreyKnightHelmet"
+	},
+	{
+		"abr": "greyknightpowerarmor(v1)",
+		"price": 13933,
+		"category": "Armor",
+		"defname": "Apparel_GreyKnightPowerArmor"
+	},
+	{
+		"abr": "greyknightpowerarmor(v2)",
+		"price": 13933,
+		"category": "Armor",
+		"defname": "Apparel_GreyKnightV2PowerArmor"
+	},
+	{
+		"abr": "greyknightpowerarmor(v3)",
+		"price": 13933,
+		"category": "Armor",
+		"defname": "Apparel_GreyKnightV3PowerArmor"
+	},
+	{
+		"abr": "greyknightterminatorarmor(v1)",
+		"price": 21150,
+		"category": "Armor",
+		"defname": "Apparel_GreyKnightTerminatorArmor"
+	},
+	{
+		"abr": "greyknightterminatorarmor(v2)",
+		"price": 21150,
+		"category": "Armor",
+		"defname": "Apparel_GreyKnightV2TerminatorArmor"
+	},
+	{
+		"abr": "greyknightterminatorhelmet",
+		"price": 10050,
+		"category": "Headgear",
+		"defname": "Apparel_GreyKnightTerminatorHelmet"
+	},
+	{
+		"abr": "griffin",
+		"price": 1000,
+		"category": "Animals",
+		"defname": "MM_Griffin"
+	},
+	{
+		"abr": "griffinegg(fert.)",
+		"price": 15,
+		"category": "Eggs (fert.)",
+		"defname": "MM_EggGriffinFertilized"
+	},
+	{
+		"abr": "heavybolter",
+		"price": 5333,
+		"category": "Ranged weapons",
+		"defname": "Gun_ASHeavyBolter"
+	},
+	{
+		"abr": "heavybolter(aa)",
+		"price": 5333,
+		"category": "Ranged weapons",
+		"defname": "Gun_AAHeavyBolter"
+	},
+	{
+		"abr": "heavybolter(dw)",
+		"price": 8142,
+		"category": "Ranged weapons",
+		"defname": "Gun_DWHeavyBolter"
+	},
+	{
+		"abr": "heavyflamer",
+		"price": 6450,
+		"category": "Ranged weapons",
+		"defname": "Gun_AAHeavyFlamer"
+	},
+	{
+		"abr": "heavymagicalleather",
+		"price": 8,
+		"category": "Leathers",
+		"defname": "MM_HeavyMagicalLeather"
+	},
+	{
+		"abr": "hym",
+		"price": 292,
+		"category": "Animal",
+		"defname": "WMH_Hym"
+	},
+	{
+		"abr": "hymtrophy",
+		"price": 517,
+		"category": "Trophies",
+		"defname": "WMHT_TrophyLargeHym"
+	},
+	{
+		"abr": "ieltxu",
+		"price": 417,
+		"category": "Animals",
+		"defname": "MM_Ieltxu"
+	},
+	{
+		"abr": "ieltxuegg(fert.)",
+		"price": 15,
+		"category": "Eggs (fert.)",
+		"defname": "MM_EggIeltxuFertilized"
+	},
+	{
+		"abr": "imperialfisthelmet",
+		"price": 5017,
+		"category": "Headgear",
+		"defname": "Apparel_ImperialFistHelmet"
+	},
+	{
+		"abr": "imperialfisthelmetalt",
+		"price": 5017,
+		"category": "Headgear",
+		"defname": "Apparel_ImperialFistHelmetAlt"
+	},
+	{
+		"abr": "imperialfistpowerarmor",
+		"price": 8817,
+		"category": "Armor",
+		"defname": "Apparel_ImperialFistPowerArmor"
+	},
+	{
+		"abr": "imperialfistscoutarmor",
+		"price": 4158,
+		"category": "Armor",
+		"defname": "Apparel_ImperialFistScoutArmor"
+	},
+	{
+		"abr": "imperialfistterminatorarmor",
+		"price": 13467,
+		"category": "Armor",
+		"defname": "Apparel_ImperialFistTerminatorArmor"
+	},
+	{
+		"abr": "imperialfistterminatorhelmet",
+		"price": 7517,
+		"category": "Headgear",
+		"defname": "Apparel_ImperialFistTerminatorHelmet"
+	},
+	{
+		"abr": "inquisitoreye",
+		"price": 6617,
+		"category": "Headgear",
+		"defname": "Apparel_InquisitorEye"
+	},
+	{
+		"abr": "inquisitorpowerarmor",
+		"price": 13817,
+		"category": "Armor",
+		"defname": "Apparel_InquisitorPowerArmor"
+	},
+	{
+		"abr": "kappa",
+		"price": 583,
+		"category": "Animals",
+		"defname": "MM_Kappa"
+	},
+	{
+		"abr": "kikimorequeen",
+		"price": 750,
+		"category": "Animals",
+		"defname": "WMH_KikimoreQueen"
+	},
+	{
+		"abr": "kikimoretrophy(grand)",
+		"price": 1125,
+		"category": "Trophies",
+		"defname": "WMHT_TrophyGrandKikimore"
+	},
+	{
+		"abr": "kikimorewarrior",
+		"price": 333,
+		"category": "Animals",
+		"defname": "WMAux_KikimoreWarrior"
+	},
+	{
+		"abr": "kikimoreworker",
+		"price": 167,
+		"category": "Animals",
+		"defname": "WMAux_KikimoreWorker"
+	},
+	{
+		"abr": "kitsune",
+		"price": 417,
+		"category": "Animals",
+		"defname": "MM_Kitsune"
+	},
+	{
+		"abr": "lernaeanhydra",
+		"price": 1667,
+		"category": "Animals",
+		"defname": "MM_LernaeanHydra"
+	},
+	{
+		"abr": "leshy",
+		"price": 2500,
+		"category": "Animals",
+		"defname": "WMH_Leshy"
+	},
+	{
+		"abr": "leshytrophy",
+		"price": 517,
+		"category": "Trophies",
+		"defname": "WMHT_TrophyLargeLeshy"
+	},
+	{
+		"abr": "lesserwyvern",
+		"price": 2083,
+		"category": "Animals",
+		"defname": "MM_LesserWyvern"
+	},
+	{
+		"abr": "lightmagicalleather",
+		"price": 6,
+		"category": "Leathers",
+		"defname": "MM_LightMagicalLeather"
+	},
+	{
+		"abr": "lighteningclaws",
+		"price": 3333,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_AALighteningClaws"
+	},
+	{
+		"abr": "manticore",
+		"price": 1667,
+		"category": "Animals",
+		"defname": "MM_Manticore"
+	},
+	{
+		"abr": "martyredladyhelmet",
+		"price": 3625,
+		"category": "Headgear",
+		"defname": "Apparel_MartyredLadyHelmet"
+	},
+	{
+		"abr": "martyredladypowerarmor",
+		"price": 7817,
+		"category": "Armor",
+		"defname": "Apparel_MartyredLadyPowerArmor"
+	},
+	{
+		"abr": "meltagun",
+		"price": 6600,
+		"category": "Ranged weapons",
+		"defname": "Gun_AAMeltagun"
+	},
+	{
+		"abr": "monstermeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_WMH_Chort"
+	},
+	{
+		"abr": "nekker",
+		"price": 25,
+		"category": "Animals",
+		"defname": "WMH_Nekker"
+	},
+	{
+		"abr": "nekkertrophy",
+		"price": 617,
+		"category": "Trophies",
+		"defname": "WMHT_TrophyLargeNekker"
+	},
+	{
+		"abr": "nemesisdaemonhammer",
+		"price": 6667,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_AANemesisDaemonHammer"
+	},
+	{
+		"abr": "nemesisfalchion",
+		"price": 6667,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_AANemesisFalchion"
+	},
+	{
+		"abr": "nemesisforcehalberd",
+		"price": 6667,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_AANemesisForceHalberd"
+	},
+	{
+		"abr": "nemesisforcesword",
+		"price": 6667,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_AANemesisForceSword"
+	},
+	{
+		"abr": "pegasus",
+		"price": 917,
+		"category": "Animals",
+		"defname": "MM_Pegasus"
+	},
+	{
+		"abr": "petrifyinggazeimplant",
+		"price": 1333,
+		"category": "Animal Body Part",
+		"defname": "MM_PetrifyingGazeImplant"
+	},
+	{
+		"abr": "phoenix",
+		"price": 917,
+		"category": "Animals",
+		"defname": "MM_Phoenix"
+	},
+	{
+		"abr": "phoenixegg(fert.)",
+		"price": 17,
+		"category": "Eggs (fert.)",
+		"defname": "MM_EggPhoenixFertilized"
+	},
+	{
+		"abr": "plasmacannon",
+		"price": 1667,
+		"category": "Ranged weapons",
+		"defname": "Gun_AAPlasmaCannon"
+	},
+	{
+		"abr": "plasmapistol",
+		"price": 5100,
+		"category": "Ranged weapons",
+		"defname": "Gun_AAPlasmaPistol"
+	},
+	{
+		"abr": "plasmarifle",
+		"price": 9933,
+		"category": "Ranged weapons",
+		"defname": "Gun_AAPlasmaRifle"
+	},
+	{
+		"abr": "poweraxe",
+		"price": 3333,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_AAPowerAxe"
+	},
+	{
+		"abr": "powerfist",
+		"price": 3333,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_AAPowerFist"
+	},
+	{
+		"abr": "powermace",
+		"price": 3333,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_ASPowerMace"
+	},
+	{
+		"abr": "powermaul",
+		"price": 3333,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_AAPowerMaul"
+	},
+	{
+		"abr": "powersword",
+		"price": 3333,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_ASPowerSword"
+	},
+	{
+		"abr": "powersword",
+		"price": 3333,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_AAPowerSword"
+	},
+	{
+		"abr": "qilin",
+		"price": 417,
+		"category": "Animals",
+		"defname": "MM_Qilin"
+	},
+	{
+		"abr": "rageofnatureimplant",
+		"price": 1333,
+		"category": "Animal Body Part",
+		"defname": "WMH_RageOfNatureImplant"
+	},
+	{
+		"abr": "sacredrosehelmet",
+		"price": 3625,
+		"category": "Headgear",
+		"defname": "Apparel_SacredRoseHelmet"
+	},
+	{
+		"abr": "sacredrosepowerarmor",
+		"price": 7817,
+		"category": "Armor",
+		"defname": "Apparel_SacredRosePowerArmor"
+	},
+	{
+		"abr": "salamander",
+		"price": 750,
+		"category": "Animals",
+		"defname": "MM_Salamander"
+	},
+	{
+		"abr": "salamanderegg(fert.)",
+		"price": 15,
+		"category": "Eggs (fert.)",
+		"defname": "MM_EggSalamanderFertilized"
+	},
+	{
+		"abr": "salamanderhelmet",
+		"price": 5017,
+		"category": "Headgear",
+		"defname": "Apparel_SalamanderHelmet"
+	},
+	{
+		"abr": "salamanderhelmetalt",
+		"price": 5017,
+		"category": "Headgear",
+		"defname": "Apparel_SalamanderHelmetAlt"
+	},
+	{
+		"abr": "salamanderpowerarmor",
+		"price": 8817,
+		"category": "Armor",
+		"defname": "Apparel_SalamanderPowerArmor"
+	},
+	{
+		"abr": "salamanderscoutarmor",
+		"price": 4158,
+		"category": "Armor",
+		"defname": "Apparel_SalamanderScoutArmor"
+	},
+	{
+		"abr": "salamanderterminatorarmor",
+		"price": 13467,
+		"category": "Armor",
+		"defname": "Apparel_SalamanderTerminatorArmor"
+	},
+	{
+		"abr": "salamanderterminatorhelmet",
+		"price": 7517,
+		"category": "Headgear",
+		"defname": "Apparel_SalamanderTerminatorHelmet"
+	},
+	{
+		"abr": "shotgun",
+		"price": 675,
+		"category": "Ranged weapons",
+		"defname": "Gun_AAShotgun"
+	},
+	{
+		"abr": "shotgun(dw)",
+		"price": 4050,
+		"category": "Ranged weapons",
+		"defname": "Gun_DWShotgun"
+	},
+	{
+		"abr": "simpleprosthetichorns",
+		"price": 218,
+		"category": "Animal Body Part",
+		"defname": "MM_ProstheticHorns"
+	},
+	{
+		"abr": "simpleprostheticmagicalwing",
+		"price": 218,
+		"category": "Animal Body Part",
+		"defname": "MM_ProstheticMagicalWing"
+	},
+	{
+		"abr": "simpleprostheticstinger",
+		"price": 218,
+		"category": "Animal Body Part",
+		"defname": "MM_ProstheticStinger"
+	},
+	{
+		"abr": "sniperrifle(aa)",
+		"price": 6600,
+		"category": "Ranged weapons",
+		"defname": "Gun_AASniperRifle"
+	},
+	{
+		"abr": "spacewolfhelmet",
+		"price": 5017,
+		"category": "Headgear",
+		"defname": "Apparel_SpaceWolfHelmet"
+	},
+	{
+		"abr": "spacewolfhelmetalt",
+		"price": 5017,
+		"category": "Headgear",
+		"defname": "Apparel_SpaceWolfHelmetAlt"
+	},
+	{
+		"abr": "spacewolfpowerarmor",
+		"price": 8817,
+		"category": "Armor",
+		"defname": "Apparel_SpaceWolfPowerArmor"
+	},
+	{
+		"abr": "spacewolfscoutarmor",
+		"price": 4158,
+		"category": "Armor",
+		"defname": "Apparel_SpaceWolfScoutArmor"
+	},
+	{
+		"abr": "spacewolfterminatorarmor",
+		"price": 13467,
+		"category": "Armor",
+		"defname": "Apparel_SpaceWolfTerminatorArmor"
+	},
+	{
+		"abr": "spacewolfterminatorhelmet",
+		"price": 7517,
+		"category": "Headgear",
+		"defname": "Apparel_SpaceWolfTerminatorHelmet"
+	},
+	{
+		"abr": "stormbolter",
+		"price": 4067,
+		"category": "Ranged weapons",
+		"defname": "Gun_ASStormBolter"
+	},
+	{
+		"abr": "stormbolter(aa)",
+		"price": 4067,
+		"category": "Ranged weapons",
+		"defname": "Gun_AAStormBolter"
+	},
+	{
+		"abr": "stormbolter(dw)",
+		"price": 6208,
+		"category": "Ranged weapons",
+		"defname": "Gun_DWStormBolter"
+	},
+	{
+		"abr": "stormhammer",
+		"price": 3333,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_AAStormHammer"
+	},
+	{
+		"abr": "tlilcoatl",
+		"price": 750,
+		"category": "Animals",
+		"defname": "MM_Tlilcoatl"
+	},
+	{
+		"abr": "toxicbreathimplant",
+		"price": 1333,
+		"category": "Animal Body Part",
+		"defname": "MM_ToxicBreathImplant"
+	},
+	{
+		"abr": "triplerocketlauncher",
+		"price": 1667,
+		"category": "Ranged weapons",
+		"defname": "Gun_AAMissileLauncher"
+	},
+	{
+		"abr": "ultramarinehelmet",
+		"price": 5017,
+		"category": "Headgear",
+		"defname": "Apparel_UltramarineHelmet"
+	},
+	{
+		"abr": "ultramarinehelmetalt",
+		"price": 5017,
+		"category": "Headgear",
+		"defname": "Apparel_UltramarineHelmetAlt"
+	},
+	{
+		"abr": "ultramarinepowerarmor",
+		"price": 8817,
+		"category": "Armor",
+		"defname": "Apparel_UltramarinePowerArmor"
+	},
+	{
+		"abr": "ultramarinescoutarmor",
+		"price": 4158,
+		"category": "Armor",
+		"defname": "Apparel_UltramarineScoutArmor"
+	},
+	{
+		"abr": "ultramarineterminatorarmor",
+		"price": 13467,
+		"category": "Armor",
+		"defname": "Apparel_UltramarineTerminatorArmor"
+	},
+	{
+		"abr": "ultramarineterminatorhelmet",
+		"price": 7517,
+		"category": "Headgear",
+		"defname": "Apparel_UltramarineTerminatorHelmet"
+	},
+	{
+		"abr": "unicorn",
+		"price": 917,
+		"category": "Animals",
+		"defname": "MM_Unicorn"
+	},
+	{
+		"abr": "velocipreymeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Velociprey"
+	},
+	{
+		"abr": "venison",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Kelbi"
+	},
+	{
+		"abr": "venomousquillimplant",
+		"price": 1333,
+		"category": "Animal Body Part",
+		"defname": "MM_VenomousQuillImplant"
+	},
+	{
+		"abr": "vibranium",
+		"price": 12,
+		"category": "Raw resources",
+		"defname": "Skelsshkrum"
+	},
+	{
+		"abr": "vx0neuralchip",
+		"price": 417,
+		"category": "Android",
+		"defname": "ATPP_VX0Chip"
+	},
+	{
+		"abr": "vx1neuralchip",
+		"price": 1333,
+		"category": "Android",
+		"defname": "ATPP_VX1Chip"
+	},
+	{
+		"abr": "vx2neuralchip",
+		"price": 3333,
+		"category": "Android",
+		"defname": "ATPP_VX2Chip"
+	},
+	{
+		"abr": "vx3neuralchip",
+		"price": 6667,
+		"category": "Android",
+		"defname": "ATPP_VX3Chip"
+	},
+	{
+		"abr": "werewolf",
+		"price": 750,
+		"category": "Animals",
+		"defname": "WMH_Werewolf"
+	},
+	{
+		"abr": "werewolftrophy",
+		"price": 692,
+		"category": "Trophies",
+		"defname": "WMHT_TrophyLargeWerewolf"
+	},
+	{
+		"abr": "whip",
+		"price": 174,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_Whip"
+	},
+	{
+		"abr": "wildminotaur",
+		"price": 583,
+		"category": "Animals",
+		"defname": "MM_WildMinotaur"
+	},
+	{
+		"abr": "will-o'-wisp",
+		"price": 250,
+		"category": "Animals",
+		"defname": "MM_WillOWisp"
+	},
+	{
+		"abr": "wispfireimplant",
+		"price": 1333,
+		"category": "Animal Body Part",
+		"defname": "MM_WispFireImplant"
+	},
+	{
+		"abr": "witchhunterarmor(black)",
+		"price": 5575,
+		"category": "Armor",
+		"defname": "Apparel_WitchHunterArmorBlack"
+	},
+	{
+		"abr": "witchhunterarmor(brown)",
+		"price": 5575,
+		"category": "Armor",
+		"defname": "Apparel_WitchHunterArmorBrown"
+	},
+	{
+		"abr": "witchhunterarmor(green)",
+		"price": 5575,
+		"category": "Armor",
+		"defname": "Apparel_WitchHunterArmorGreen"
+	},
+	{
+		"abr": "witchhunterhat(black)",
+		"price": 2308,
+		"category": "Headgear",
+		"defname": "Apparel_WitchHunterHatBlack"
+	},
+	{
+		"abr": "witchhunterhat(brown)",
+		"price": 2308,
+		"category": "Headgear",
+		"defname": "Apparel_WitchHunterHatBrown"
+	},
+	{
+		"abr": "witchhunterhat(green)",
+		"price": 2308,
+		"category": "Headgear",
+		"defname": "Apparel_WitchHunterHatGreen"
+	},
+	{
+		"abr": "witchhunterovercoat(black)",
+		"price": 2367,
+		"category": "Armor",
+		"defname": "Apparel_WitchHunterOvercoatBlack"
+	},
+	{
+		"abr": "witchhunterovercoat(brown)",
+		"price": 2367,
+		"category": "Armor",
+		"defname": "Apparel_WitchHunterOvercoatBrown"
+	},
+	{
+		"abr": "witchhunterovercoat(green)",
+		"price": 2367,
+		"category": "Armor",
+		"defname": "Apparel_WitchHunterOvercoatGreen"
+	},
+	{
+		"abr": "fungusbeer",
+		"price": 20,
+		"category": "Drugs",
+		"defname": "FungusBeer"
+	},
+	{
+		"abr": "saucedfinemeal",
+		"price": 42,
+		"category": "Meals",
+		"defname": "SM_SaucedMealFine"
+	},
+	{
+		"abr": "saucedlavishmeal",
+		"price": 75,
+		"category": "Meals",
+		"defname": "SM_SaucedMealLavish"
+	},
+	{
+		"abr": "saucedsimplemeal",
+		"price": 33,
+		"category": "Meals",
+		"defname": "SM_SaucedMealSimple"
+	},
+	{
+		"abr": "shroomfiber",
+		"price": 6,
+		"category": "Textiles",
+		"defname": "shroomfiber"
 	}
 	],
-	"total": 2935
+	"total": 3673
 }
