@@ -83,9 +83,9 @@
       "degree": 0
     },
     {
-      "description": "Timmy is an exceptionally agreeable and giving person. this pawn never insults others and will sometimes offer kind words to brighten the moods of those around them. this pawn also never judges people by their appearance.",
+      "description": "Timmy is an exceptionally agreeable and giving person. this pawn never insults others and will sometimes offer kind words to brighten the moods of those around them. this pawn also never judges people by their appearance. their agreeableness also makes them more likely to conform to prevailing opinions.",
       "stats": [
-
+        "x200% global certainty loss factor"
       ],
       "conflicts": [
         "abrasive",
@@ -103,7 +103,7 @@
           "psychopath"
         ],
         "stats": [
-
+          "x200% global certainty loss factor"
         ]
       },
       "defName": "Kind",
@@ -117,7 +117,7 @@
     {
       "description": "Timmy has no empathy. The suffering of others doesn't bother them at all. this pawn doesn't mind if others are butchered, left unburied, imprisoned, or sold to slavery - unless it affects them. this pawn also feels no mood boost from socializing.",
       "stats": [
-
+        "x50% global certainty loss factor"
       ],
       "conflicts": [
         "philanthropist",
@@ -135,7 +135,7 @@
           "animalfriend"
         ],
         "stats": [
-
+          "x50% global certainty loss factor"
         ]
       },
       "defName": "Psychopath",
@@ -179,7 +179,7 @@
     {
       "description": "Timmy always says exactly what's on their mind, especially if it's bugging them. That tends to rub people the wrong way.",
       "stats": [
-
+        "x50% global certainty loss factor"
       ],
       "conflicts": [
         "kind",
@@ -221,7 +221,7 @@
           "spiritualhealer"
         ],
         "stats": [
-
+          "x50% global certainty loss factor"
         ]
       },
       "defName": "Abrasive",
@@ -439,7 +439,7 @@
     {
       "description": "Timmy has forsaken physical comforts and enjoyments in favor of a simple, pure lifestyle. this pawn will become unhappy if this pawn has a bedroom that's too impressive. this pawn also dislikes fancy food and prefers to eat raw. this pawn never judges others by their appearance.",
       "stats": [
-
+        "x50% global certainty loss factor"
       ],
       "conflicts": [
         "greedy",
@@ -459,7 +459,7 @@
           "gourmand"
         ],
         "stats": [
-
+          "x50% global certainty loss factor"
         ]
       },
       "defName": "Ascetic",
@@ -496,8 +496,8 @@
       "name": "gay",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -526,8 +526,8 @@
       "name": "bisexual",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -556,8 +556,8 @@
       "name": "asexual",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -15544,8 +15544,8 @@
       "name": "straight",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -17447,6 +17447,162 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0
+    },
+    {
+      "description": "Timmy love ketchup so much, so this pawn always want to put ketchup on the meal. Be careful, this pawn would be sad if ate a meal without ketchup.",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "mayonnaiselover",
+        "soysaucelover"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimSeasoning",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "mayonnaiselover",
+          "soysaucelover"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "RimSeasoning_KetchupLover",
+      "name": "ketchuplover",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy love mayonnaise so much, so this pawn always want to put mayonnaise on the meal. Be careful, this pawn would be sad if ate a meal without mayonnaise.",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "ketchuplover",
+        "soysaucelover"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimSeasoning",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "ketchuplover",
+          "soysaucelover"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "RimSeasoning_MayonnaiseLover",
+      "name": "mayonnaiselover",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy love soy sauce so much, so this pawn always want to put soy sauce on the meal. Be careful, this pawn would be sad if ate a meal without soy sauce.",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "ketchuplover",
+        "mayonnaiselover"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimSeasoning",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "ketchuplover",
+          "mayonnaiselover"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "RimSeasoning_SoySauseLover",
+      "name": "soysaucelover",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy has made an unbreakable contract. this pawn will return from the dead to serve the King in Yellow that rules the lost city of Carcosa.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Call of Cthulhu - Cults",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Cults_OathtakerHastur",
+      "name": "oathtaker",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy has risen from the dead to serve once again.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Call of Cthulhu - Cults",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Cults_OathtakerHastur2",
+      "name": "reanimated",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
     }
   ],
   "races": [
@@ -18515,7 +18671,8 @@
           "+115% Hunting stealth",
           "+105% Global learning factor",
           "+75% Global work speed",
-          "-0.3 Shooting accuracy"
+          "-0.3 Shooting accuracy",
+          "+200% Suppression power"
         ],
         "mod": "[FCP] Stupid Sexy Deathclaws",
         "karmaType": null,
@@ -18526,6 +18683,31 @@
       "enabled": true,
       "name": "Deathcloid",
       "price": 1667
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+100% Flammability",
+          "+$0 Market value",
+          "+3.50 Move speed",
+          "+0% Psychic sensitivity",
+          "-10.0% Armor - Blunt",
+          "-15.0% Armor - Sharp",
+          "-100.0C Minimum comfortable temperature",
+          "+100.0C Maximum comfortable temperature",
+          "+20 Leather amount",
+          "+0 Meat amount"
+        ],
+        "mod": "Call of Cthulhu - Cults",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Whether due to scientific experimentation, occult interference, or comic fluke, these are poor souls for whom death has been abjured.",
+      "defName": "ReanimatedCorpse",
+      "enabled": true,
+      "name": "reanimated corpse",
+      "price": 1
     }
   ]
 }

@@ -5852,7 +5852,7 @@
 	},
 	{
 		"abr": "ripperswarm",
-		"price": 250,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Tyranid_RipperSwarm"
 	},
@@ -7880,7 +7880,7 @@
 	},
 	{
 		"abr": "animaprism",
-		"price": 833,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Crystal_NeutralPrism"
 	},
@@ -17864,7 +17864,7 @@
 	},
 	{
 		"abr": "asari",
-		"price": 3333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Alien_Asari"
 	},
@@ -18290,7 +18290,7 @@
 	},
 	{
 		"abr": "daemonette",
-		"price": 3333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Alien_Daemonette"
 	},
@@ -18380,7 +18380,7 @@
 	},
 	{
 		"abr": "deathcloid",
-		"price": 1667,
+		"price": -10,
 		"category": "Animal",
 		"defname": "SSD_DeathclawRace"
 	},
@@ -19514,7 +19514,7 @@
 	},
 	{
 		"abr": "m7mechanisedinfantry",
-		"price": 30000,
+		"price": -10,
 		"category": "Animal",
 		"defname": "M7Mech"
 	},
@@ -19526,7 +19526,7 @@
 	},
 	{
 		"abr": "m8mechanisedinfantry",
-		"price": 30000,
+		"price": -10,
 		"category": "Animal",
 		"defname": "M8Mech"
 	},
@@ -20168,7 +20168,7 @@
 	},
 	{
 		"abr": "slaaneshprince",
-		"price": 4000,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Alien_SlaaPrince"
 	},
@@ -20192,7 +20192,7 @@
 	},
 	{
 		"abr": "slaaneshihuman",
-		"price": 2917,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Alien_Slaaneshi"
 	},
@@ -20336,31 +20336,31 @@
 	},
 	{
 		"abr": "t1android",
-		"price": 2333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Android1Tier"
 	},
 	{
 		"abr": "t2android",
-		"price": 4167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Android2Tier"
 	},
 	{
 		"abr": "t3android",
-		"price": 8000,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Android3Tier"
 	},
 	{
 		"abr": "t4android",
-		"price": 10000,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Android4Tier"
 	},
 	{
 		"abr": "t5android",
-		"price": 13333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Android5Tier"
 	},
@@ -21881,7 +21881,2095 @@
 		"price": 6,
 		"category": "Textiles",
 		"defname": "shroomfiber"
+	},
+	{
+		"abr": "woollybufflehead",
+		"price": 367,
+		"category": "Animals",
+		"defname": "ZDuck_Bufflehead"
+	},
+	{
+		"abr": "wraith",
+		"price": 292,
+		"category": "Animal",
+		"defname": "WMH_Wraith"
+	},
+	{
+		"abr": "wraithtrophy",
+		"price": 517,
+		"category": "Trophies",
+		"defname": "WMHT_TrophyLargeWraith"
+	},
+	{
+		"abr": "wyvern",
+		"price": 583,
+		"category": "Animals",
+		"defname": "WMH_Wyvern"
+	},
+	{
+		"abr": "wyvernacidspitterimplant",
+		"price": 1333,
+		"category": "Animal Body Part",
+		"defname": "WMH_WyvernAcidSpitterImplant"
+	},
+	{
+		"abr": "wyvernblade",
+		"price": 1600,
+		"category": "Melee weapons",
+		"defname": "MH_Longsword_Rathalos"
+	},
+	{
+		"abr": "wyvernignition",
+		"price": 1475,
+		"category": "Melee weapons",
+		"defname": "MH_Greatsword_Wyvern"
+	},
+	{
+		"abr": "wyverntrophy(grand)",
+		"price": 1375,
+		"category": "Trophies",
+		"defname": "WMHT_TrophyGrandWyvern"
+	},
+	{
+		"abr": "xenophaseaxe",
+		"price": 6667,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_DWXenophaseAxe"
+	},
+	{
+		"abr": "xenophaseblade",
+		"price": 6667,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_DWXenophaseBlade"
+	},
+	{
+		"abr": "xiezhi",
+		"price": 833,
+		"category": "Animals",
+		"defname": "MM_Xiezhi"
+	},
+	{
+		"abr": "yiankut-kuegg",
+		"price": 38,
+		"category": "Eggs (fert.)",
+		"defname": "EggKutKuFertilized"
+	},
+	{
+		"abr": "yiankut-kulanceshield",
+		"price": 692,
+		"category": "Shields",
+		"defname": "MH_Shield_KutKuL"
+	},
+	{
+		"abr": "yian-kut-ku",
+		"price": 7333,
+		"category": "Animals",
+		"defname": "YianKutKu"
+	},
+	{
+		"abr": "yian-kut-kuleather",
+		"price": 9,
+		"category": "Monster leathers",
+		"defname": "Leather_Yian"
+	},
+	{
+		"abr": "yian-kut-kumeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_YianKutKu"
+	},
+	{
+		"abr": "zamtrios",
+		"price": 8000,
+		"category": "Animals",
+		"defname": "Zamtrios"
+	},
+	{
+		"abr": "zamtriosegg",
+		"price": 250,
+		"category": "Eggs (fert.)",
+		"defname": "EggZamtriosFertilized"
+	},
+	{
+		"abr": "zamtriosleather",
+		"price": 11,
+		"category": "Monster leathers",
+		"defname": "Leather_Zamtrios"
+	},
+	{
+		"abr": "zamtriosmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Zamtrios"
+	},
+	{
+		"abr": "zinogre",
+		"price": 8000,
+		"category": "Animals",
+		"defname": "Zinogre"
+	},
+	{
+		"abr": "zinogreegg",
+		"price": 250,
+		"category": "Eggs (fert.)",
+		"defname": "EggZinogreFertilized"
+	},
+	{
+		"abr": "zinogregunlanceshield",
+		"price": 1108,
+		"category": "Shields",
+		"defname": "MH_Shield_ZinogreGL"
+	},
+	{
+		"abr": "zinogreleather",
+		"price": 17,
+		"category": "Monster leathers",
+		"defname": "Leather_Zinogre"
+	},
+	{
+		"abr": "zinogremeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Zinogre"
+	},
+	{
+		"abr": "zoologyimplant",
+		"price": 2667,
+		"category": "Android",
+		"defname": "AnimalMindImplant"
+	},
+	{
+		"abr": "advancedbedintegrator",
+		"price": 2958,
+		"category": "Buildings",
+		"defname": "GNAdvancedBedIntegrator"
+	},
+	{
+		"abr": "advancedglitternetprocessor",
+		"price": 16758,
+		"category": "Buildings",
+		"defname": "GNAdvancedGlitterNetProcessor"
+	},
+	{
+		"abr": "advancedmedicalintegrator",
+		"price": 2958,
+		"category": "Buildings",
+		"defname": "GNAdvancedMedicalIntegrator"
+	},
+	{
+		"abr": "advancedpowerintegrator",
+		"price": 2958,
+		"category": "Buildings",
+		"defname": "GNAdvancedPowerIntegrator"
+	},
+	{
+		"abr": "advancedresearchintegrator",
+		"price": 2958,
+		"category": "Buildings",
+		"defname": "GNAdvancedResearchIntegrator"
+	},
+	{
+		"abr": "advancedworkspeedintegrator",
+		"price": 2958,
+		"category": "Buildings",
+		"defname": "GNAdvancedWorkspeedIntegrator"
+	},
+	{
+		"abr": "amulet",
+		"price": 833,
+		"category": "Inert relics",
+		"defname": "VIE_RelicInertAmulet"
+	},
+	{
+		"abr": "ancientbattery",
+		"price": 533,
+		"category": "Power",
+		"defname": "VFEA_AncientBattery"
+	},
+	{
+		"abr": "ancientbed",
+		"price": 147,
+		"category": "Furniture",
+		"defname": "VFEA_AncientBed"
+	},
+	{
+		"abr": "ancientbio-batterytank",
+		"price": 1692,
+		"category": "Power",
+		"defname": "VFEA_AncientBioBatteryTank"
+	},
+	{
+		"abr": "ancientchemfuelpoweredgenerator",
+		"price": 767,
+		"category": "Power",
+		"defname": "VFEA_AncientChemfuelPoweredGenerator"
+	},
+	{
+		"abr": "ancientcookingstation",
+		"price": 550,
+		"category": "Production",
+		"defname": "VFEA_AncientCookingStation"
+	},
+	{
+		"abr": "ancientcooler",
+		"price": 458,
+		"category": "Temperature",
+		"defname": "VFEA_AncientCooler"
+	},
+	{
+		"abr": "ancientcryptosleepsuspender",
+		"price": 733,
+		"category": "Furniture",
+		"defname": "VFEA_AncientCryptosleepSuspender"
+	},
+	{
+		"abr": "ancienteducator",
+		"price": 196,
+		"category": "Furniture",
+		"defname": "VFEA_AncientEducator"
+	},
+	{
+		"abr": "ancientfoosballtable",
+		"price": 167,
+		"category": "Furniture",
+		"defname": "VFEA_AncientFoosballTable"
+	},
+	{
+		"abr": "ancientgeothermalplant",
+		"price": 2317,
+		"category": "Power",
+		"defname": "VFEA_AncientGeothermalPlant"
+	},
+	{
+		"abr": "ancientheater",
+		"price": 271,
+		"category": "Temperature",
+		"defname": "VFEA_AncientHeater"
+	},
+	{
+		"abr": "ancienthydroponicfarm",
+		"price": 917,
+		"category": "Production",
+		"defname": "VFEA_AncientHydroponicFarm"
+	},
+	{
+		"abr": "ancientpointdefenseturret",
+		"price": 2117,
+		"category": "Security",
+		"defname": "VFEA_Turret_AncientPointDefense"
+	},
+	{
+		"abr": "ancientsecurityturret",
+		"price": 392,
+		"category": "Security",
+		"defname": "VFEA_Turret_AncientSecurityTurret"
+	},
+	{
+		"abr": "ancientsolargenerator",
+		"price": 767,
+		"category": "Power",
+		"defname": "VFEA_AncientSolarGenerator"
+	},
+	{
+		"abr": "ancientvitalsmonitor",
+		"price": 358,
+		"category": "Misc",
+		"defname": "VFEA_AncientVitalsMonitor"
+	},
+	{
+		"abr": "ancientworkshop",
+		"price": 1200,
+		"category": "Production",
+		"defname": "VFEA_AncientWorkshop"
+	},
+	{
+		"abr": "animaseed",
+		"price": 117,
+		"category": "Items",
+		"defname": "GauranlenSeed"
+	},
+	{
+		"abr": "animabric",
+		"price": 3,
+		"category": "Textiles",
+		"defname": "VDE_Gaubric"
+	},
+	{
+		"abr": "animalistslab(broad)",
+		"price": 508,
+		"category": "Furniture",
+		"defname": "AnimalistSlab_Broad"
+	},
+	{
+		"abr": "animalistslab(medium)",
+		"price": 342,
+		"category": "Furniture",
+		"defname": "AnimalistSlab_Medium"
+	},
+	{
+		"abr": "antlers",
+		"price": 833,
+		"category": "Inert relics",
+		"defname": "VIE_RelicInertAntlers"
+	},
+	{
+		"abr": "ark",
+		"price": 833,
+		"category": "Inert relics",
+		"defname": "RelicInertArk"
+	},
+	{
+		"abr": "authoritycap",
+		"price": 92,
+		"category": "Headgear",
+		"defname": "Apparel_AuthorityCap"
+	},
+	{
+		"abr": "awakenedbarkskindryad",
+		"price": 500,
+		"category": "Animals",
+		"defname": "VDE_AwakenedDryad_Barkskin"
+	},
+	{
+		"abr": "awakenedberrymakerdryad",
+		"price": 500,
+		"category": "Animals",
+		"defname": "VDE_AwakenedDryad_Berrymaker"
+	},
+	{
+		"abr": "awakenedcarrierdryad",
+		"price": 500,
+		"category": "Animals",
+		"defname": "VDE_AwakenedDryad_Carrier"
+	},
+	{
+		"abr": "awakenedclawerdryad",
+		"price": 500,
+		"category": "Animals",
+		"defname": "VDE_AwakenedDryad_Clawer"
+	},
+	{
+		"abr": "awakenedgaubricmakerdryad",
+		"price": 500,
+		"category": "Animals",
+		"defname": "VDE_AwakenedDryad_Gaubricmaker"
+	},
+	{
+		"abr": "awakenedmedicinemakerdryad",
+		"price": 500,
+		"category": "Animals",
+		"defname": "VDE_AwakenedDryad_Medicinemaker"
+	},
+	{
+		"abr": "awakenednectarmakerdryad",
+		"price": 500,
+		"category": "Animals",
+		"defname": "VDE_AwakenedDryad_Nectarmaker"
+	},
+	{
+		"abr": "awakenedspitterdryad",
+		"price": 500,
+		"category": "Animals",
+		"defname": "VDE_AwakenedDryad_Spitter"
+	},
+	{
+		"abr": "awakenedstonediggerdryad",
+		"price": 500,
+		"category": "Animals",
+		"defname": "VDE_AwakenedDryad_Stonedigger"
+	},
+	{
+		"abr": "awakenedwoodmakerdryad",
+		"price": 500,
+		"category": "Animals",
+		"defname": "VDE_AwakenedDryad_Woodmaker"
+	},
+	{
+		"abr": "axehead",
+		"price": 833,
+		"category": "Inert relics",
+		"defname": "VIE_RelicInertAxeHead"
+	},
+	{
+		"abr": "basicbedintegrator",
+		"price": 367,
+		"category": "Buildings",
+		"defname": "GNBasicBedIntegrator"
+	},
+	{
+		"abr": "basicglitternetprocessor",
+		"price": 517,
+		"category": "Buildings",
+		"defname": "GNBasicGlitterNetProcessor"
+	},
+	{
+		"abr": "basicmedicalintegrator",
+		"price": 367,
+		"category": "Buildings",
+		"defname": "GNBasicMedicalIntegrator"
+	},
+	{
+		"abr": "basicpowerintegrator",
+		"price": 367,
+		"category": "Buildings",
+		"defname": "GNBasicPowerIntegrator"
+	},
+	{
+		"abr": "basicresearchintegrator",
+		"price": 367,
+		"category": "Buildings",
+		"defname": "GNBasicResearchIntegrator"
+	},
+	{
+		"abr": "basicworkspeedintegrator",
+		"price": 367,
+		"category": "Buildings",
+		"defname": "GNBasicWorkspeedIntegrator"
+	},
+	{
+		"abr": "beads",
+		"price": 116,
+		"category": "Headgear",
+		"defname": "VIEHAR_Apparel_Beads"
+	},
+	{
+		"abr": "biosculpterpod",
+		"price": 758,
+		"category": "Misc",
+		"defname": "BiosculpterPod"
+	},
+	{
+		"abr": "bishophat",
+		"price": 75,
+		"category": "Headgear",
+		"defname": "VIEHAR_Apparel_BishopHat"
+	},
+	{
+		"abr": "blackgoatmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Cults_BlackGoat"
+	},
+	{
+		"abr": "blackgoathide",
+		"price": 3,
+		"category": "Leathers",
+		"defname": "CH_Leather_BlackGoathide"
+	},
+	{
+		"abr": "blahaj",
+		"price": 833,
+		"category": "Inert relics",
+		"defname": "RelicInertBlahaj"
+	},
+	{
+		"abr": "blindfold",
+		"price": 74,
+		"category": "Headgear",
+		"defname": "Apparel_Blindfold"
+	},
+	{
+		"abr": "bone",
+		"price": 2,
+		"category": "Raw resources",
+		"defname": "BoneItem"
+	},
+	{
+		"abr": "bone",
+		"price": 833,
+		"category": "Inert relics",
+		"defname": "VIE_RelicInertBone"
+	},
+	{
+		"abr": "bonearmor",
+		"price": 287,
+		"category": "Apparel",
+		"defname": "Sihv_Apparel_BoneArmor"
+	},
+	{
+		"abr": "boneash",
+		"price": 4,
+		"category": "Raw resources",
+		"defname": "BoneChina"
+	},
+	{
+		"abr": "bonechair",
+		"price": 322,
+		"category": "Furniture",
+		"defname": "BoneChair"
+	},
+	{
+		"abr": "bonemarrow",
+		"price": 2,
+		"category": "Animal products",
+		"defname": "ROMB_Marrow"
+	},
+	{
+		"abr": "bonecrete",
+		"price": 3,
+		"category": "Raw resources",
+		"defname": "Bonecrete"
+	},
+	{
+		"abr": "bonfire",
+		"price": 833,
+		"category": "Misc",
+		"defname": "VME_Bonfire"
+	},
+	{
+		"abr": "bonsaipot",
+		"price": 82,
+		"category": "Furniture",
+		"defname": "PlantPot_Bonsai"
+	},
+	{
+		"abr": "book",
+		"price": 833,
+		"category": "Inert relics",
+		"defname": "VIE_RelicInertBook"
+	},
+	{
+		"abr": "bottle",
+		"price": 833,
+		"category": "Inert relics",
+		"defname": "VIE_RelicInertBottle"
+	},
+	{
+		"abr": "bottledketchup",
+		"price": 150,
+		"category": "Bottled condiments",
+		"defname": "RimSeasoning_BottledKetchup"
+	},
+	{
+		"abr": "bottledmayonnaise",
+		"price": 150,
+		"category": "Bottled condiments",
+		"defname": "RimSeasoning_BottledMayonnaise"
+	},
+	{
+		"abr": "bottledmustard",
+		"price": 150,
+		"category": "Bottled condiments",
+		"defname": "RimSeasoning_BottledMustard"
+	},
+	{
+		"abr": "bottledsoysauce",
+		"price": 150,
+		"category": "Bottled condiments",
+		"defname": "RimSeasoning_BottledSoySause"
+	},
+	{
+		"abr": "bowl",
+		"price": 833,
+		"category": "Inert relics",
+		"defname": "VIE_RelicInertBowl"
+	},
+	{
+		"abr": "bowlerhat",
+		"price": 113,
+		"category": "Headgear",
+		"defname": "ROM_Apparel_CallOfCthulhuBowler"
+	},
+	{
+		"abr": "box",
+		"price": 833,
+		"category": "Inert relics",
+		"defname": "RelicInertBox"
+	},
+	{
+		"abr": "bracelet",
+		"price": 833,
+		"category": "Inert relics",
+		"defname": "VIE_RelicInertBracelet"
+	},
+	{
+		"abr": "brightobelisk(blue)",
+		"price": 1000,
+		"category": "Buildings",
+		"defname": "Cults_ObeliskConstructed_Blue"
+	},
+	{
+		"abr": "brightobelisk(green)",
+		"price": 1000,
+		"category": "Buildings",
+		"defname": "Cults_ObeliskConstructed_Green"
+	},
+	{
+		"abr": "brightobelisk(red)",
+		"price": 1000,
+		"category": "Buildings",
+		"defname": "Cults_ObeliskConstructed_Red"
+	},
+	{
+		"abr": "brightobelisk(yellow)",
+		"price": 1000,
+		"category": "Buildings",
+		"defname": "Cults_ObeliskConstructed_Yellow"
+	},
+	{
+		"abr": "brimlesshat",
+		"price": 92,
+		"category": "Headgear",
+		"defname": "VIEHAR_Apparel_BrimlessHat"
+	},
+	{
+		"abr": "broadwrap",
+		"price": 111,
+		"category": "Headgear",
+		"defname": "Apparel_Broadwrap"
+	},
+	{
+		"abr": "brokenmask",
+		"price": 833,
+		"category": "Inert relics",
+		"defname": "VIE_RelicInertBrokenMask"
+	},
+	{
+		"abr": "brokenspear",
+		"price": 833,
+		"category": "Inert relics",
+		"defname": "VIE_RelicInertBrokenSpear"
+	},
+	{
+		"abr": "brokensword",
+		"price": 833,
+		"category": "Inert relics",
+		"defname": "VIE_RelicInertSword"
+	},
+	{
+		"abr": "bucket",
+		"price": 833,
+		"category": "Inert relics",
+		"defname": "VIE_RelicInertBucket"
+	},
+	{
+		"abr": "burka",
+		"price": 224,
+		"category": "Apparel",
+		"defname": "Apparel_Burka"
+	},
+	{
+		"abr": "burnbong",
+		"price": 517,
+		"category": "Misc",
+		"defname": "Burnbong"
+	},
+	{
+		"abr": "byakheechitin",
+		"price": 3,
+		"category": "Leathers",
+		"defname": "CH_Leather_Byakhee"
+	},
+	{
+		"abr": "calciumpolymer",
+		"price": 2,
+		"category": "Raw resources",
+		"defname": "BonePlastic"
+	},
+	{
+		"abr": "cannibalplatter",
+		"price": 220,
+		"category": "Misc",
+		"defname": "CannibalPlatter"
+	},
+	{
+		"abr": "ceremonialmask",
+		"price": 833,
+		"category": "Inert relics",
+		"defname": "VIE_RelicInertCeremonialMask"
+	},
+	{
+		"abr": "chain",
+		"price": 833,
+		"category": "Inert relics",
+		"defname": "VIE_RelicInertChain"
+	},
+	{
+		"abr": "chalice",
+		"price": 833,
+		"category": "Inert relics",
+		"defname": "RelicInertCup"
+	},
+	{
+		"abr": "chilipepper",
+		"price": 3,
+		"category": "Seasonings",
+		"defname": "RimSeasoning_RedPepper"
+	},
+	{
+		"abr": "christmastree",
+		"price": 263,
+		"category": "Misc",
+		"defname": "ChristmasTree"
+	},
+	{
+		"abr": "chthonianchitin",
+		"price": 13,
+		"category": "Leathers",
+		"defname": "CH_Leather_Chthonian"
+	},
+	{
+		"abr": "chthonianstrips",
+		"price": 3,
+		"category": "Raw strange meat",
+		"defname": "ROM_RawCHFood_ChthonianMeat"
+	},
+	{
+		"abr": "coastalflaregun",
+		"price": 1167,
+		"category": "Ranged weapons",
+		"defname": "ROM_Gun_Flaregun"
+	},
+	{
+		"abr": "commissarhat",
+		"price": 109,
+		"category": "Headgear",
+		"defname": "VIEHAR_Apparel_CommisarHat"
+	},
+	{
+		"abr": "corruptedaltar",
+		"price": 492,
+		"category": "Production",
+		"defname": "Cult_NightmareSacrificeAltar"
+	},
+	{
+		"abr": "cthulhidmeat",
+		"price": 2,
+		"category": "Raw strange meat",
+		"defname": "ROM_RawCHFood_CthulhidMeat"
+	},
+	{
+		"abr": "cthulhidtentacle",
+		"price": 667,
+		"category": "Prosthetic",
+		"defname": "Cults_CthulhidTentacle"
+	},
+	{
+		"abr": "cube",
+		"price": 833,
+		"category": "Inert relics",
+		"defname": "RelicInertCube"
+	},
+	{
+		"abr": "cultaltar",
+		"price": 492,
+		"category": "Production",
+		"defname": "Cult_SacrificialAltar"
+	},
+	{
+		"abr": "cultkris",
+		"price": 169,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_CultKris"
+	},
+	{
+		"abr": "cultisthood(bastmask)",
+		"price": 80,
+		"category": "Headgear",
+		"defname": "Apparel_BastMask"
+	},
+	{
+		"abr": "cultisthood(cthulhumask)",
+		"price": 98,
+		"category": "Headgear",
+		"defname": "Apparel_CthulhuMaskHood"
+	},
+	{
+		"abr": "cultisthood(dagonmitre)",
+		"price": 101,
+		"category": "Headgear",
+		"defname": "Apparel_DagonMitre"
+	},
+	{
+		"abr": "cultisthood(nyarlathotep)",
+		"price": 95,
+		"category": "Headgear",
+		"defname": "Apparel_NyarlathotepHood"
+	},
+	{
+		"abr": "cultisthood(shrouded)",
+		"price": 95,
+		"category": "Headgear",
+		"defname": "Apparel_CultistHood"
+	},
+	{
+		"abr": "cultisthood(shub-niggurathmask)",
+		"price": 95,
+		"category": "Headgear",
+		"defname": "Apparel_ShubMask"
+	},
+	{
+		"abr": "cultisthood(simple)",
+		"price": 95,
+		"category": "Headgear",
+		"defname": "Apparel_StandardHood"
+	},
+	{
+		"abr": "cultisthood(yellow)",
+		"price": 119,
+		"category": "Headgear",
+		"defname": "Apparel_HasturHood"
+	},
+	{
+		"abr": "cultistrobes",
+		"price": 315,
+		"category": "Apparel",
+		"defname": "Apparel_CultistRobes"
+	},
+	{
+		"abr": "cultistrobes(fur)",
+		"price": 327,
+		"category": "Apparel",
+		"defname": "Apparel_ROMFurRobes"
+	},
+	{
+		"abr": "cultistvestments(bast)",
+		"price": 320,
+		"category": "Apparel",
+		"defname": "Apparel_BastRobes"
+	},
+	{
+		"abr": "cultistvestments(druidic)",
+		"price": 450,
+		"category": "Apparel",
+		"defname": "Apparel_ROMShubRobes"
+	},
+	{
+		"abr": "cultistvestments(tentacled)",
+		"price": 450,
+		"category": "Apparel",
+		"defname": "Apparel_ROMCthulhuRobes"
+	},
+	{
+		"abr": "cultistvestments(traditional)",
+		"price": 383,
+		"category": "Apparel",
+		"defname": "Apparel_ROMDagonRobes"
+	},
+	{
+		"abr": "cultistvestments(wrap)",
+		"price": 275,
+		"category": "Apparel",
+		"defname": "Apparel_ROMWrapRobes"
+	},
+	{
+		"abr": "cultistvestments(yellow)",
+		"price": 450,
+		"category": "Apparel",
+		"defname": "Apparel_ROMHasturRobes"
+	},
+	{
+		"abr": "darkcandle",
+		"price": 1,
+		"category": "Furniture",
+		"defname": "VFEM_DarkCandle"
+	},
+	{
+		"abr": "darkobelisk(blue)",
+		"price": 1000,
+		"category": "Buildings",
+		"defname": "Cults_ObeliskConstructed_DarkBlue"
+	},
+	{
+		"abr": "darkobelisk(green)",
+		"price": 1000,
+		"category": "Buildings",
+		"defname": "Cults_ObeliskConstructed_DarkGreen"
+	},
+	{
+		"abr": "darkobelisk(red)",
+		"price": 1000,
+		"category": "Buildings",
+		"defname": "Cults_ObeliskConstructed_DarkRed"
+	},
+	{
+		"abr": "darkobelisk(yellow)",
+		"price": 1000,
+		"category": "Buildings",
+		"defname": "Cults_ObeliskConstructed_DarkYellow"
+	},
+	{
+		"abr": "darkyoungmeat",
+		"price": 2,
+		"category": "Raw strange meat",
+		"defname": "ROM_RawCHFood_DarkYoungMeat"
+	},
+	{
+		"abr": "darkyoungsap",
+		"price": 5,
+		"category": "Animal products",
+		"defname": "ROM_DarkYoungSap"
+	},
+	{
+		"abr": "darklampendtable",
+		"price": 169,
+		"category": "Furniture",
+		"defname": "Table_DarkLightEndTable"
+	},
+	{
+		"abr": "dark-youngbark",
+		"price": 12,
+		"category": "Leathers",
+		"defname": "CH_Leather_DarkYoung"
+	},
+	{
+		"abr": "deeponemeat",
+		"price": 2,
+		"category": "Raw strange meat",
+		"defname": "ROM_RawCHFood_DeepOneMeat"
+	},
+	{
+		"abr": "deephide",
+		"price": 12,
+		"category": "Leathers",
+		"defname": "CH_Leather_DeepOne"
+	},
+	{
+		"abr": "deerskull",
+		"price": 145,
+		"category": "Headgear",
+		"defname": "VIEHAR_Apparel_DeerSkull"
+	},
+	{
+		"abr": "drum",
+		"price": 205,
+		"category": "Recreation",
+		"defname": "Drum"
+	},
+	{
+		"abr": "dryadnest",
+		"price": 152,
+		"category": "Furniture",
+		"defname": "VDE_DryadNest"
+	},
+	{
+		"abr": "effigy",
+		"price": 178,
+		"category": "Misc",
+		"defname": "Effigy"
+	},
+	{
+		"abr": "eldritchslab(broad)",
+		"price": 508,
+		"category": "Furniture",
+		"defname": "VME_EldritchSlab_Broad"
+	},
+	{
+		"abr": "eldritchslab(medium)",
+		"price": 342,
+		"category": "Furniture",
+		"defname": "VME_EldritchSlab_Medium"
+	},
+	{
+		"abr": "electricmendingstation",
+		"price": 683,
+		"category": "Production",
+		"defname": "VFEA_ElectricMendingStation"
+	},
+	{
+		"abr": "elixerofpower",
+		"price": 833,
+		"category": "Artifacts",
+		"defname": "Cults_ElixerOfPower"
+	},
+	{
+		"abr": "engram",
+		"price": 833,
+		"category": "Inert relics",
+		"defname": "VIE_RelicInertEngram"
+	},
+	{
+		"abr": "esotericismslab(broad)",
+		"price": 508,
+		"category": "Furniture",
+		"defname": "VME_EsotericismSlab_Broad"
+	},
+	{
+		"abr": "esotericismslab(medium)",
+		"price": 342,
+		"category": "Furniture",
+		"defname": "VME_EsotericismSlab_Medium"
+	},
+	{
+		"abr": "farmer'sshotgun",
+		"price": 533,
+		"category": "Ranged weapons",
+		"defname": "ROM_Gun_PumpShotgun_COC"
+	},
+	{
+		"abr": "fedora",
+		"price": 113,
+		"category": "Headgear",
+		"defname": "ROM_Apparel_CallOfCthulhuFedora"
+	},
+	{
+		"abr": "fertilitytotem",
+		"price": 1,
+		"category": "Buildings",
+		"defname": "Cults_FertilityTotem"
+	},
+	{
+		"abr": "fez",
+		"price": 92,
+		"category": "Headgear",
+		"defname": "VIEHAR_Apparel_Fez"
+	},
+	{
+		"abr": "flarenmutagen",
+		"price": 833,
+		"category": "Inert relics",
+		"defname": "RelicInertToxin"
+	},
+	{
+		"abr": "flophat",
+		"price": 74,
+		"category": "Headgear",
+		"defname": "Apparel_Flophat"
+	},
+	{
+		"abr": "forbiddenknowledgecenter",
+		"price": 383,
+		"category": "Production",
+		"defname": "Cults_ForbiddenKnowledgeCenter"
+	},
+	{
+		"abr": "formlessmatter",
+		"price": 3,
+		"category": "Leathers",
+		"defname": "CH_Leather_FormlessSpawn"
+	},
+	{
+		"abr": "fossil",
+		"price": 833,
+		"category": "Inert relics",
+		"defname": "VIE_RelicInertFossil"
+	},
+	{
+		"abr": "fragment",
+		"price": 833,
+		"category": "Inert relics",
+		"defname": "RelicInertFragment"
+	},
+	{
+		"abr": "fueledmendingstation",
+		"price": 650,
+		"category": "Production",
+		"defname": "VFEA_FueledMendingStation"
+	},
+	{
+		"abr": "furikake",
+		"price": 150,
+		"category": "Bottled condiments",
+		"defname": "RimSeasoning_Furikake"
+	},
+	{
+		"abr": "gauntlet",
+		"price": 833,
+		"category": "Inert relics",
+		"defname": "VIE_RelicInertGauntlet"
+	},
+	{
+		"abr": "gelatin",
+		"price": 13,
+		"category": "Animal products",
+		"defname": "ROMB_Gelatin"
+	},
+	{
+		"abr": "gene-tailoringpod",
+		"price": 6517,
+		"category": "Misc",
+		"defname": "VFEA_GeneTailoringPod"
+	},
+	{
+		"abr": "genomemacrothermometer",
+		"price": 2583,
+		"category": "Misc",
+		"defname": "VFEA_GenomeMacrothermometer"
+	},
+	{
+		"abr": "genomestabilizer",
+		"price": 2525,
+		"category": "Misc",
+		"defname": "VFEA_GenomeStabilizer"
+	},
+	{
+		"abr": "gibbetcage",
+		"price": 210,
+		"category": "Misc",
+		"defname": "GibbetCage"
+	},
+	{
+		"abr": "glitternethub",
+		"price": 4375,
+		"category": "Buildings",
+		"defname": "GNGlitterNetHub"
+	},
+	{
+		"abr": "grimoire",
+		"price": 833,
+		"category": "Inert relics",
+		"defname": "ROM_RelicInertGrimoire"
+	},
+	{
+		"abr": "grimoireoftheoccult",
+		"price": 33,
+		"category": "Items",
+		"defname": "Cults_Grimoire"
+	},
+	{
+		"abr": "guardianfur",
+		"price": 10,
+		"category": "Leathers",
+		"defname": "Cults_GuardianBast_Fur"
+	},
+	{
+		"abr": "guardianmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_GuardianBast"
+	},
+	{
+		"abr": "hand-heldharpoongun",
+		"price": 1167,
+		"category": "Ranged weapons",
+		"defname": "ROM_Gun_Harpoon"
+	},
+	{
+		"abr": "headbag",
+		"price": 124,
+		"category": "Headgear",
+		"defname": "VIEHAR_Apparel_Headbag"
+	},
+	{
+		"abr": "headscarf",
+		"price": 126,
+		"category": "Headgear",
+		"defname": "VIEHAR_Apparel_Headscarf"
+	},
+	{
+		"abr": "headwrap",
+		"price": 75,
+		"category": "Headgear",
+		"defname": "Apparel_Headwrap"
+	},
+	{
+		"abr": "hilt",
+		"price": 833,
+		"category": "Inert relics",
+		"defname": "RelicInertSwordHandle"
+	},
+	{
+		"abr": "horn",
+		"price": 833,
+		"category": "Inert relics",
+		"defname": "VIE_RelicInertHorn"
+	},
+	{
+		"abr": "horrifyingeyestalk",
+		"price": 667,
+		"category": "Prosthetic",
+		"defname": "Cults_CthulhidEyestalk"
+	},
+	{
+		"abr": "horsemask",
+		"price": 145,
+		"category": "Headgear",
+		"defname": "VIEHAR_Apparel_HorseMask"
+	},
+	{
+		"abr": "hotbrandingiron",
+		"price": 467,
+		"category": "Melee weapons",
+		"defname": "ROM_BrandingIron"
+	},
+	{
+		"abr": "huntingrifle",
+		"price": 500,
+		"category": "Ranged weapons",
+		"defname": "ROM_Gun_SurvivalRifle_COC"
+	},
+	{
+		"abr": "idol",
+		"price": 833,
+		"category": "Inert relics",
+		"defname": "VIE_RelicInertIdol"
+	},
+	{
+		"abr": "immaturedryadmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Dryad_Basic"
+	},
+	{
+		"abr": "implant",
+		"price": 833,
+		"category": "Inert relics",
+		"defname": "VIE_RelicInertImplant"
+	},
+	{
+		"abr": "improvedbedintegrator",
+		"price": 1333,
+		"category": "Buildings",
+		"defname": "GNImprovedBedIntegrator"
+	},
+	{
+		"abr": "improvedglitternetprocessor",
+		"price": 3033,
+		"category": "Buildings",
+		"defname": "GNImprovedGlitterNetProcessor"
+	},
+	{
+		"abr": "improvedmedicalintegrator",
+		"price": 1333,
+		"category": "Buildings",
+		"defname": "GNImprovedMedicalIntegrator"
+	},
+	{
+		"abr": "improvedpowerintegrator",
+		"price": 1333,
+		"category": "Buildings",
+		"defname": "GNImprovedPowerIntegrator"
+	},
+	{
+		"abr": "improvedresearchintegrator",
+		"price": 1333,
+		"category": "Buildings",
+		"defname": "GNImprovedResearchIntegrator"
+	},
+	{
+		"abr": "improvedworkspeedintegrator",
+		"price": 1333,
+		"category": "Buildings",
+		"defname": "GNImprovedWorkspeedIntegrator"
+	},
+	{
+		"abr": "incenseshrine",
+		"price": 272,
+		"category": "Misc",
+		"defname": "IncenseShrine"
+	},
+	{
+		"abr": "infantryhelmet(worldwari)",
+		"price": 252,
+		"category": "Headgear",
+		"defname": "ROM_ApparelWWIHelmet"
+	},
+	{
+		"abr": "infantryuniform(worldwari)",
+		"price": 575,
+		"category": "Apparel",
+		"defname": "ROM_ApparelWWIUniform"
+	},
+	{
+		"abr": "insectskull",
+		"price": 833,
+		"category": "Inert relics",
+		"defname": "VIE_RelicInertInsectSkull"
+	},
+	{
+		"abr": "kneelpillow",
+		"price": 98,
+		"category": "Furniture",
+		"defname": "KneelPillow"
+	},
+	{
+		"abr": "kneelsheet",
+		"price": 281,
+		"category": "Furniture",
+		"defname": "KneelSheet"
+	},
+	{
+		"abr": "largeserpenthumanoidsculpture",
+		"price": 725,
+		"category": "Art",
+		"defname": "YigSculptureLarge"
+	},
+	{
+		"abr": "lectern",
+		"price": 227,
+		"category": "Misc",
+		"defname": "Lectern"
+	},
+	{
+		"abr": "lightball",
+		"price": 154,
+		"category": "Misc",
+		"defname": "LightBall"
+	},
+	{
+		"abr": "loudspeaker",
+		"price": 367,
+		"category": "Misc",
+		"defname": "Loudspeaker"
+	},
+	{
+		"abr": "mechanoidhead",
+		"price": 833,
+		"category": "Inert relics",
+		"defname": "VIE_RelicInertMechanoidHead"
+	},
+	{
+		"abr": "medallion",
+		"price": 833,
+		"category": "Inert relics",
+		"defname": "VIE_RelicInertMedallion"
+	},
+	{
+		"abr": "merfbodyarmor",
+		"price": 4833,
+		"category": "Apparel",
+		"defname": "ROM_Apparel_MERF_Armor"
+	},
+	{
+		"abr": "merfcoat",
+		"price": 1117,
+		"category": "Apparel",
+		"defname": "ROM_Apparel_MERF_Coat"
+	},
+	{
+		"abr": "merfheavyhelmet",
+		"price": 2500,
+		"category": "Headgear",
+		"defname": "ROM_Apparel_MERF_HeavyHelmet"
+	},
+	{
+		"abr": "merflighthelmet",
+		"price": 1333,
+		"category": "Headgear",
+		"defname": "ROM_Apparel_MERF_LightHelmet"
+	},
+	{
+		"abr": "migomatter",
+		"price": 3,
+		"category": "Leathers",
+		"defname": "CH_Leather_MiGo"
+	},
+	{
+		"abr": "migomeat",
+		"price": 2,
+		"category": "Raw strange meat",
+		"defname": "ROM_RawCHFood_MiGoMeat"
+	},
+	{
+		"abr": "militarycap",
+		"price": 109,
+		"category": "Headgear",
+		"defname": "VIEHAR_Apparel_MilitaryCap"
+	},
+	{
+		"abr": "mill",
+		"price": 150,
+		"category": "Furniture",
+		"defname": "RimSeasoning_Mill"
+	},
+	{
+		"abr": "moderndarklamp",
+		"price": 129,
+		"category": "Furniture",
+		"defname": "Light_ModernDarkLamp"
+	},
+	{
+		"abr": "monstrousabominationsculpture",
+		"price": 1608,
+		"category": "Art",
+		"defname": "SculptureTsathoggua"
+	},
+	{
+		"abr": "monstrousbody",
+		"price": 833,
+		"category": "Prosthetic",
+		"defname": "Cults_MonstrousBody"
+	},
+	{
+		"abr": "monstrousbrain",
+		"price": 833,
+		"category": "Prosthetic",
+		"defname": "Cults_MonstrousBrain"
+	},
+	{
+		"abr": "monstrousfelinesculpture",
+		"price": 1608,
+		"category": "Art",
+		"defname": "SculptureBast"
+	},
+	{
+		"abr": "monstrousfish-headedsculpture",
+		"price": 1608,
+		"category": "Art",
+		"defname": "SculptureDagon"
+	},
+	{
+		"abr": "monstrousgoat-likesculpture",
+		"price": 1608,
+		"category": "Art",
+		"defname": "SculptureShub"
+	},
+	{
+		"abr": "monstroushoodedsculpture",
+		"price": 1608,
+		"category": "Art",
+		"defname": "SculptureNyarlathotep"
+	},
+	{
+		"abr": "monstrouskingsculpture",
+		"price": 1608,
+		"category": "Art",
+		"defname": "SculptureHastur"
+	},
+	{
+		"abr": "monstrousoctopoidsculpture",
+		"price": 1608,
+		"category": "Art",
+		"defname": "SculptureCthulhu"
+	},
+	{
+		"abr": "morbidslab(broad)",
+		"price": 508,
+		"category": "Furniture",
+		"defname": "MorbidSlab_Broad"
+	},
+	{
+		"abr": "morbidslab(medium)",
+		"price": 342,
+		"category": "Furniture",
+		"defname": "MorbidSlab_Medium"
+	},
+	{
+		"abr": "mug",
+		"price": 833,
+		"category": "Inert relics",
+		"defname": "VIE_RelicInertMug"
+	},
+	{
+		"abr": "nanitesampler",
+		"price": 6450,
+		"category": "Misc",
+		"defname": "VFEA_NaniteSampler"
+	},
+	{
+		"abr": "nanotechretractor",
+		"price": 5033,
+		"category": "Misc",
+		"defname": "VFEA_NanotechRetractor"
+	},
+	{
+		"abr": "neuralsupercharger",
+		"price": 408,
+		"category": "Misc",
+		"defname": "NeuralSupercharger"
+	},
+	{
+		"abr": "newsboycap",
+		"price": 107,
+		"category": "Headgear",
+		"defname": "ROM_Apparel_CallOfCthulhuNewsboyCap"
+	},
+	{
+		"abr": "nursecap",
+		"price": 113,
+		"category": "Headgear",
+		"defname": "ROM_Apparel_NurseCap"
+	},
+	{
+		"abr": "nurseuniform",
+		"price": 650,
+		"category": "Apparel",
+		"defname": "ROM_Apparel_WW1NurseUniform"
+	},
+	{
+		"abr": "obelisk",
+		"price": 301,
+		"category": "Buildings",
+		"defname": "Cults_MonolithNightmare"
+	},
+	{
+		"abr": "old-fashionedrifle",
+		"price": 500,
+		"category": "Ranged weapons",
+		"defname": "ROM_Gun_LPRifle_COC"
+	},
+	{
+		"abr": "orb",
+		"price": 833,
+		"category": "Inert relics",
+		"defname": "VIE_RelicInertApple"
+	},
+	{
+		"abr": "outdoorlamp",
+		"price": 128,
+		"category": "Furniture",
+		"defname": "Light_OutdoorDarkLamp"
+	},
+	{
+		"abr": "overalls",
+		"price": 296,
+		"category": "Apparel",
+		"defname": "ROM_Apparel_NF_FSOveralls"
+	},
+	{
+		"abr": "pendant",
+		"price": 833,
+		"category": "Inert relics",
+		"defname": "RelicInertPendant"
+	},
+	{
+		"abr": "pepper",
+		"price": 3,
+		"category": "Seasonings",
+		"defname": "RimSeasoning_Pepper"
+	},
+	{
+		"abr": "pew",
+		"price": 350,
+		"category": "Furniture",
+		"defname": "Pew"
+	},
+	{
+		"abr": "pitchfork",
+		"price": 215,
+		"category": "Melee weapons",
+		"defname": "ROM_Pitchfork"
+	},
+	{
+		"abr": "plaidshirt",
+		"price": 160,
+		"category": "Apparel",
+		"defname": "ROM_Apparel_CallOfCthulhuPlaidShirt"
+	},
+	{
+		"abr": "polehook",
+		"price": 333,
+		"category": "Melee weapons",
+		"defname": "ROM_PoleHook"
+	},
+	{
+		"abr": "policehat",
+		"price": 98,
+		"category": "Headgear",
+		"defname": "ROM_Apparel1920sPoliceHat"
+	},
+	{
+		"abr": "policeuniform",
+		"price": 575,
+		"category": "Apparel",
+		"defname": "ROM_Apparel1920sPoliceOutfit"
+	},
+	{
+		"abr": "polishedrock",
+		"price": 833,
+		"category": "Inert relics",
+		"defname": "VIE_RelicInertPolishedRock"
+	},
+	{
+		"abr": "prayerpillow",
+		"price": 85,
+		"category": "Furniture",
+		"defname": "Cults_PrayerPillow"
+	},
+	{
+		"abr": "psioniclobe",
+		"price": 2500,
+		"category": "Prosthetic",
+		"defname": "Cults_PsionicBrain"
+	},
+	{
+		"abr": "pyramid",
+		"price": 833,
+		"category": "Inert relics",
+		"defname": "VIE_RelicInertPyramid"
+	},
+	{
+		"abr": "pyre",
+		"price": 230,
+		"category": "Misc",
+		"defname": "Pyre"
+	},
+	{
+		"abr": "rags",
+		"price": 183,
+		"category": "Apparel",
+		"defname": "VIEHAR_Apparel_Rags"
+	},
+	{
+		"abr": "raincoat",
+		"price": 617,
+		"category": "Apparel",
+		"defname": "ROM_ApparelRaincoat"
+	},
+	{
+		"abr": "reanimatedleather",
+		"price": 3,
+		"category": "Leathers",
+		"defname": "CH_Leather_ReanimatedCorpse"
+	},
+	{
+		"abr": "rhombohedralenergyweapon",
+		"price": 417,
+		"category": "Ranged weapons",
+		"defname": "ROM_MiGoCastingWeapon"
+	},
+	{
+		"abr": "ring",
+		"price": 833,
+		"category": "Inert relics",
+		"defname": "VIE_RelicInertRing"
+	},
+	{
+		"abr": "robe",
+		"price": 297,
+		"category": "Apparel",
+		"defname": "Apparel_Robe"
+	},
+	{
+		"abr": "rusticrug(broad)",
+		"price": 383,
+		"category": "Furniture",
+		"defname": "RusticRug_Broad"
+	},
+	{
+		"abr": "rusticrug(medium)",
+		"price": 256,
+		"category": "Furniture",
+		"defname": "RusticRug_Medium"
+	},
+	{
+		"abr": "sacrificialaltar",
+		"price": 492,
+		"category": "Production",
+		"defname": "Cult_AnimalSacrificeAltar"
+	},
+	{
+		"abr": "sacrificialaltar",
+		"price": 492,
+		"category": "Production",
+		"defname": "Cult_HumanSacrificeAltar"
+	},
+	{
+		"abr": "sacrificialflag",
+		"price": 198,
+		"category": "Misc",
+		"defname": "SacrificialFlag"
+	},
+	{
+		"abr": "sailoruniform",
+		"price": 327,
+		"category": "Apparel",
+		"defname": "Apparel_SailorUniform"
+	},
+	{
+		"abr": "sailorscap",
+		"price": 95,
+		"category": "Headgear",
+		"defname": "Apparel_SailorsCap"
+	},
+	{
+		"abr": "salt",
+		"price": 2,
+		"category": "Seasonings",
+		"defname": "RimSeasoning_Salt"
+	},
+	{
+		"abr": "scroll",
+		"price": 833,
+		"category": "Inert relics",
+		"defname": "VIE_RelicInertScroll"
+	},
+	{
+		"abr": "shadecone",
+		"price": 94,
+		"category": "Headgear",
+		"defname": "Apparel_Shadecone"
+	},
+	{
+		"abr": "shintaoslab(broad)",
+		"price": 508,
+		"category": "Furniture",
+		"defname": "VME_TaoistSlab_Broad"
+	},
+	{
+		"abr": "shintaoslab(medium)",
+		"price": 342,
+		"category": "Furniture",
+		"defname": "VME_TaoistSlab_Medium"
+	},
+	{
+		"abr": "shirtandtie",
+		"price": 240,
+		"category": "Apparel",
+		"defname": "ROM_Apparel_CallOfCthulhuShirtTie"
+	},
+	{
+		"abr": "shoggothmeat",
+		"price": 2,
+		"category": "Raw strange meat",
+		"defname": "ROM_RawCHFood_ShoggothMeat"
+	},
+	{
+		"abr": "shroud",
+		"price": 833,
+		"category": "Inert relics",
+		"defname": "VIE_RelicInertShroud"
+	},
+	{
+		"abr": "simulationdrive",
+		"price": 1708,
+		"category": "Misc",
+		"defname": "VFEA_SimulationDrive"
+	},
+	{
+		"abr": "skull",
+		"price": 8,
+		"category": "Items",
+		"defname": "Skull"
+	},
+	{
+		"abr": "skull",
+		"price": 833,
+		"category": "Inert relics",
+		"defname": "VIE_RelicInertSkull"
+	},
+	{
+		"abr": "skullmask",
+		"price": 113,
+		"category": "Headgear",
+		"defname": "ROMB_Apparel_SkullMask"
+	},
+	{
+		"abr": "skullthrone",
+		"price": 1917,
+		"category": "Furniture",
+		"defname": "BoneThrone"
+	},
+	{
+		"abr": "skullcap",
+		"price": 57,
+		"category": "Headgear",
+		"defname": "VIEHAR_Apparel_Skullcap"
+	},
+	{
+		"abr": "skullspike",
+		"price": 101,
+		"category": "Misc",
+		"defname": "Skullspike"
+	},
+	{
+		"abr": "slabbed",
+		"price": 102,
+		"category": "Furniture",
+		"defname": "SlabBed"
+	},
+	{
+		"abr": "slabdoublebed",
+		"price": 288,
+		"category": "Furniture",
+		"defname": "SlabDoubleBed"
+	},
+	{
+		"abr": "slacks",
+		"price": 143,
+		"category": "Apparel",
+		"defname": "ROM_Apparel_DetectiveSlacks"
+	},
+	{
+		"abr": "slag",
+		"price": 833,
+		"category": "Inert relics",
+		"defname": "VIE_RelicInertPlate"
+	},
+	{
+		"abr": "slavebodystrap",
+		"price": 275,
+		"category": "Apparel",
+		"defname": "Apparel_BodyStrap"
+	},
+	{
+		"abr": "slavecollar",
+		"price": 94,
+		"category": "Headgear",
+		"defname": "Apparel_Collar"
+	},
+	{
+		"abr": "sleepaccelerator",
+		"price": 458,
+		"category": "Misc",
+		"defname": "SleepAccelerator"
+	},
+	{
+		"abr": "sleeptotem",
+		"price": 1,
+		"category": "Buildings",
+		"defname": "Cults_SleepTotem"
+	},
+	{
+		"abr": "slicecap",
+		"price": 62,
+		"category": "Headgear",
+		"defname": "Apparel_Slicecap"
+	},
+	{
+		"abr": "slickerhat",
+		"price": 113,
+		"category": "Headgear",
+		"defname": "ROM_Apparel_ROM_SlickerHat"
+	},
+	{
+		"abr": "specializedconcurrencyprocessor",
+		"price": 8758,
+		"category": "Buildings",
+		"defname": "GNSpecializedConcurrencyProcessor"
+	},
+	{
+		"abr": "specializedefficiencyprocessor",
+		"price": 8033,
+		"category": "Buildings",
+		"defname": "GNSpecializedEfficiencyProcessor"
+	},
+	{
+		"abr": "specializedoverdriveprocessor",
+		"price": 8033,
+		"category": "Buildings",
+		"defname": "GNSpecializedOverdriveProcessor"
+	},
+	{
+		"abr": "specializedoverheadprocessor",
+		"price": 8758,
+		"category": "Buildings",
+		"defname": "GNSpecializedOverheadProcessor"
+	},
+	{
+		"abr": "spikecorefloor-star(broad)",
+		"price": 483,
+		"category": "Furniture",
+		"defname": "SpikecoreFloorStar_Broad"
+	},
+	{
+		"abr": "spikecorefloor-star(medium)",
+		"price": 323,
+		"category": "Furniture",
+		"defname": "SpikecoreFloorStar_Medium"
+	},
+	{
+		"abr": "spikedskullcap",
+		"price": 153,
+		"category": "Headgear",
+		"defname": "VIEHAR_Apparel_SpikedSkullcap"
+	},
+	{
+		"abr": "stabilisedmucusinducer",
+		"price": 3400,
+		"category": "Misc",
+		"defname": "VFEA_StabilisedMucusInducer"
+	},
+	{
+		"abr": "stack",
+		"price": 833,
+		"category": "Inert relics",
+		"defname": "VIE_RelicInertStack"
+	},
+	{
+		"abr": "standingdarklamp",
+		"price": 65,
+		"category": "Furniture",
+		"defname": "Darklamp"
+	},
+	{
+		"abr": "starvampiremeat",
+		"price": 2,
+		"category": "Raw strange meat",
+		"defname": "ROM_RawCHFood_StarVampireMeat"
+	},
+	{
+		"abr": "star-spawnskin",
+		"price": 6,
+		"category": "Leathers",
+		"defname": "CH_Leather_Cthulhid"
+	},
+	{
+		"abr": "star-vampireleather",
+		"price": 8,
+		"category": "Leathers",
+		"defname": "CH_Leather_StarVampire"
+	},
+	{
+		"abr": "statuette",
+		"price": 833,
+		"category": "Inert relics",
+		"defname": "VIE_RelicInertStatuette"
+	},
+	{
+		"abr": "strangefinemeal",
+		"price": 47,
+		"category": "Meals",
+		"defname": "ROM_StrangeMealFine"
+	},
+	{
+		"abr": "strangekibble",
+		"price": 2,
+		"category": "Foods",
+		"defname": "ROM_StrangeKibble"
+	},
+	{
+		"abr": "strangelavishmeal",
+		"price": 67,
+		"category": "Meals",
+		"defname": "ROM_StrangeMealLavish"
+	},
+	{
+		"abr": "strangesimplemeal",
+		"price": 42,
+		"category": "Meals",
+		"defname": "ROM_StrangeMealSimple"
+	},
+	{
+		"abr": "strawhat",
+		"price": 95,
+		"category": "Headgear",
+		"defname": "ROM_Apparel_ROM_StrawHat"
+	},
+	{
+		"abr": "stylingstation",
+		"price": 375,
+		"category": "Furniture",
+		"defname": "StylingStation"
+	},
+	{
+		"abr": "super-nanitecentrifuge",
+		"price": 1233,
+		"category": "Misc",
+		"defname": "VFEA_SuperNaniteCentrifuge"
+	},
+	{
+		"abr": "super-nanitecontainment",
+		"price": 1192,
+		"category": "Misc",
+		"defname": "VFEA_SuperNaniteContainment"
+	},
+	{
+		"abr": "super-nanitedialyzer",
+		"price": 1600,
+		"category": "Misc",
+		"defname": "VFEA_SuperNaniteDialyzer"
+	},
+	{
+		"abr": "super-naniteinjectorpump",
+		"price": 933,
+		"category": "Misc",
+		"defname": "VFEA_SuperNaniteInjectorPump"
+	},
+	{
+		"abr": "super-nanites",
+		"price": 5667,
+		"category": "Items",
+		"defname": "VFEA_SuperNanites"
+	},
+	{
+		"abr": "table(reception)",
+		"price": 333,
+		"category": "Furniture",
+		"defname": "ROM_AgencyReceptionistTable"
+	},
+	{
+		"abr": "tablet",
+		"price": 833,
+		"category": "Inert relics",
+		"defname": "RelicInertTablet"
+	},
+	{
+		"abr": "tailcap",
+		"price": 75,
+		"category": "Headgear",
+		"defname": "Apparel_Tailcap"
+	},
+	{
+		"abr": "tech",
+		"price": 833,
+		"category": "Inert relics",
+		"defname": "VIE_RelicInertEngine"
+	},
+	{
+		"abr": "tentacle",
+		"price": 67,
+		"category": "Prosthetic",
+		"defname": "Cults_TentacleArm"
+	},
+	{
+		"abr": "terrorsculpture",
+		"price": 517,
+		"category": "Art",
+		"defname": "SculptureTerror"
+	},
+	{
+		"abr": "thekinginyellow",
+		"price": 33,
+		"category": "Utility",
+		"defname": "Cults_TheKingInYellow"
+	},
+	{
+		"abr": "tommygun",
+		"price": 467,
+		"category": "Ranged weapons",
+		"defname": "ROM_Gun_TommyGun"
+	},
+	{
+		"abr": "tools",
+		"price": 833,
+		"category": "Inert relics",
+		"defname": "VIE_RelicInertTools"
+	},
+	{
+		"abr": "tophat",
+		"price": 113,
+		"category": "Headgear",
+		"defname": "ROM_Apparel_CallOfCthulhuTopHat"
+	},
+	{
+		"abr": "torturecrown",
+		"price": 91,
+		"category": "Headgear",
+		"defname": "Apparel_TortureCrown"
+	},
+	{
+		"abr": "totemicslab(broad)",
+		"price": 508,
+		"category": "Furniture",
+		"defname": "TotemicSlab_Broad"
+	},
+	{
+		"abr": "totemicslab(medium)",
+		"price": 342,
+		"category": "Furniture",
+		"defname": "TotemicSlab_Medium"
+	},
+	{
+		"abr": "trenchcoat",
+		"price": 400,
+		"category": "Apparel",
+		"defname": "ROM_Apparel_CallOfCthulhutrench_coat"
+	},
+	{
+		"abr": "untouchablemeat",
+		"price": 2,
+		"category": "Raw strange meat",
+		"defname": "ROM_RawCHFood_Meat"
+	},
+	{
+		"abr": "visagemask",
+		"price": 62,
+		"category": "Headgear",
+		"defname": "Apparel_VisageMask"
+	},
+	{
+		"abr": "walllamp",
+		"price": 65,
+		"category": "Furniture",
+		"defname": "VFEA_WallLamp"
+	},
+	{
+		"abr": "walllamp",
+		"price": 65,
+		"category": "Furniture",
+		"defname": "VFEA_WallDarkLamp"
 	}
 	],
-	"total": 3673
+	"total": 4002
 }
