@@ -221,6 +221,11 @@
 		"karmatype": "Bad"
 	},
 	{
+		"abr": "militaryaid",
+		"price": 700,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "raid",
 		"price": 1500,
 		"karmatype": "Bad"
@@ -337,7 +342,7 @@
 	},
 	{
 		"abr": "healall",
-		"price": 9999,
+		"price": 5000,
 		"karmatype": "Good"
 	},
 	{
@@ -367,7 +372,7 @@
 	},
 	{
 		"abr": "rescueme",
-		"price": 800,
+		"price": 1200,
 		"karmatype": "Neutral"
 	},
 	{
@@ -591,5 +596,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 118
+	"total": 119
 }

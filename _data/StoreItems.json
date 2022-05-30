@@ -4334,7 +4334,7 @@
 	},
 	{
 		"abr": "corgi",
-		"price": 1083,
+		"price": 2000,
 		"category": "Animals",
 		"defname": "AEXP_Corgi"
 	},
@@ -7371,19 +7371,19 @@
 	{
 		"abr": "mutantarm",
 		"price": 167,
-		"category": "Natural",
+		"category": "Teratogenic parts",
 		"defname": "AA_MutantArm"
 	},
 	{
 		"abr": "mutanteye",
 		"price": 167,
-		"category": "Natural",
+		"category": "Teratogenic parts",
 		"defname": "AA_MutantEye"
 	},
 	{
 		"abr": "mutantleg",
 		"price": 167,
-		"category": "Natural",
+		"category": "Teratogenic parts",
 		"defname": "AA_MutantLeg"
 	},
 	{
@@ -16459,18 +16459,6 @@
 		"defname": "GethArm"
 	},
 	{
-		"abr": "gethcolossus",
-		"price": -10,
-		"category": "Animal",
-		"defname": "GethColossus"
-	},
-	{
-		"abr": "gethcolossusmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_GethColossus"
-	},
-	{
 		"abr": "gethcoolantconduit",
 		"price": 833,
 		"category": "Natural",
@@ -17366,7 +17354,7 @@
 	},
 	{
 		"abr": "tentacularfruit",
-		"price": -10,
+		"price": 1,
 		"category": "Vegetarian",
 		"defname": "AB_RawTentacularFruit"
 	},
@@ -19575,7 +19563,7 @@
 	{
 		"abr": "megapotion",
 		"price": 1667,
-		"category": "Items",
+		"category": "Drugs",
 		"defname": "MHPotion"
 	},
 	{
@@ -23969,7 +23957,781 @@
 		"price": 65,
 		"category": "Furniture",
 		"defname": "VFEA_WallDarkLamp"
-	}
+	},
+	{
+		"abr": "walllamp(blue)",
+		"price": 65,
+		"category": "Furniture",
+		"defname": "VFEA_WallLamp_Blue"
+	},
+	{
+		"abr": "walllamp(green)",
+		"price": 65,
+		"category": "Furniture",
+		"defname": "VFEA_WallLamp_Green"
+	},
+	{
+		"abr": "walllamp(red)",
+		"price": 65,
+		"category": "Furniture",
+		"defname": "VFEA_WallLamp_Red"
+	},
+	{
+		"abr": "webleyrevolver",
+		"price": 333,
+		"category": "Ranged weapons",
+		"defname": "ROM_Gun_Revolver"
+	},
+	{
+		"abr": "wickerman",
+		"price": 178,
+		"category": "Misc",
+		"defname": "VME_WickerMan"
+	},
+	{
+		"abr": "widehat",
+		"price": 126,
+		"category": "Headgear",
+		"defname": "VIEHAR_Apparel_WideHat"
+	},
+	{
+		"abr": "woodaxe",
+		"price": 239,
+		"category": "Melee weapons",
+		"defname": "ROM_WoodAxe"
+	},
+	{
+		"abr": "funguswort",
+		"price": 4,
+		"category": "Manufactured",
+		"defname": "FungusWort"
+	},
+	{
+		"abr": "rawshroomfiber",
+		"price": 6,
+		"category": "Textiles",
+		"defname": "shroomfiber_raw"
+	},
+	{
+		"abr": "refinedshroomfiber",
+		"price": 14,
+		"category": "Raw resources",
+		"defname": "shroomfiber_refined"
+	},
+	{
+		"abr": "nulberry",
+		"price": 17,
+		"category": "Vegetarian",
+		"defname": "Nullberry"
+	},
+	{
+		"abr": "advancedadvanced-firecontrolcomputer",
+		"price": 1900,
+		"category": "Vehicle modification kit",
+		"defname": "PLA_AdvancedFireControlComputer"
+	},
+	{
+		"abr": "advancedbed",
+		"price": 833,
+		"category": "Furniture",
+		"defname": "Bed_AdvBed"
+	},
+	{
+		"abr": "advancedchair",
+		"price": 1267,
+		"category": "Furniture",
+		"defname": "Seat_AdvChair"
+	},
+	{
+		"abr": "advancedchargelance",
+		"price": 358,
+		"category": "Ranged weapons",
+		"defname": "VFE_Gun_AdvancedChargeLance"
+	},
+	{
+		"abr": "advanceddoublebed",
+		"price": 1483,
+		"category": "Furniture",
+		"defname": "Bed_AdvDoubleBed"
+	},
+	{
+		"abr": "advancedheavychargeblaster",
+		"price": 2333,
+		"category": "Ranged weapons",
+		"defname": "VFE_Gun_AdvancedChargeBlasterHeavy"
+	},
+	{
+		"abr": "advancedlightchargeblaster",
+		"price": 1667,
+		"category": "Ranged weapons",
+		"defname": "VFE_Gun_AdvancedChargeBlasterLight"
+	},
+	{
+		"abr": "advancedneedlegun",
+		"price": 2333,
+		"category": "Ranged weapons",
+		"defname": "VFE_Gun_AdvancedNeedle"
+	},
+	{
+		"abr": "advancedthumpcannon",
+		"price": 3000,
+		"category": "Ranged weapons",
+		"defname": "VFE_Gun_AdvancedThumpCannon"
+	},
+	{
+		"abr": "almonds",
+		"price": 2,
+		"category": "Raw fruits",
+		"defname": "VCE_RawAlmonds"
+	},
+	{
+		"abr": "anti-materialmachinegun",
+		"price": 1250,
+		"category": "Ranged weapons",
+		"defname": "ST_AnitMaterialMachineGun"
+	},
+	{
+		"abr": "anti-tankmissilelauncher",
+		"price": 1667,
+		"category": "Ranged weapons",
+		"defname": "ST_AntiTankMissleLauncher"
+	},
+	{
+		"abr": "avocados",
+		"price": 2,
+		"category": "Raw fruits",
+		"defname": "VCE_RawAvocado"
+	},
+	{
+		"abr": "barbedstrangler",
+		"price": 667,
+		"category": "Tyranid Ranged Weapons",
+		"defname": "OGTY_Gun_BarbedStrangler"
+	},
+	{
+		"abr": "biolabsunlamp",
+		"price": 1442,
+		"category": "Furniture",
+		"defname": "Spacer_SunLamp"
+	},
+	{
+		"abr": "blueberries",
+		"price": 2,
+		"category": "Raw fruits",
+		"defname": "VCE_RawBlueberries"
+	},
+	{
+		"abr": "brusselssprouts",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "VCE_RawBrusselsSprouts"
+	},
+	{
+		"abr": "buckwheat",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "VCE_RawBuckwheat"
+	},
+	{
+		"abr": "butternutsquashes",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "VCE_RawButternutSquash"
+	},
+	{
+		"abr": "canolaflowers",
+		"price": 3,
+		"category": "Plant matter",
+		"defname": "VCE_RawCanola"
+	},
+	{
+		"abr": "carrots",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "VCE_RawCarrot"
+	},
+	{
+		"abr": "cassavas",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "VCE_RawCassava"
+	},
+	{
+		"abr": "cavemoss",
+		"price": 1,
+		"category": "Foods",
+		"defname": "VCE_RawMoss"
+	},
+	{
+		"abr": "celery",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "VCE_RawCelery"
+	},
+	{
+		"abr": "chickpeas",
+		"price": -10,
+		"category": "Vegetarian",
+		"defname": "VCE_RawChickpeas"
+	},
+	{
+		"abr": "coconuts",
+		"price": 2,
+		"category": "Raw fruits",
+		"defname": "VCE_RawCoconut"
+	},
+	{
+		"abr": "compositearmor",
+		"price": 2208,
+		"category": "Vehicle modification kit",
+		"defname": "PLA_CompositeArmor"
+	},
+	{
+		"abr": "cryogenicgun",
+		"price": 2333,
+		"category": "Ranged weapons",
+		"defname": "AA_CryogenicGun"
+	},
+	{
+		"abr": "csz-181off-road",
+		"price": 266667,
+		"category": "Animal",
+		"defname": "PLA_CSZ181OffRoad"
+	},
+	{
+		"abr": "cucumbers",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "VCE_RawCucumber"
+	},
+	{
+		"abr": "darkilluminateddresser",
+		"price": 367,
+		"category": "Furniture",
+		"defname": "Table_DarkIlluminatedDresser"
+	},
+	{
+		"abr": "darkilluminatedendtable",
+		"price": 286,
+		"category": "Furniture",
+		"defname": "Table_DarkIlluminatedEndTable"
+	},
+	{
+		"abr": "demolishercharges",
+		"price": 2333,
+		"category": "Ranged weapons",
+		"defname": "AA_DemolisherCharges"
+	},
+	{
+		"abr": "devourer",
+		"price": 667,
+		"category": "Tyranid Ranged Weapons",
+		"defname": "OGTY_Gun_Devourer"
+	},
+	{
+		"abr": "dualspinefist",
+		"price": 667,
+		"category": "Tyranid Ranged Weapons",
+		"defname": "OGTY_Gun_SpinefistDual"
+	},
+	{
+		"abr": "flamethrower",
+		"price": 2333,
+		"category": "Ranged weapons",
+		"defname": "AA_Flamethrower"
+	},
+	{
+		"abr": "fleshborer",
+		"price": 667,
+		"category": "Tyranid Ranged Weapons",
+		"defname": "OGTY_Gun_Fleshborer"
+	},
+	{
+		"abr": "garliccloves",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "VCE_RawGarlic"
+	},
+	{
+		"abr": "greenbeans",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "VCE_RawBeans"
+	},
+	{
+		"abr": "heavychargeblaster",
+		"price": 2333,
+		"category": "Ranged weapons",
+		"defname": "Gun_ChargeBlasterHeavy"
+	},
+	{
+		"abr": "heavymassaccelerator",
+		"price": 3667,
+		"category": "Ranged weapons",
+		"defname": "RE_YMIRMassAccelerator"
+	},
+	{
+		"abr": "fleshcraftedfoot",
+		"price": 75,
+		"category": "Natural",
+		"defname": "VME_FleshcraftedFoot"
+	},
+	{
+		"abr": "illuminateddresser",
+		"price": 367,
+		"category": "Furniture",
+		"defname": "Table_IlluminatedDresser"
+	},
+	{
+		"abr": "illuminatedendtable",
+		"price": 286,
+		"category": "Furniture",
+		"defname": "Table_IlluminatedEndTable"
+	},
+	{
+		"abr": "impalercannon",
+		"price": 667,
+		"category": "Tyranid Ranged Weapons",
+		"defname": "OGTY_Gun_ImpalerCannon"
+	},
+	{
+		"abr": "infernocannon",
+		"price": 2333,
+		"category": "Ranged weapons",
+		"defname": "Gun_InfernoCannon"
+	},
+	{
+		"abr": "interactivetable(1x1)",
+		"price": 500,
+		"category": "Furniture",
+		"defname": "Table_interactive_1x1c"
+	},
+	{
+		"abr": "interactivetable(2x2)",
+		"price": 925,
+		"category": "Furniture",
+		"defname": "Table_interactive_2x2c"
+	},
+	{
+		"abr": "lettuce",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "VCE_RawLettuce"
+	},
+	{
+		"abr": "lightchargeblaster",
+		"price": 1667,
+		"category": "Ranged weapons",
+		"defname": "VFE_Gun_ChargeBlasterLight"
+	},
+	{
+		"abr": "lotusseeds",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "VCE_RawLotus"
+	},
+	{
+		"abr": "lynx6x6all-terrainvehicle",
+		"price": 83333,
+		"category": "Animal",
+		"defname": "PLA_Lynx6x6UltraLight"
+	},
+	{
+		"abr": "mangoes",
+		"price": 2,
+		"category": "Raw fruits",
+		"defname": "VCE_Mangoes"
+	},
+	{
+		"abr": "melons",
+		"price": 2,
+		"category": "Raw fruits",
+		"defname": "VCE_RawMelon"
+	},
+	{
+		"abr": "needlegun",
+		"price": 2333,
+		"category": "Ranged weapons",
+		"defname": "Gun_Needle"
+	},
+	{
+		"abr": "oats",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "VCE_RawOats"
+	},
+	{
+		"abr": "okra",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "VCE_RawOkra"
+	},
+	{
+		"abr": "olives",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "VCE_RawOlives"
+	},
+	{
+		"abr": "outdoorsolardarklamp",
+		"price": 184,
+		"category": "Furniture",
+		"defname": "Spacer_OutdoorDarkLamp"
+	},
+	{
+		"abr": "outdoorsolarlamp",
+		"price": 184,
+		"category": "Furniture",
+		"defname": "Spacer_OutdoorLamp"
+	},
+	{
+		"abr": "peanuts",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "VCE_RawPeanut"
+	},
+	{
+		"abr": "pineapples",
+		"price": 7,
+		"category": "Raw fruits",
+		"defname": "VCE_RawPineapple"
+	},
+	{
+		"abr": "potion",
+		"price": 417,
+		"category": "Drugs",
+		"defname": "MHBasicPotion"
+	},
+	{
+		"abr": "radishes",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "VCE_RawRadish"
+	},
+	{
+		"abr": "redbellpeppers",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "VCE_RawBellPeppers"
+	},
+	{
+		"abr": "rendingclaws",
+		"price": 500,
+		"category": "Chaos Melee Weapons",
+		"defname": "OGTY_Melee_Genestealer_RC"
+	},
+	{
+		"abr": "repairshelf",
+		"price": 2908,
+		"category": "Furniture",
+		"defname": "Shelf_RepairRack"
+	},
+	{
+		"abr": "scythingtalons",
+		"price": 500,
+		"category": "Chaos Melee Weapons",
+		"defname": "OGTY_Melee_Hormagaunt_ST"
+	},
+	{
+		"abr": "scythingtalons",
+		"price": 500,
+		"category": "Chaos Melee Weapons",
+		"defname": "OGTY_Melee_Ravener_ST"
+	},
+	{
+		"abr": "scythingtalons",
+		"price": 500,
+		"category": "Chaos Melee Weapons",
+		"defname": "OGTY_Melee_Lictor_ST"
+	},
+	{
+		"abr": "scythingtalonscrushingclaws",
+		"price": 500,
+		"category": "Chaos Melee Weapons",
+		"defname": "OGTY_Melee_Carnifex_STCC"
+	},
+	{
+		"abr": "siegeturret",
+		"price": 2333,
+		"category": "Ranged weapons",
+		"defname": "AA_SiegeTurret"
+	},
+	{
+		"abr": "spacerdarklamp",
+		"price": 184,
+		"category": "Furniture",
+		"defname": "Light_SpacerDarkLamp"
+	},
+	{
+		"abr": "spacerlamp",
+		"price": 184,
+		"category": "Furniture",
+		"defname": "Light_SpacerLamp"
+	},
+	{
+		"abr": "spinefist",
+		"price": 333,
+		"category": "Tyranid Ranged Weapons",
+		"defname": "OGTY_Gun_Spinefist"
+	},
+	{
+		"abr": "sunflowerseeds",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "VCE_RawSunflower"
+	},
+	{
+		"abr": "sweetpotatoes",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "VCE_RawSweetPotatoes"
+	},
+	{
+		"abr": "taroroots",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "VCE_RawTaro"
+	},
+	{
+		"abr": "thumpcannon",
+		"price": 2333,
+		"category": "Ranged weapons",
+		"defname": "Gun_ThumpCannon"
+	},
+	{
+		"abr": "ultrascreentelevision",
+		"price": 4100,
+		"category": "Recreation",
+		"defname": "UltrascreenTV"
+	},
+	{
+		"abr": "vegetablemilkextractor",
+		"price": 296,
+		"category": "Production",
+		"defname": "VCE_VegMilkExtractor"
+	},
+	{
+		"abr": "vehiclemodificationkit-105mmcannon",
+		"price": 2283,
+		"category": "Vehicle modification kit",
+		"defname": "PLA_VehicleWeapon105mmCannon"
+	},
+	{
+		"abr": "vehiclemodificationkit-107mmrocketlauncher",
+		"price": 1842,
+		"category": "Vehicle modification kit",
+		"defname": "PLA_VehicleWeapon107mmRocketLauncher"
+	},
+	{
+		"abr": "vehiclemodificationkit-23mmautocannon",
+		"price": 1367,
+		"category": "Vehicle modification kit",
+		"defname": "PLA_VehicleWeapon23mmAutocannon"
+	},
+	{
+		"abr": "vehiclemodificationkit-30mmautocannon",
+		"price": 2000,
+		"category": "Vehicle modification kit",
+		"defname": "PLA_VehicleWeapon30mmAutocannon"
+	},
+	{
+		"abr": "vehiclemodificationkit-40mmautoctcannon",
+		"price": 2283,
+		"category": "Vehicle modification kit",
+		"defname": "PLA_VehicleWeapon40mmAutoCannon"
+	},
+	{
+		"abr": "vehiclemodificationkit-40mmctcannon",
+		"price": 1650,
+		"category": "Vehicle modification kit",
+		"defname": "PLA_VehicleWeapon40mmCannon"
+	},
+	{
+		"abr": "vehiclemodificationkit-type89hmg",
+		"price": 1367,
+		"category": "Vehicle modification kit",
+		"defname": "PLA_VehicleWeapon89HMG"
+	},
+	{
+		"abr": "vehiclemodificationkit-type-04grenadelauncher",
+		"price": 1367,
+		"category": "Vehicle modification kit",
+		"defname": "PLA_VehicleWeapon04GL"
+	},
+	{
+		"abr": "venomcannon",
+		"price": 667,
+		"category": "Tyranid Ranged Weapons",
+		"defname": "OGTY_Gun_VenomCannon"
+	},
+	{
+		"abr": "vp-22truck",
+		"price": 400000,
+		"category": "Animal",
+		"defname": "PLA_VP22Truck"
+	},
+	{
+		"abr": "waterchestnuts",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "VCE_RawWaterChestnut"
+	},
+	{
+		"abr": "watercressleaves",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "VCE_RawWatercress"
+	},
+	{
+		"abr": "yellowbellpeppers",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "VCE_RawYellowBellPeppers"
+	},
+	{
+		"abr": "ztl-11infantryfightingvehicle",
+		"price": 416667,
+		"category": "Animal",
+		"defname": "PLA_ZTL11IFV"
+	},
+	{
+		"abr": "ztz-99amainbattletank",
+		"price": 666667,
+		"category": "Animal",
+		"defname": "PLA_ZTZ99ATank"
+	},
+	{
+		"abr": "interfacepod",
+		"price": 155,
+		"category": "Furniture",
+		"defname": "GethPod"
+	},
+	{
+		"abr": "mini-blaster",
+		"price": 500,
+		"category": "Ranged weapons",
+		"defname": "VFEPGun_MiniBlaster"
+	},
+	{
+		"abr": "warcasketchargeblaster",
+		"price": 3667,
+		"category": "Misc",
+		"defname": "VFEP_Box_ChargeBlaster"
+	},
+	{
+		"abr": "warcasketchargeblaster",
+		"price": 3667,
+		"category": "Ranged weapons",
+		"defname": "VFEP_WarcasketGun_ChargeBlaster"
+	},
+	{
+		"abr": "warcasketchargelance",
+		"price": 3750,
+		"category": "Misc",
+		"defname": "VFEP_Box_ChargeLance"
+	},
+	{
+		"abr": "warcasketchargelance",
+		"price": 3750,
+		"category": "Ranged weapons",
+		"defname": "VFEP_WarcasketGun_ChargeLance"
+	},
+	{
+		"abr": "warcasketcryptocannon",
+		"price": 6000,
+		"category": "Ranged weapons",
+		"defname": "VFEP_WarcasketGun_CryptoCannon"
+	},
+	{
+		"abr": "warcasketfoldinggun",
+		"price": 2750,
+		"category": "Ranged weapons",
+		"defname": "VFEP_WarcasketGun_FoldingGun"
+	},
+	{
+		"abr": "warcasketfoldinggun",
+		"price": 2750,
+		"category": "Misc",
+		"defname": "VFEP_Box_FoldingGun"
+	},
+	{
+		"abr": "warcasketgravityhammer",
+		"price": 5000,
+		"category": "Misc",
+		"defname": "VFEP_Box_GravityHammer"
+	},
+	{
+		"abr": "warcasketgravityhammer",
+		"price": 5000,
+		"category": "Melee weapons",
+		"defname": "VFEP_WarcasketMeleeWeapon_GravityHammer"
+	},
+	{
+		"abr": "warcaskethandheldcannon",
+		"price": 2250,
+		"category": "Misc",
+		"defname": "VFEP_Box_HandheldCannon"
+	},
+	{
+		"abr": "warcaskethandheldcannon",
+		"price": 2250,
+		"category": "Ranged weapons",
+		"defname": "VFEP_WarcasketGun_HandheldCannon"
+	},
+	{
+		"abr": "warcasketlaserblaster",
+		"price": 5333,
+		"category": "Ranged weapons",
+		"defname": "VFEP_WarcasketGun_LaserBlaster"
+	},
+	{
+		"abr": "warcasketlaserbolter",
+		"price": 5333,
+		"category": "Misc",
+		"defname": "VFEP_Box_WarcasketLaserBolter"
+	},
+	{
+		"abr": "warcasketplasmasword",
+		"price": 6000,
+		"category": "Melee weapons",
+		"defname": "VFEP_WarcasketMeleeWeapon_PlasmaSword"
+	},
+	{
+		"abr": "warcasketrailgun",
+		"price": 5333,
+		"category": "Ranged weapons",
+		"defname": "VFEP_WarcasketGun_Railgun"
+	},
+	{
+		"abr": "warcasketrailgun",
+		"price": 5333,
+		"category": "Misc",
+		"defname": "VFEP_Box_Railgun"
+	},
+	{
+		"abr": "warcasketsalvagedlasereradicator",
+		"price": 6833,
+		"category": "Ranged weapons",
+		"defname": "VFEP_WarcasketGun_SalvagedLaserEradicator"
+	},
+	{
+		"abr": "warcasketsalvagedlasereradicator",
+		"price": 6833,
+		"category": "Misc",
+		"defname": "VFEP_Box_SalvagedLaserEradicator"
+	},
+	{
+		"abr": "warcasketteargasgrenadelauncher",
+		"price": 2750,
+		"category": "Ranged weapons",
+		"defname": "VFEP_WarcasketGun_TearGasGrenadeLauncher"
+	},
+	{
+		"abr": "warcasketteargasgrenadelauncher",
+		"price": 2750,
+		"category": "Misc",
+		"defname": "VFEP_Box_TearGasGrenadeLauncher"
+	},
 	],
-	"total": 4002
+	"total": 4142
 }
