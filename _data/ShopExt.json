@@ -23885,12 +23885,12 @@
         ],
         "mod": "Unknown",
         "karmaType": null,
-        "customName": false
+        "customName": true
       },
       "description": "A human, modified by gene engineering and designed evolutionary pressures.",
       "defName": "AstarteSpaceMarine",
       "enabled": true,
-      "name": "Astarte Space Marine (HAR)",
+      "name": "astarte",
       "price": 29167
     },
     {
